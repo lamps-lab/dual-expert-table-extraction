@@ -1,0 +1,1027 @@
+dataset,group,table_id,gt_text,vision_text,text_text,winner,vt_diff,vision_vs_gt,text_vs_gt
+SciTSR,test,test::0006012v1.14,parent,,parent,text,missing cell,missing cell,correct
+SciTSR,test,test::0006012v1.14,label,,label,text,missing cell,missing cell,correct
+SciTSR,test,test::0107006v1.3,answer type,,answer type,text,empty content,empty content,correct
+SciTSR,test,test::0107006v1.3,,answer type,,text,empty content,empty content,correct
+SciTSR,test,test::0107006v1.3,defaultnp,defaultnp,defaultrap,vision,other semantic,correct,other semantic
+SciTSR,test,test::0107006v1.3,ambigbig,ambigbig,ambighig,vision,other semantic,correct,other semantic
+SciTSR,test,test::0206015v1.5,retrieval method,retrieval method,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0206015v1.5,,,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0206015v1.5,,,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0206015v1.5,,,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0207028v1.2,nf,n_f,nf,text,symbolic,symbolic,correct
+SciTSR,test,test::0207028v1.2,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::0207028v1.2,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::0207028v1.2,nc,n_c,nc,text,symbolic,symbolic,correct
+SciTSR,test,test::0312006v1.4,256 × 256,256 x 256,256 × 256,text,symbolic,symbolic,correct
+SciTSR,test,test::0312006v1.4,512 × 512,512 x 512,512 × 512,text,symbolic,symbolic,correct
+SciTSR,test,test::0312006v1.4,64 × 64,64 x 64,64 × 64,text,symbolic,symbolic,correct
+SciTSR,test,test::0312006v1.4,128 × 128,128 x 128,128 × 128,text,symbolic,symbolic,correct
+SciTSR,test,test::0312006v1.4,lattice size (not necessary power of 2),lattice size (not necessary power of 2),,vision,missing cell,correct,missing cell
+SciTSR,test,test::0312006v1.4,1024 × 1024,1024 x 1024,1024 × 1024,text,symbolic,symbolic,correct
+SciTSR,test,test::0312055v1.5,lavg,,lavg,text,missing cell,missing cell,correct
+SciTSR,test,test::0312055v1.5,,,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0312055v1.5,pavg,,pavg,text,missing cell,missing cell,correct
+SciTSR,test,test::0312055v1.5,nrnd,,nrnd,text,missing cell,missing cell,correct
+SciTSR,test,test::0312055v1.5,n,,n,text,missing cell,missing cell,correct
+SciTSR,test,test::0312055v1.5,,,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0312055v1.5,,,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0312055v1.5,[ln n],,[ln n],text,missing cell,missing cell,correct
+SciTSR,test,test::0312055v1.5,[n],,[n],text,missing cell,missing cell,correct
+SciTSR,test,test::0312055v1.5,,,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0312055v1.5,,,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0312055v1.5,,,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0312055v1.5,,,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0312055v1.5,,,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0312055v1.5,,,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0312055v1.5,,,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0312055v1.5,,,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0312055v1.5,,,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0312055v1.5,,,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0312055v1.5,,,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0312055v1.5,,,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0312055v1.5,sequence,,sequence,text,missing cell,missing cell,correct
+SciTSR,test,test::0312055v1.5,,,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0312055v1.5,size,,size,text,missing cell,missing cell,correct
+SciTSR,test,test::0312055v1.5,,,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0312055v1.5,,,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0312055v1.5,,,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0312055v1.5,,,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0312055v1.5,,,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0407040v1.2,instance,,instance,text,missing cell,missing cell,correct
+SciTSR,test,test::0407040v1.2,lds,,lds,text,missing cell,missing cell,correct
+SciTSR,test,test::0407040v1.2,dbs,,dbs,text,missing cell,missing cell,correct
+SciTSR,test,test::0407040v1.2,,instance,,text,empty content,empty content,correct
+SciTSR,test,test::0407044v1.2,ratio=0.05,ratio=0.05,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0407044v1.2,ratio=0.025,ratio=0.025,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0407044v1.2,ratio=0.075,ratio=0.075,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0407044v1.2,ratio=0.1,ratio=0.1,ratio=0.05,vision,numeric value,correct,numeric value
+SciTSR,test,test::0511091v1.3,rfv,rfv,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0511091v1.3,rfv + apriori knowledge,rfv + apriori knowledge,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0706.0585v1.8,wss-wr,wss-wr,wss- wr,vision,symbolic,correct,symbolic
+SciTSR,test,test::0709.2961v1.1,-x - y ≤ d,,-x - y ≤ d,text,missing cell,missing cell,correct
+SciTSR,test,test::0709.2961v1.1,x + y ≤ d,,x + y ≤ d,text,missing cell,missing cell,correct
+SciTSR,test,test::0709.2961v1.1,-x ≤ d,,-x ≤ d,text,missing cell,missing cell,correct
+SciTSR,test,test::0709.2961v1.1,x - y ≤ d,,x - y ≤ d,text,missing cell,missing cell,correct
+SciTSR,test,test::0709.2961v1.1,x ≤ d,,x ≤ d,text,missing cell,missing cell,correct
+SciTSR,test,test::0710.2156v3.2,dimensions,dimensions,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0710.2156v3.2,measures,measures,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0801.2398v2.2,n,,n,text,missing cell,missing cell,correct
+SciTSR,test,test::0801.2398v2.2,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::0801.2398v2.4,n,,n,text,missing cell,missing cell,correct
+SciTSR,test,test::0802.0550v1.3,1.844,2.267,1.844,text,numeric value,numeric value,correct
+SciTSR,test,test::0802.0550v1.3,1.961,,1.961,text,missing cell,missing cell,correct
+SciTSR,test,test::0802.0550v1.3,2.566,2.762,2.566,text,numeric value,numeric value,correct
+SciTSR,test,test::0802.0550v1.3,3.043,2.486,3.043,text,numeric value,numeric value,correct
+SciTSR,test,test::0802.0550v1.3,1.843,2.047,1.843,text,numeric value,numeric value,correct
+SciTSR,test,test::0802.0550v1.3,2.086,2.046,2.086,text,numeric value,numeric value,correct
+SciTSR,test,test::0802.0550v1.3,number,number of nodes,number,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::0802.0550v1.3,"4,700",,"4,700",text,missing cell,missing cell,correct
+SciTSR,test,test::0802.0550v1.3,neighborhood,neighborhood density,neighborhood,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::0802.0550v1.3,,τ,,text,empty content,empty content,correct
+SciTSR,test,test::0802.0550v1.3,,σ,,text,empty content,empty content,correct
+SciTSR,test,test::0802.0550v1.3,2.762,2.461,2.762,text,numeric value,numeric value,correct
+SciTSR,test,test::0802.0550v1.3,,τ,,text,empty content,empty content,correct
+SciTSR,test,test::0802.0550v1.3,,σ,,text,empty content,empty content,correct
+SciTSR,test,test::0802.0550v1.3,50,,50,text,missing cell,missing cell,correct
+SciTSR,test,test::0802.0550v1.3,of nodes,"1,000",of nodes,text,other semantic,other semantic,correct
+SciTSR,test,test::0802.0550v1.3,density,10,density,text,other semantic,other semantic,correct
+SciTSR,test,test::0802.0550v1.3,τ,3.146,τ,text,other semantic,other semantic,correct
+SciTSR,test,test::0802.0550v1.3,30,50,30,text,numeric value,numeric value,correct
+SciTSR,test,test::0802.0550v1.3,2.057,2.114,2.057,text,numeric value,numeric value,correct
+SciTSR,test,test::0802.0550v1.3,"2,800","4,700","2,800",text,numeric value,numeric value,correct
+SciTSR,test,test::0802.0550v1.3,2.114,,2.114,text,missing cell,missing cell,correct
+SciTSR,test,test::0802.0550v1.3,"1,900","2,800","1,900",text,numeric value,numeric value,correct
+SciTSR,test,test::0802.0550v1.3,20,30,20,text,numeric value,numeric value,correct
+SciTSR,test,test::0802.0550v1.3,3.408,3.043,3.408,text,numeric value,numeric value,correct
+SciTSR,test,test::0802.0550v1.3,2.267,2.086,2.267,text,numeric value,numeric value,correct
+SciTSR,test,test::0802.0550v1.3,sand,sand,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0802.0550v1.3,w/o-sand,w/o-sand,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0802.0550v1.3,,,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0802.0550v1.3,2.486,,2.486,text,missing cell,missing cell,correct
+SciTSR,test,test::0802.0550v1.3,σ,1.844,σ,text,other semantic,other semantic,correct
+SciTSR,test,test::0802.0550v1.3,τ,2.566,τ,text,other semantic,other semantic,correct
+SciTSR,test,test::0802.0550v1.3,σ,1.843,σ,text,other semantic,other semantic,correct
+SciTSR,test,test::0802.0550v1.3,2.461,1.961,2.461,text,numeric value,numeric value,correct
+SciTSR,test,test::0802.0550v1.3,"1,000","1,900","1,000",text,numeric value,numeric value,correct
+SciTSR,test,test::0802.0550v1.3,2.047,2.057,2.047,text,numeric value,numeric value,correct
+SciTSR,test,test::0802.0550v1.3,10,20,10,text,numeric value,numeric value,correct
+SciTSR,test,test::0802.0550v1.3,2.046,,2.046,text,missing cell,missing cell,correct
+SciTSR,test,test::0802.0550v1.3,3.146,3.408,3.146,text,numeric value,numeric value,correct
+SciTSR,test,test::0807.4368v1.1,4,,4,text,missing cell,missing cell,correct
+SciTSR,test,test::0807.4368v1.1,sequence b,,sequence b,text,missing cell,missing cell,correct
+SciTSR,test,test::0812.4446v1.14,average accuracy,,average accuracy,text,missing cell,missing cell,correct
+SciTSR,test,test::0812.4446v1.14,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::0902.3176v4.1,logistic regression,,logistic regression,text,missing cell,missing cell,correct
+SciTSR,test,test::0902.3176v4.1,j48,,j48,text,missing cell,missing cell,correct
+SciTSR,test,test::0902.3176v4.1,,dataset(k),,text,empty content,empty content,correct
+SciTSR,test,test::0902.3176v4.1,dataset(k),,dataset(k),text,missing cell,missing cell,correct
+SciTSR,test,test::0903.0471v1.1,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::0903.0471v1.1,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::0903.0471v1.1,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::0905.0586v1.3,length,,length,text,missing cell,missing cell,correct
+SciTSR,test,test::0905.0586v1.3,4 nodes without com. time,,4 nodes without com. time,text,missing cell,missing cell,correct
+SciTSR,test,test::0905.0586v1.3,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::0905.0792v1.2,memory,memory,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0905.0792v1.2,l3,l3,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0907.2268v2.2,top,top,undis,vision,other semantic,correct,other semantic
+SciTSR,test,test::0907.2268v2.2,msn live,msn live,msn liv,vision,truncation / merge,correct,truncation / merge
+SciTSR,test,test::0907.2268v2.2,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::0907.2268v2.2,top100,top100,top10,vision,truncation / merge,correct,truncation / merge
+SciTSR,test,test::0907.2268v2.2,top10,top10,top,vision,truncation / merge,correct,truncation / merge
+SciTSR,test,test::0907.2268v2.2,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::0907.2268v2.2,undis,undis,top100,vision,other semantic,correct,other semantic
+SciTSR,test,test::0907.2990v1.2,0.4,0.6,0.4,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,0.6,0.8,0.6,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,1.0,0.2,1.0,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,0.2,0.4,0.2,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,0.2,0.4,0.2,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,0.8,1.0,0.8,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,0.4,0.6,0.4,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,0.2,0.4,0.2,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,1.0,0.2,1.0,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,0.8,1.0,0.8,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,0.6,0.8,0.6,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,0.4,0.6,0.4,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,9,6,9,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,12,15,12,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,11,9,11,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,15,6,15,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,0.4,11,0.4,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,6,5,6,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,5,2,5,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,12,,12,text,missing cell,missing cell,correct
+SciTSR,test,test::0907.2990v1.2,2,6,2,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,2,12,2,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::0907.2990v1.2,6,13,6,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,0,2,0,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,13,0,13,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,0,1,0,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,13,0,13,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,1,7,1,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,7,13,7,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,7,,7,text,missing cell,missing cell,correct
+SciTSR,test,test::0907.2990v1.2,3,7,3,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,6,3,6,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,1.0,15,1.0,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,15,8,15,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,12,0,12,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,8,5,8,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,9,12,9,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,5,8,5,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,3,9,3,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,8,11,8,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,4,3,4,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,11,15,11,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,15,11,15,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,15,4,15,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,11,3,11,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,11,15,11,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,3,1,3,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,9,11,9,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,1,6,1,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,3,9,3,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,6,13,6,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,6,3,6,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,13,4,13,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,15,6,15,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,4,0,4,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,0.6,15,0.6,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,0,1,0,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,1,4,1,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,9,,9,text,missing cell,missing cell,correct
+SciTSR,test,test::0907.2990v1.2,4,,4,text,missing cell,missing cell,correct
+SciTSR,test,test::0907.2990v1.2,4,9,4,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,0,4,0,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,3,0,3,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,9,3,9,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,6,9,6,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,8,6,8,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,12,8,12,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,15,12,15,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,11,15,11,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,6,11,6,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,5,6,5,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,15,5,15,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::0907.2990v1.2,10,15,10,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,7,10,7,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,13,7,13,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,11,13,11,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,0.2,11,0.2,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,rdd:,rdd: 0.2,rdd:,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::0907.2990v1.2,1.0,,1.0,text,missing cell,missing cell,correct
+SciTSR,test,test::0907.2990v1.2,0.8,1.0,0.8,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,0.6,0.8,0.6,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,0,5,0,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,5,6,5,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,6,,6,text,missing cell,missing cell,correct
+SciTSR,test,test::0907.2990v1.2,0.8,15,0.8,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,15,4,15,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,4,7,4,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.2990v1.2,7,12,7,text,numeric value,numeric value,correct
+SciTSR,test,test::0907.3177v1.1,approximate entropy (m = 10),approximate entropy (m = 10),approximate entropy (m=10),vision,symbolic,correct,symbolic
+SciTSR,test,test::0907.3177v1.1,serial (m = 16),serial (m = 16),serial (m=16),vision,symbolic,correct,symbolic
+SciTSR,test,test::0907.3177v1.1,block frequency (m = 100),block frequency (m = 100),block frequency (m=100),vision,symbolic,correct,symbolic
+SciTSR,test,test::0907.3177v1.1,name of test,,name of test,text,missing cell,missing cell,correct
+SciTSR,test,test::0907.3177v1.1,"non-overlapping template (m = 9, b = 110001000)","non-overlapping template (m = 9, b = 110001000)","non-overlapping template (m=9, b=110001000)",vision,symbolic,correct,symbolic
+SciTSR,test,test::0908.1528v2.1,time-dependent,time-dependent,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0908.1528v2.1,nodes,nodes,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0908.1528v2.1,edges,edges,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0908.3280v2.1,similarity,similarity,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0908.3280v2.1,pr,pr.,pr,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::0908.3280v2.1,#iterations,#iterations,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0908.3280v2.1,cos θ,cos θ,cosθ,vision,symbolic,correct,symbolic
+SciTSR,test,test::0910.1244v1.4,instance,,instance,text,missing cell,missing cell,correct
+SciTSR,test,test::0910.1244v1.4,,instance,,text,empty content,empty content,correct
+SciTSR,test,test::0911.4416v1.5,proposed contextual methods,proposed contextual methods,,vision,missing cell,correct,missing cell
+SciTSR,test,test::0911.4416v1.5,fuzzy,,fuzzy,text,missing cell,missing cell,correct
+SciTSR,test,test::0911.4416v1.5,method,,method,text,missing cell,missing cell,correct
+SciTSR,test,test::0911.4416v1.5,mrf,,mrf,text,missing cell,missing cell,correct
+SciTSR,test,test::0911.4416v1.5,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::0911.4416v1.5,rulebase,,rulebase,text,missing cell,missing cell,correct
+SciTSR,test,test::0912.4571v2.3,alm,,alm,text,missing cell,missing cell,correct
+SciTSR,test,test::0912.4571v2.3,exact adm,inexact adm,exact adm,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::0912.4571v2.3,inexact adm,alm,inexact adm,text,other semantic,other semantic,correct
+SciTSR,test,test::1003.0628v1.3,h = i,h = i,h=i,vision,symbolic,correct,symbolic
+SciTSR,test,test::1003.0628v1.3,h = i,h = i,h=i,vision,symbolic,correct,symbolic
+SciTSR,test,test::1309.7393v1.9,,,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1309.7393v1.9,christos faloutsos,christos faloutsos,christes faloutsos,vision,other semantic,correct,other semantic
+SciTSR,test,test::1309.7393v1.9,kenji yamanishi,kenji yamanishi,kenji yarnanishi,vision,other semantic,correct,other semantic
+SciTSR,test,test::1309.7393v1.9,cvpapa,cvpapa,cvpa,vision,truncation / merge,correct,truncation / merge
+SciTSR,test,test::1309.7393v1.9,kenji yamanishi,kenji yamanishi,kenji yarnanishi,vision,other semantic,correct,other semantic
+SciTSR,test,test::1309.7393v1.9,eamonn keogh,eamonn keogh,eamon kesogh,vision,other semantic,correct,other semantic
+SciTSR,test,test::1309.7393v1.9,rank,rank,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1309.7393v1.9,padhraic smyth,padhraic smyth,bachraic smyth,vision,other semantic,correct,other semantic
+SciTSR,test,test::1310.1050v1.6,hm hw-sw,hm hw-sw,hm,vision,truncation / merge,correct,truncation / merge
+SciTSR,test,test::1310.1050v1.6,,,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1310.1050v1.6,,,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1310.1975v1.1,ace04-roth-dev (68 docs),ace04-roth-dev (68 docs),,vision,missing cell,correct,missing cell
+SciTSR,test,test::1310.1975v1.1,ace04-culotta-test (107 docs),ace04-culotta-test (107 docs),,vision,missing cell,correct,missing cell
+SciTSR,test,test::1310.1975v1.1,pairwise,pairwise,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1310.3153v1.1,"[2,2]","[2, 2]","[2,2]",text,symbolic,symbolic,correct
+SciTSR,test,test::1310.3153v1.1,"[2.4,o(log(m))]","[2.4, o(log(m))]","[2.4,o(log(m))]",text,symbolic,symbolic,correct
+SciTSR,test,test::1310.3153v1.1,"[2,4]","[2, 4]","[2,4]",text,symbolic,symbolic,correct
+SciTSR,test,test::1310.3447v2.2,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::1310.3447v2.2,28.01/0.089/1.13/ 120,28.01/0.089/1.13/120,28.01/0.089/1.13/ 120,text,symbolic,symbolic,correct
+SciTSR,test,test::1310.3447v2.2,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::1310.4713v1.2,zero mean gaussian noise:,zero mean gaussian noise:,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1310.4713v1.2,general transformations:,general transformations:,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1310.4713v1.2,2 × 30 × 100,2 x 30 x 100,2 × 30 × 100,text,symbolic,symbolic,correct
+SciTSR,test,test::1310.4713v1.2,2 × 30 × 100,2 x 30 x 100,2 × 30 × 100,text,symbolic,symbolic,correct
+SciTSR,test,test::1310.4713v1.2,mean error of relative rotation estimation (see equation (??)),mean error of relative rotation estimation (see equation (??)),mean error of relative rotation estimation (see equation (3)),vision,other semantic,correct,other semantic
+SciTSR,test,test::1310.4713v1.2,2 × 30 × 100,2 x 30 x 100,2 × 30 × 100,text,symbolic,symbolic,correct
+SciTSR,test,test::1310.4713v1.2,mean error of joint pose estimation (see equation (??)),mean error of joint pose estimation (see equation (??)),mean error of joint pose estimation (see equation (3)),vision,other semantic,correct,other semantic
+SciTSR,test,test::1310.4713v1.2,2 × 30 × 100,2 x 30 x 100,2 × 30 × 100,text,symbolic,symbolic,correct
+SciTSR,test,test::1310.4713v1.2,mean error of relative translation estimation (see equation (??)),mean error of relative translation estimation (see equation (??)),mean error of relative translation estimation (see equation (3)),vision,other semantic,correct,other semantic
+SciTSR,test,test::1310.4713v1.2,std error of relative rotation estimation (see equation (??)),std error of relative rotation estimation (see equation (??)),std error of relative rotation estimation (see equation (3)),vision,other semantic,correct,other semantic
+SciTSR,test,test::1310.4713v1.2,std error of relative translation estimation (see equation (??)),std error of relative translation estimation (see equation (??)),std error of relative translation estimation (see equation (3)),vision,other semantic,correct,other semantic
+SciTSR,test,test::1310.4713v1.2,std error of joint pose estimation (see equation (??)),std error of joint pose estimation (see equation (??)),std error of joint pose estimation (see equation (3)),vision,other semantic,correct,other semantic
+SciTSR,test,test::1311.3735v1.2,fold,,fold,text,missing cell,missing cell,correct
+SciTSR,test,test::1311.3735v1.2,(selection/construction),(selection/construction),,vision,missing cell,correct,missing cell
+SciTSR,test,test::1311.3735v1.2,cll,,cll,text,missing cell,missing cell,correct
+SciTSR,test,test::1311.6079v2.8,criterion,,criterion,text,missing cell,missing cell,correct
+SciTSR,test,test::1311.6079v2.8,#clusters,,#clusters,text,missing cell,missing cell,correct
+SciTSR,test,test::1311.6372v3.4,α = 1000,α = 1000,α=1000,vision,symbolic,correct,symbolic
+SciTSR,test,test::1311.6372v3.4,α = 10,α = 10,α=10,vision,symbolic,correct,symbolic
+SciTSR,test,test::1311.6372v3.4,,n,,text,empty content,empty content,correct
+SciTSR,test,test::1311.6372v3.4,α = 100,α = 100,α=100,vision,symbolic,correct,symbolic
+SciTSR,test,test::1311.6372v3.4,α = 1,α = 1,α=1,vision,symbolic,correct,symbolic
+SciTSR,test,test::1311.6372v3.4,n,,n,text,empty content,empty content,correct
+SciTSR,test,test::1312.0072v1.4,"r = 3, p = 16","r = 3, p = 16",,vision,missing cell,correct,missing cell
+SciTSR,test,test::1312.0072v1.4,"r = 1, p = 8","r = 1, p = 8",,vision,missing cell,correct,missing cell
+SciTSR,test,test::1312.2873v2.6,rv-10-,rv-10-,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1312.2873v2.6,cube-,cube-,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1312.2873v2.6,rv-15-,rv-15-,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1312.6995v3.6,79.3,79.3,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1312.6995v3.6,81.4,81.4,79.3,vision,numeric value,correct,numeric value
+SciTSR,test,test::1402.3371v1.4,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::1402.3371v1.4,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::1402.3371v1.4,mean,mean,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1402.3371v1.4,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::1402.3371v1.4,pair,,pair,text,missing cell,missing cell,correct
+SciTSR,test,test::1402.3371v1.4,term a,,term a,text,missing cell,missing cell,correct
+SciTSR,test,test::1402.3371v1.4,term b,,term b,text,missing cell,missing cell,correct
+SciTSR,test,test::1402.3371v1.4,#,,#,text,missing cell,missing cell,correct
+SciTSR,test,test::1402.3371v1.4,agreement,agreement,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1403.4513v1.12,13.97,8.02,13.97,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,4.84,13.80,4.84,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,26.29,4.84,26.29,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,15.03,15.58,15.03,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,13.28,3.26,13.28,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,24.05,12.20,24.05,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,16.94,14.13,16.94,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,25.55,13.98,25.55,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,ms-mv,r_s-r_c,ms-mv,text,other semantic,other semantic,correct
+SciTSR,test,test::1403.4513v1.12,dn-d,m_s-m_v,dn-d,text,other semantic,other semantic,correct
+SciTSR,test,test::1403.4513v1.12,4.04,9.21,4.04,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,0.63,24.05,0.63,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,ds-dl,h-c,ds-dl,text,other semantic,other semantic,correct
+SciTSR,test,test::1403.4513v1.12,26.62,12.82,26.62,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,8.26,9.29,8.26,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,2.35,4.37,2.35,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,s-sc,d_s-d_l,s-sc,text,other semantic,other semantic,correct
+SciTSR,test,test::1403.4513v1.12,25.29,2.62,25.29,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,1.65,7.76,1.65,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,1.86,1.70,1.86,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,3.55,13.97,3.55,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,32.25,7.48,32.25,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,h-c,v-i,h-c,text,other semantic,other semantic,correct
+SciTSR,test,test::1403.4513v1.12,18.36,,18.36,text,missing cell,missing cell,correct
+SciTSR,test,test::1403.4513v1.12,19.78,13.63,19.78,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,10.73,13.28,10.73,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,24.62,,24.62,text,missing cell,missing cell,correct
+SciTSR,test,test::1403.4513v1.12,1.44,18.35,1.44,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,7.56,,7.56,text,missing cell,missing cell,correct
+SciTSR,test,test::1403.4513v1.12,4.41,25.55,4.41,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,4.45,,4.45,text,missing cell,missing cell,correct
+SciTSR,test,test::1403.4513v1.12,2.12,25.29,2.12,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,18.88,,18.88,text,missing cell,missing cell,correct
+SciTSR,test,test::1403.4513v1.12,12.20,2.03,12.20,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,6.75,,6.75,text,missing cell,missing cell,correct
+SciTSR,test,test::1403.4513v1.12,19.17,8.26,19.17,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,20.00,,20.00,text,missing cell,missing cell,correct
+SciTSR,test,test::1403.4513v1.12,36.60,1.65,36.60,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,4.04,32.25,4.04,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,9.38,,9.38,text,missing cell,missing cell,correct
+SciTSR,test,test::1403.4513v1.12,8.02,26.29,8.02,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,hs-hv,,hs-hv,text,missing cell,missing cell,correct
+SciTSR,test,test::1403.4513v1.12,10.60,3.55,10.60,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,35.99,18.36,35.99,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,12.82,10.73,12.82,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,1.36,24.62,1.36,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,17.55,3.13,17.55,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,2.62,1.36,2.62,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,1.88,7.56,1.88,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,7.76,40.95,7.76,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,7.48,4.45,7.48,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,2.03,2.35,2.03,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,9.21,26.62,9.21,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,13.80,18.88,13.80,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,15.58,6.75,15.58,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,9.37,4.04,9.37,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,21.71,9.37,21.71,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,13.63,1.44,13.63,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,3.26,20.00,3.26,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,13.98,2.12,13.98,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,14.13,9.38,14.13,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,15.48,15.03,15.48,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,3.13,21.71,3.13,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,rs-rc,h_s-h_v,rs-rc,text,other semantic,other semantic,correct
+SciTSR,test,test::1403.4513v1.12,9.29,15.48,9.29,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,4.37,35.99,4.37,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,10.38,19.17,10.38,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,18.35,6.31,18.35,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,1.70,1.88,1.70,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,40.95,1.86,40.95,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.12,6.31,16.94,6.31,text,numeric value,numeric value,correct
+SciTSR,test,test::1403.4513v1.13,philos.,philos. charac.,philos.,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1403.7137v2.2,exponential with r = 0.2,exponential with r = 0.2,exponential with r=0.2,vision,symbolic,correct,symbolic
+SciTSR,test,test::1403.7137v2.2,traditional filters,,traditional filters,text,missing cell,missing cell,correct
+SciTSR,test,test::1403.7137v2.2,0.377321,0.377321,0.37321,vision,numeric value,correct,numeric value
+SciTSR,test,test::1403.7137v2.2,0.794186,0.794186,0.7974186,vision,numeric value,correct,numeric value
+SciTSR,test,test::1403.7137v2.2,observation operator,observation operator,observation,vision,truncation / merge,correct,truncation / merge
+SciTSR,test,test::1403.7308v1.1,a1,a_1,a1,text,symbolic,symbolic,correct
+SciTSR,test,test::1403.7308v1.1,a2,a_2,a2,text,symbolic,symbolic,correct
+SciTSR,test,test::1403.7308v1.1,a1,a_1,a1,text,symbolic,symbolic,correct
+SciTSR,test,test::1403.7308v1.1,a2,a_2,a2,text,symbolic,symbolic,correct
+SciTSR,test,test::1404.7208v2.6,115.6,115.5,115.6,text,numeric value,numeric value,correct
+SciTSR,test,test::1404.7208v2.6,,,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1404.7208v2.6,mean,se,mean,text,other semantic,other semantic,correct
+SciTSR,test,test::1404.7208v2.6,se,mean,se,text,other semantic,other semantic,correct
+SciTSR,test,test::1404.7208v2.6,mean,se,mean,text,other semantic,other semantic,correct
+SciTSR,test,test::1404.7208v2.6,se,mean,se,text,other semantic,other semantic,correct
+SciTSR,test,test::1404.7208v2.6,mean,se,mean,text,other semantic,other semantic,correct
+SciTSR,test,test::1404.7208v2.6,se,mean,se,text,other semantic,other semantic,correct
+SciTSR,test,test::1404.7208v2.6,mean,se,mean,text,other semantic,other semantic,correct
+SciTSR,test,test::1404.7208v2.6,se,,se,text,missing cell,missing cell,correct
+SciTSR,test,test::1404.7208v2.6,151.2,151.8,151.2,text,numeric value,numeric value,correct
+SciTSR,test,test::1404.7208v2.6,,,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1405.2874v2.4,0.55,0.55,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1406.2358v1.16,8.65,100.14,8.65,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.64,0.59,0.64,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.8875,0.1,0.8875,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,94.32,89.03,94.32,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.81875,0.25,0.81875,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.2375,0.4125,0.2375,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,1,0.01875,1,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1406.2358v1.16,0.43125,0.60625,0.43125,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,apple,parsley,apple,text,other semantic,other semantic,correct
+SciTSR,test,test::1406.2358v1.16,0.375,0.50625,0.375,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,yam,elderberry,yam,text,other semantic,other semantic,correct
+SciTSR,test,test::1406.2358v1.16,0.55,0.36,0.55,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.45,0.64,0.45,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,98.91,94.32,98.91,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.1,0.2375,0.1,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.24375,0.43125,0.24375,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,exemplar,apple,exemplar,text,other semantic,other semantic,correct
+SciTSR,test,test::1406.2358v1.16,0.125,0.375,0.125,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,garlic,yam,garlic,text,other semantic,other semantic,correct
+SciTSR,test,test::1406.2358v1.16,0.36,0.41,0.36,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.43,0.53,0.43,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.57,0.47,0.57,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,99.72,109.72,99.72,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.6125,0.1125,0.6125,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.71875,0.375,0.71875,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.7625,0.1125,0.7625,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,almond,lentils,almond,text,other semantic,other semantic,correct
+SciTSR,test,test::1406.2358v1.16,"(0.71, 0, 0.7)","(0.87, 0, 0.49)","(0.71, 0, 0.7)",text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.41,0.43,0.41,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.59,0.57,0.59,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,89.03,99.72,89.03,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.4125,0.6125,0.4125,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.24,0.19,0.24,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.60625,0.71875,0.60625,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.50625,0.7625,0.50625,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,elderberry,almond,elderberry,text,other semantic,other semantic,correct
+SciTSR,test,test::1406.2358v1.16,"(0.79, 0, 0.61)","(0.71, 0, 0.7)","(0.79, 0, 0.61)",text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.76,0.81,0.76,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,"(1, 0, 0)","(0.99, 0.14, 0)","(1, 0, 0)",text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,"(0, 0.9, -0.43)","(0.07, -0.86, -)","(0, 0.9, -0.43)",text,other semantic,other semantic,correct
+SciTSR,test,test::1406.2358v1.16,"(0.94, 0, 0.34)",,"(0.94, 0, 0.34)",text,missing cell,missing cell,correct
+SciTSR,test,test::1406.2358v1.16,parsley,olive,parsley,text,other semantic,other semantic,correct
+SciTSR,test,test::1406.2358v1.16,0.53,,0.53,text,missing cell,missing cell,correct
+SciTSR,test,test::1406.2358v1.16,0.01875,0.53125,0.01875,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.47,,0.47,text,missing cell,missing cell,correct
+SciTSR,test,test::1406.2358v1.16,0.25,0.44375,0.25,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,109.72,,109.72,text,missing cell,missing cell,correct
+SciTSR,test,test::1406.2358v1.16,0.1,0.3375,0.1,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.1125,,0.1125,text,missing cell,missing cell,correct
+SciTSR,test,test::1406.2358v1.16,100.14,88,100.14,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.375,,0.375,text,missing cell,missing cell,correct
+SciTSR,test,test::1406.2358v1.16,0.19,0.62,0.19,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.1125,,0.1125,text,missing cell,missing cell,correct
+SciTSR,test,test::1406.2358v1.16,0.81,0.38,0.81,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,lentils,,lentils,text,missing cell,missing cell,correct
+SciTSR,test,test::1406.2358v1.16,"(0.99, 0, 0.14)","(0.68, 0, 0.73)","(0.99, 0, 0.14)",text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,olive,chili pepper,olive,text,other semantic,other semantic,correct
+SciTSR,test,test::1406.2358v1.16,0.53125,0.1875,0.53125,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.44375,0.35,0.44375,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.3375,0.2,0.3375,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,88,85.57,88,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.62,0.4,0.62,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.38,0.6,0.38,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,"(0.68, 0, 0.73)","(0.9, 0, 0.43)","(0.68, 0, 0.73)",text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,chili pepper,broccoli,chili pepper,text,other semantic,other semantic,correct
+SciTSR,test,test::1406.2358v1.16,tomato,coconut,tomato,text,other semantic,other semantic,correct
+SciTSR,test,test::1406.2358v1.16,0.1875,0.09375,0.1875,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.3375,0.925,0.3375,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.35,0.0625,0.35,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.1875,0.7,0.1875,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.2,0.0875,0.2,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.2,0.6875,0.2,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,85.57,62.97,85.57,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,84.39,126.44,84.39,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.4,0.24,0.4,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.39,0.47,0.39,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.6,0.76,0.6,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.61,0.53,0.61,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,broccoli,root ginger,broccoli,text,other semantic,other semantic,correct
+SciTSR,test,test::1406.2358v1.16,0.09375,0.1375,0.09375,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.925,0.11875,0.925,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.0625,0.325,0.0625,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.7,0.38125,0.7,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.0875,0.1375,0.0875,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.6875,0.11875,0.6875,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,62.97,96.33,62.97,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,126.44,105.98,126.44,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.24,0.43,0.24,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.47,0.45,0.47,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.57,0.45,0.57,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.76,0.57,0.76,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.53,0.55,0.53,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,"(0.95, 0, 0.31)","(0.93, 0, 0.37)","(0.95, 0, 0.31)",text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,root ginger,pumpkin,root ginger,text,other semantic,other semantic,correct
+SciTSR,test,test::1406.2358v1.16,mushroom,wheat,mushroom,text,other semantic,other semantic,correct
+SciTSR,test,test::1406.2358v1.16,0.1375,0.45,0.1375,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.11875,0.16875,0.11875,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.325,0.2625,0.325,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.38125,0.51875,0.38125,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.43,0.55,0.43,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.1375,0.2125,0.1375,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.125,0.2125,0.125,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,96.33,94.72,96.33,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,105.98,96.33,105.98,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.43,0.55,0.43,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.45,0.44,0.45,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.57,0.45,0.57,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.55,0.56,0.55,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,"(0.93, 0, 0.37)","(0.74, 0, 0.67)","(0.93, 0, 0.37)",text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,pumpkin,raisin,pumpkin,text,other semantic,other semantic,correct
+SciTSR,test,test::1406.2358v1.16,wheat,green pepper,wheat,text,other semantic,other semantic,correct
+SciTSR,test,test::1406.2358v1.16,0.45,0.88125,0.45,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.16875,0.225,0.16875,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.2625,0.7625,0.2625,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.51875,0.40625,0.51875,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.2125,0.75,0.2125,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.2125,0.2375,0.2125,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,94.72,95.34,94.72,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,96.33,84.98,96.33,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.55,0.42,0.55,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.44,0.42,0.44,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.45,0.58,0.45,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.56,0.58,0.56,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,"(0.74, 0, 0.67)","(0.94, 0, 0.34)","(0.74, 0, 0.67)",text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,raisin,acorn,raisin,text,other semantic,other semantic,correct
+SciTSR,test,test::1406.2358v1.16,green pepper,watercress,green pepper,text,other semantic,other semantic,correct
+SciTSR,test,test::1406.2358v1.16,0.88125,0.5875,0.88125,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.225,0.1375,0.225,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.7625,0.64375,0.7625,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.40625,0.25,0.40625,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.75,0.4875,0.75,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.2375,0.1,0.2375,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,95.34,89.53,95.34,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,84.98,100.37,84.98,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.42,0.55,0.42,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.42,0.48,0.42,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.58,0.45,0.58,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.58,0.52,0.58,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,acorn,mustard,acorn,text,other semantic,other semantic,correct
+SciTSR,test,test::1406.2358v1.16,0.5875,0.06875,0.5875,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.1375,0.61875,0.1375,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.64375,0.6,0.64375,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1406.2358v1.16,0.25,0.75,0.25,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.4875,0.225,0.4875,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.1,0.55,0.1,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,89.53,102.58,89.53,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,100.37,95.8,100.37,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.55,0.26,0.55,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.48,0.55,0.48,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.45,0.74,0.45,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.52,0.45,0.52,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,mustard,rice,mustard,text,other semantic,other semantic,correct
+SciTSR,test,test::1406.2358v1.16,peanut,black pepper,peanut,text,other semantic,other semantic,correct
+SciTSR,test,test::1406.2358v1.16,0.06875,0.11875,0.06875,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.61875,0.20625,0.61875,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.6,0.51875,0.6,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.75,0.6125,0.75,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.55,0.2125,0.55,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,102.58,92.19,102.58,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,95.8,103.64,95.8,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.26,0.34,0.26,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.55,0.57,0.55,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.74,0.66,0.74,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.45,0.43,0.45,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,"(0.97, 0, 0.26)","(0.94, 0, 0.34)","(0.97, 0, 0.26)",text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,rice,tomato,rice,text,other semantic,other semantic,correct
+SciTSR,test,test::1406.2358v1.16,black pepper,garlic,black pepper,text,other semantic,other semantic,correct
+SciTSR,test,test::1406.2358v1.16,0.11875,0.3375,0.11875,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.20625,0.125,0.20625,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.51875,0.1875,0.51875,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.6125,0.24375,0.6125,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.225,0.2,0.225,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1406.2358v1.16,0.2125,0.1,0.2125,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,92.19,84.39,92.19,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,103.64,98.91,103.64,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.34,0.39,0.34,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.2358v1.16,0.66,0.61,0.66,text,numeric value,numeric value,correct
+SciTSR,test,test::1406.3474v1.1,mop m = 9,mop m = 9,mop m=9,vision,symbolic,correct,symbolic
+SciTSR,test,test::1406.3474v1.1,81.9,81.9,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1406.3474v1.1,mop m = 6,mop m = 6,mop m=6,vision,symbolic,correct,symbolic
+SciTSR,test,test::1406.3474v1.1,94.3,94.3,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1406.3474v1.1,mop m = 12,mop m = 12,mop m=12,vision,symbolic,correct,symbolic
+SciTSR,test,test::1406.3474v1.1,57.5,57.5,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1406.3474v1.1,50.0,50.0,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1406.3474v1.1,51.5,51.5,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1406.3474v1.1,92.8,92.8,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1407.3636v1.7,out selectivity,,out selectivity,text,missing cell,missing cell,correct
+SciTSR,test,test::1407.3636v1.7,words tuple,e^{in},words tuple,text,other semantic,other semantic,correct
+SciTSR,test,test::1407.3636v1.7,w,,w,text,missing cell,missing cell,correct
+SciTSR,test,test::1407.3636v1.7,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::1407.3636v1.7,nacionalnu pripadnost,nacionalnu pripadnost,nacionalnu rippadnost,vision,other semantic,correct,other semantic
+SciTSR,test,test::1407.3636v1.7,words tuple,e^{out},words tuple,text,other semantic,other semantic,correct
+SciTSR,test,test::1407.3636v1.7,,words tuple,,text,empty content,empty content,correct
+SciTSR,test,test::1407.3636v1.7,in selectivity,,in selectivity,text,missing cell,missing cell,correct
+SciTSR,test,test::1407.3636v1.7,w,words tuple,w,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1407.3636v1.7,narodnim novinama,narodnim novinama,narodnm novinama,vision,other semantic,correct,other semantic
+SciTSR,test,test::1408.5601v2.7,correlation,,correlation,text,missing cell,missing cell,correct
+SciTSR,test,test::1408.5601v2.7,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::1408.5601v2.7,feature,,feature,text,missing cell,missing cell,correct
+SciTSR,test,test::1408.5601v2.7,42.04,42.04 10.67,42.04,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1408.5601v2.7,14.29,,14.29,text,missing cell,missing cell,correct
+SciTSR,test,test::1408.5601v2.7,43.30,43.30 24.14,43.30,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1408.5601v2.7,12.18,,12.18,text,missing cell,missing cell,correct
+SciTSR,test,test::1408.5601v2.7,casia,casia replay-attack,casia,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1408.5601v2.7,24.14,,24.14,text,missing cell,missing cell,correct
+SciTSR,test,test::1408.5601v2.7,replay-attack,,replay-attack,text,missing cell,missing cell,correct
+SciTSR,test,test::1408.5601v2.7,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::1408.5601v2.7,45.92,45.92 10.07,45.92,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1408.5601v2.7,20.45,,20.45,text,missing cell,missing cell,correct
+SciTSR,test,test::1408.5601v2.7,10.07,,10.07,text,missing cell,missing cell,correct
+SciTSR,test,test::1408.5601v2.7,10.67,,10.67,text,missing cell,missing cell,correct
+SciTSR,test,test::1409.1055v1.5,the normalised distances,,the normalised distances,text,missing cell,missing cell,correct
+SciTSR,test,test::1409.2983v1.1,total # people,total # people # residents # workers # visitors,total # people,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1409.2983v1.1,# workers,# people aged up to 20 # people aged 21 to 30 # people aged 31 to 40 # people aged 41 to 50 # people aged 51 to 60 # people aged over 60,# workers,text,other semantic,other semantic,correct
+SciTSR,test,test::1409.2983v1.1,# males,,# males,text,missing cell,missing cell,correct
+SciTSR,test,test::1409.2983v1.1,# residents,# males # females,# residents,text,other semantic,other semantic,correct
+SciTSR,test,test::1506.08959v2.4,interior parts,,interior parts,text,missing cell,missing cell,correct
+SciTSR,test,test::1507.01053v1.3,model,,model,text,missing cell,missing cell,correct
+SciTSR,test,test::1507.01053v1.3,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::1507.01053v1.4,model,,model,text,missing cell,missing cell,correct
+SciTSR,test,test::1507.01053v1.4,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::1507.04646v1.4,81.1,81.1,81.2 82.8,vision,numeric value,correct,numeric value
+SciTSR,test,test::1507.04646v1.4,path+ner,path+ner,path-sub,vision,other semantic,correct,other semantic
+SciTSR,test,test::1507.04646v1.4,80.3,80.3,80.8 82.0,vision,numeric value,correct,numeric value
+SciTSR,test,test::1507.04646v1.4,82.0,82.0,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1507.04646v1.4,80.8,80.8,81.1 82.4,vision,numeric value,correct,numeric value
+SciTSR,test,test::1507.04646v1.4,path,path,path-wn,vision,truncation / merge,correct,truncation / merge
+SciTSR,test,test::1507.04646v1.4,200-d,200-d,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1507.04646v1.4,path+wn,path+wn,path-ner,vision,other semantic,correct,other semantic
+SciTSR,test,test::1507.04646v1.4,82.8,82.8,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1507.04646v1.4,81.2,81.2,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1507.04646v1.4,f1,f1,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1507.04646v1.4,81.8,81.8,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1507.04646v1.4,path+sub,path+sub,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1507.04646v1.4,50-d,50-d,80.3 81.8,vision,other semantic,correct,other semantic
+SciTSR,test,test::1507.04646v1.4,model,model,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1507.04646v1.4,82.4,82.4,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1508.06073v2.11,0.5239,0.5239,0.52339,vision,numeric value,correct,numeric value
+SciTSR,test,test::1508.06073v2.11,chalap - jaccard - benchmarks,chalap - jaccard - benchmarks,chalp = jaccard = benchmarks,vision,other semantic,correct,other semantic
+SciTSR,test,test::1508.06073v2.7,granularity for activity recognition,granularity for activity recognition,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1508.06073v2.7,68.7,68.7,68.3,vision,numeric value,correct,numeric value
+SciTSR,test,test::1508.06073v2.7,68.3,68.3,69.9,vision,numeric value,correct,numeric value
+SciTSR,test,test::1508.06073v2.7,69.9,69.9,68.9,vision,numeric value,correct,numeric value
+SciTSR,test,test::1508.06073v2.7,,,67.3,vision,empty content,correct,empty content
+SciTSR,test,test::1508.06073v2.7,70.1,70.1,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1508.06073v2.7,67.3,67.3,68.7,vision,numeric value,correct,numeric value
+SciTSR,test,test::1508.06073v2.7,68.9,68.9,64.5,vision,numeric value,correct,numeric value
+SciTSR,test,test::1508.06073v2.7,64.5,64.5,70.1,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.00151v3.3,20,4,20,text,numeric value,numeric value,correct
+SciTSR,test,test::1509.00151v3.3,20,,20,text,missing cell,missing cell,correct
+SciTSR,test,test::1509.00151v3.3,0.2827,0.2813,0.2827,text,numeric value,numeric value,correct
+SciTSR,test,test::1509.00151v3.3,0.2805,,0.2805,text,missing cell,missing cell,correct
+SciTSR,test,test::1509.00151v3.3,20,4,20,text,numeric value,numeric value,correct
+SciTSR,test,test::1509.00151v3.3,4,8,4,text,numeric value,numeric value,correct
+SciTSR,test,test::1509.00151v3.3,8,12,8,text,numeric value,numeric value,correct
+SciTSR,test,test::1509.00151v3.3,in stage ii,4,in stage ii,text,other semantic,other semantic,correct
+SciTSR,test,test::1509.00151v3.3,12,20,12,text,numeric value,numeric value,correct
+SciTSR,test,test::1509.00151v3.3,overall,overall accuracy,overall,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1509.00151v3.3,0.2802,0.2757,0.2802,text,numeric value,numeric value,correct
+SciTSR,test,test::1509.00151v3.3,0.2813,0.2802,0.2813,text,numeric value,numeric value,correct
+SciTSR,test,test::1509.00151v3.3,8,12,8,text,numeric value,numeric value,correct
+SciTSR,test,test::1509.00151v3.3,4,8,4,text,numeric value,numeric value,correct
+SciTSR,test,test::1509.00151v3.3,4,8,4,text,numeric value,numeric value,correct
+SciTSR,test,test::1509.00151v3.3,12,20,12,text,numeric value,numeric value,correct
+SciTSR,test,test::1509.00151v3.3,8,12,8,text,numeric value,numeric value,correct
+SciTSR,test,test::1509.00151v3.3,12,20,12,text,numeric value,numeric value,correct
+SciTSR,test,test::1509.00151v3.3,0.2927,0.2805,0.2927,text,numeric value,numeric value,correct
+SciTSR,test,test::1509.00151v3.3,12,20,12,text,numeric value,numeric value,correct
+SciTSR,test,test::1509.00151v3.3,20,,20,text,missing cell,missing cell,correct
+SciTSR,test,test::1509.00151v3.3,in stage i,4,in stage i,text,other semantic,other semantic,correct
+SciTSR,test,test::1509.00151v3.3,0.3006,0.2927,0.3006,text,numeric value,numeric value,correct
+SciTSR,test,test::1509.00151v3.3,#clusters,#clusters in stage i,#clusters,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1509.00151v3.3,accuracy,0.2827,accuracy,text,other semantic,other semantic,correct
+SciTSR,test,test::1509.00151v3.3,4,8,4,text,numeric value,numeric value,correct
+SciTSR,test,test::1509.00151v3.3,8,12,8,text,numeric value,numeric value,correct
+SciTSR,test,test::1509.00151v3.3,#clusters,#clusters in stage ii,#clusters,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1509.00151v3.3,0.3030,0.3006,0.3030,text,numeric value,numeric value,correct
+SciTSR,test,test::1509.00151v3.3,0.2757,0.3030,0.2757,text,numeric value,numeric value,correct
+SciTSR,test,test::1509.00643v1.1,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::1509.00643v1.1,actor,,actor,text,missing cell,missing cell,correct
+SciTSR,test,test::1509.00643v1.1,object,,object,text,missing cell,missing cell,correct
+SciTSR,test,test::1509.00643v1.1,business continuity plan,,business continuity plan,text,missing cell,missing cell,correct
+SciTSR,test,test::1509.00643v1.1,"insurance, liability limitation,",,"insurance, liability limitation,",text,missing cell,missing cell,correct
+SciTSR,test,test::1509.00643v1.1,"secure state restoring mechanisms,",,"secure state restoring mechanisms,",text,missing cell,missing cell,correct
+SciTSR,test,test::1509.00643v1.1,location,,location,text,missing cell,missing cell,correct
+SciTSR,test,test::1509.00643v1.1,"system logs, ids","system logs, ids",,vision,missing cell,correct,missing cell
+SciTSR,test,test::1509.00643v1.1,"insurance, liability limitation,",,"insurance, liability limitation,",text,missing cell,missing cell,correct
+SciTSR,test,test::1509.00643v1.1,"security cameras, visitor logs","security cameras, visitor logs",,vision,missing cell,correct,missing cell
+SciTSR,test,test::1509.00643v1.1,object,,object,text,missing cell,missing cell,correct
+SciTSR,test,test::1509.00643v1.1,business continuity plan,,business continuity plan,text,missing cell,missing cell,correct
+SciTSR,test,test::1509.00643v1.1,actor,,actor,text,missing cell,missing cell,correct
+SciTSR,test,test::1509.00643v1.1,location,,location,text,missing cell,missing cell,correct
+SciTSR,test,test::1509.00670v1.1,actions (avg. per user per active day) (b),actions (avg. per user per active day) (b),,vision,missing cell,correct,missing cell
+SciTSR,test,test::1509.00670v1.1,participation (a),participation (a),,vision,missing cell,correct,missing cell
+SciTSR,test,test::1509.02094v1.2,egospace w/ opt.,egospace w/ opt.,egospac w/ opt.,vision,other semantic,correct,other semantic
+SciTSR,test,test::1509.02094v1.2,0.124,0.124,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1509.02094v1.2,indoor,,indoor,text,missing cell,missing cell,correct
+SciTSR,test,test::1509.02094v1.2,0.259,0.259,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1509.02094v1.2,egospace w/ opt.,egospace w/ opt.,egospac w/ opt.,vision,other semantic,correct,other semantic
+SciTSR,test,test::1509.02094v1.2,0.571,0.571,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1509.02094v1.2,egospace w/o opt.,egospace w/o opt.,egospac w/o opt.,vision,other semantic,correct,other semantic
+SciTSR,test,test::1509.02094v1.2,0.103,0.103,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1509.02094v1.2,egospace w/o opt.,egospace w/o opt.,egospac w/o opt.,vision,other semantic,correct,other semantic
+SciTSR,test,test::1509.02094v1.2,0.221,0.221,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1509.02094v1.2,0.443,0.443,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1509.02094v1.2,outdoor,,outdoor,text,missing cell,missing cell,correct
+SciTSR,test,test::1509.02094v1.2,0.331,0.331,0.381,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03611v2.2,# of types,# of types,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1509.03611v2.2,# of tokens,# of tokens,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1509.03739v1.2,41.81,41.81,72.90,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,91.88,91.88,65.28,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,58.85,58.85,41.81,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,60.20,60.20,41.65,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,43.2,43.2,29.22,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,84.85,84.85,91.88,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,65.67,65.67,43.2,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,65.28,65.28,95.80,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,86.43,86.43,78.92,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,41.65,41.65,86.43,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,74.63,74.63,91.57,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,69.95,69.95,49.96,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,43.18,43.18,83.86,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,37.94,37.94,70.58,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,64.04,64.04,72.00,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::1509.03739v1.2,95.21,95.21,74.63,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,83.86,83.86,64.04,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,89.61,89.61,60.20,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,29.22,29.22,60.66,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,78.79,78.79,95.21,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,71.38,71.38,58.85,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,57.86,57.86,69.95,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,42.80,42.80,37.94,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,49.96,49.96,78.33,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,70.63,70.63,42.80,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,68.16,68.16,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1509.03739v1.2,72.90,72.90,62.73,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,72.00,72.00,50.71,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,80.64,80.64,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1509.03739v1.2,43.84,43.84,47.62,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,39.57,39.57,40.25,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,95.80,95.80,87.34,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,87.34,87.34,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1509.03739v1.2,27.48,27.48,48.66,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,59.38,59.38,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1509.03739v1.2,27.94,27.94,43.84,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,78.33,78.33,61.54,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,39.58,39.58,27.94,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,26.14,26.14,18.87,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,82.50,82.50,35.63,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,50.00,50.00,59.38,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,57.93,57.93,59.38,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,28.48,28.48,20.61,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,48.66,48.66,47.15,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,51.38,51.38,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1509.03739v1.2,44.79,44.79,50.00,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,40.00,40.00,27.48,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,62.73,62.73,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1509.03739v1.2,40.63,40.63,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1509.03739v1.2,38.11,38.11,50.88,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,70.58,70.58,68.16,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,35.63,35.63,57.93,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,59.38,59.38,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1509.03739v1.2,40.25,40.25,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1509.03739v1.2,47.15,47.15,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1509.03739v1.2,78.92,78.92,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1509.03739v1.2,20.83,20.83,14.69,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,50.88,50.88,52.85,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,39.63,39.63,40.63,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,47.62,47.62,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1509.03739v1.2,41.30,41.30,38.11,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,91.57,91.57,80.64,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,52.85,52.85,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1509.03739v1.2,60.66,60.66,51.38,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,18.87,18.87,43.14,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,43.14,43.14,43.12,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,61.54,61.54,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1509.03739v1.2,72.50,72.50,44.79,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,50.71,50.71,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1509.03739v1.2,43.12,43.12,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1509.03739v1.2,20.61,20.61,39.57,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.03739v1.2,14.69,14.69,39.63,vision,numeric value,correct,numeric value
+SciTSR,test,test::1509.07029v1.4,n,n,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1509.08329v1.1,4,5,4,text,numeric value,numeric value,correct
+SciTSR,test,test::1509.08329v1.1,6,7,6,text,numeric value,numeric value,correct
+SciTSR,test,test::1509.08329v1.1,6,,6,text,missing cell,missing cell,correct
+SciTSR,test,test::1509.08329v1.1,expanded dim,expanded dim per node,expanded dim,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1509.08329v1.1,80,40,80,text,numeric value,numeric value,correct
+SciTSR,test,test::1509.08329v1.1,40,6,40,text,numeric value,numeric value,correct
+SciTSR,test,test::1509.08329v1.1,per node,64,per node,text,other semantic,other semantic,correct
+SciTSR,test,test::1509.08329v1.1,160,80,160,text,numeric value,numeric value,correct
+SciTSR,test,test::1509.08329v1.1,per node,100,per node,text,other semantic,other semantic,correct
+SciTSR,test,test::1509.08329v1.1,100,160,100,text,numeric value,numeric value,correct
+SciTSR,test,test::1509.08329v1.1,output dim,output dim per node,output dim,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1509.08329v1.1,64,80,64,text,numeric value,numeric value,correct
+SciTSR,test,test::1509.08329v1.1,40,,40,text,missing cell,missing cell,correct
+SciTSR,test,test::1509.08329v1.1,2,3,2,text,numeric value,numeric value,correct
+SciTSR,test,test::1509.08329v1.1,5,6,5,text,numeric value,numeric value,correct
+SciTSR,test,test::1509.08329v1.1,input dim,input dim per node,input dim,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1509.08329v1.1,number,number of nodes,number,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1509.08329v1.1,of nodes,8x8,of nodes,text,other semantic,other semantic,correct
+SciTSR,test,test::1509.08329v1.1,80,,80,text,missing cell,missing cell,correct
+SciTSR,test,test::1509.08329v1.1,per node,40,per node,text,other semantic,other semantic,correct
+SciTSR,test,test::1509.08329v1.1,3,4,3,text,numeric value,numeric value,correct
+SciTSR,test,test::1509.08329v1.1,8,,8,text,missing cell,missing cell,correct
+SciTSR,test,test::1509.08329v1.1,7,8,7,text,numeric value,numeric value,correct
+SciTSR,test,test::1509.08329v1.1,1,2,1,text,numeric value,numeric value,correct
+SciTSR,test,test::1511.01443v2.1,28.035,,28.035,text,missing cell,missing cell,correct
+SciTSR,test,test::1511.01443v2.1,(14.247),28.035 (7.998),(14.247),text,numeric value,numeric value,correct
+SciTSR,test,test::1511.01443v2.1,30.587,30.587 (9.812),30.587,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1511.01443v2.1,(7.996),,(7.996),text,missing cell,missing cell,correct
+SciTSR,test,test::1511.01443v2.1,one-step,centralized (x10^-4),one-step,text,other semantic,other semantic,correct
+SciTSR,test,test::1511.01443v2.1,28.038,,28.038,text,missing cell,missing cell,correct
+SciTSR,test,test::1511.01443v2.1,38.478,38.478 (14.247),38.478,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1511.01443v2.1,(7.996),,(7.996),text,missing cell,missing cell,correct
+SciTSR,test,test::1511.01443v2.1,69.898,69.898 (27.655),69.898,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1511.01443v2.1,28.038,,28.038,text,missing cell,missing cell,correct
+SciTSR,test,test::1511.01443v2.1,(7.998),,(7.998),text,missing cell,missing cell,correct
+SciTSR,test,test::1511.01443v2.1,28.865,28.865 (8.443),28.865,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1511.01443v2.1,28.038,,28.038,text,missing cell,missing cell,correct
+SciTSR,test,test::1511.01443v2.1,(7.989),28.038 (7.996),(7.989),text,numeric value,numeric value,correct
+SciTSR,test,test::1511.01443v2.1,28.039,,28.039,text,missing cell,missing cell,correct
+SciTSR,test,test::1511.01443v2.1,(8.145),28.038 (7.996),(8.145),text,numeric value,numeric value,correct
+SciTSR,test,test::1511.01443v2.1,28.066,28.066 (7.989),28.066,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1511.01443v2.1,(27.655),28.039 (8.017),(27.655),text,numeric value,numeric value,correct
+SciTSR,test,test::1511.01443v2.1,simple avg,simple avg (x10^-4),simple avg,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1511.01443v2.1,28.247,28.247 (8.145),28.247,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1511.01443v2.1,(7.996),,(7.996),text,missing cell,missing cell,correct
+SciTSR,test,test::1511.01443v2.1,(8.017),,(8.017),text,missing cell,missing cell,correct
+SciTSR,test,test::1511.01443v2.1,(7.996),,(7.996),text,missing cell,missing cell,correct
+SciTSR,test,test::1511.01443v2.1,(8.443),28.038 (7.996),(8.443),text,numeric value,numeric value,correct
+SciTSR,test,test::1511.01443v2.1,(7.996),,(7.996),text,missing cell,missing cell,correct
+SciTSR,test,test::1511.01443v2.1,(7.982),28.038 (7.996),(7.982),text,numeric value,numeric value,correct
+SciTSR,test,test::1511.01443v2.1,28.038,,28.038,text,missing cell,missing cell,correct
+SciTSR,test,test::1511.01443v2.1,(9.812),28.038 (7.996),(9.812),text,numeric value,numeric value,correct
+SciTSR,test,test::1511.01443v2.1,28.036,28.036 (7.982),28.036,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1511.01443v2.1,28.038,,28.038,text,missing cell,missing cell,correct
+SciTSR,test,test::1511.01443v2.2,one-step,centralized (x10^-3),one-step,text,other semantic,other semantic,correct
+SciTSR,test,test::1511.01443v2.2,(4.789),22.784 (4.060),(4.789),text,numeric value,numeric value,correct
+SciTSR,test,test::1511.01443v2.2,(4.062),,(4.062),text,missing cell,missing cell,correct
+SciTSR,test,test::1511.01443v2.2,(6.461),22.772 (4.048),(6.461),text,numeric value,numeric value,correct
+SciTSR,test,test::1511.01443v2.2,38.484,38.484 (10.692),38.484,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1511.01443v2.2,23.818,23.818 (4.789),23.818,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1511.01443v2.2,23.066,23.066 (4.299),23.066,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1511.01443v2.2,87.896,87.896 (22.782),87.896,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1511.01443v2.2,1796.147,1796.147 (324.274),1796.147,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1511.01443v2.2,simple avg,simple avg (x10^-3),simple avg,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1511.01443v2.2,(4.060),,(4.060),text,missing cell,missing cell,correct
+SciTSR,test,test::1511.01443v2.2,(3.998),,(3.998),text,missing cell,missing cell,correct
+SciTSR,test,test::1511.01443v2.2,(22.782),22.612 (3.835),(22.782),text,numeric value,numeric value,correct
+SciTSR,test,test::1511.01443v2.2,(4.048),,(4.048),text,missing cell,missing cell,correct
+SciTSR,test,test::1511.01443v2.2,22.772,,22.772,text,missing cell,missing cell,correct
+SciTSR,test,test::1511.01443v2.2,24.589,,24.589,text,missing cell,missing cell,correct
+SciTSR,test,test::1511.01443v2.2,26.907,26.907 (6.461),26.907,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1511.01443v2.2,22.784,,22.784,text,missing cell,missing cell,correct
+SciTSR,test,test::1511.01443v2.2,151.440,,151.440,text,missing cell,missing cell,correct
+SciTSR,test,test::1511.01443v2.2,22.725,,22.725,text,missing cell,missing cell,correct
+SciTSR,test,test::1511.01443v2.2,(4.299),22.787 (4.062),(4.299),text,numeric value,numeric value,correct
+SciTSR,test,test::1511.01443v2.2,(3.835),,(3.835),text,missing cell,missing cell,correct
+SciTSR,test,test::1511.01443v2.2,22.612,,22.612,text,missing cell,missing cell,correct
+SciTSR,test,test::1511.01443v2.2,(10.692),22.725 (3.998),(10.692),text,numeric value,numeric value,correct
+SciTSR,test,test::1511.01443v2.2,(4.651),,(4.651),text,missing cell,missing cell,correct
+SciTSR,test,test::1511.01443v2.2,(43.745),,(43.745),text,missing cell,missing cell,correct
+SciTSR,test,test::1511.01443v2.2,(324.274),151.440 (43.745),(324.274),text,numeric value,numeric value,correct
+SciTSR,test,test::1511.01443v2.2,22.787,,22.787,text,missing cell,missing cell,correct
+SciTSR,test,test::1511.01443v2.2,(67.489),24.589 (4.651),(67.489),text,numeric value,numeric value,correct
+SciTSR,test,test::1511.01443v2.2,322.274,322.274 (67.489),322.274,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1706.08653v2.12,using g,,using g,text,missing cell,missing cell,correct
+SciTSR,test,test::1706.08653v2.12,semantic,,semantic,text,missing cell,missing cell,correct
+SciTSR,test,test::1706.09138v1.5,senmatic labels → cityscapes imags,senmatic labels → cityscapes imags,senmatic labels → cityscapes images,vision,other semantic,correct,other semantic
+SciTSR,test,test::1707.00380v1.2,r = 10,r = 10,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1707.00380v1.2,r = 100,r = 100,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1707.01239v1.1,,,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1707.01239v1.1,> 1.0209,> 1.0209,>1.0209,vision,symbolic,correct,symbolic
+SciTSR,test,test::1707.01239v1.1,> 1.0536,> 1.0536,>1.0536,vision,symbolic,correct,symbolic
+SciTSR,test,test::1707.01239v1.1,,,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1707.01239v1.1,> 1.0528,> 1.0528,>1.0528,vision,symbolic,correct,symbolic
+SciTSR,test,test::1707.01239v1.1,,,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1707.01239v1.1,> 1.0201,> 1.0201,>1.0201,vision,symbolic,correct,symbolic
+SciTSR,test,test::1707.01239v1.1,end/partition,end/partition,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1707.01239v1.1,> 1.0584,> 1.0584,>1.0584,vision,symbolic,correct,symbolic
+SciTSR,test,test::1707.01239v1.1,> 1.0411,> 1.0411,>1.0411,vision,symbolic,correct,symbolic
+SciTSR,test,test::1707.01239v1.1,,,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1707.01239v1.1,,,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1707.01239v1.1,> 1.1031,> 1.1031,>1.1031,vision,symbolic,correct,symbolic
+SciTSR,test,test::1707.01239v1.1,,,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1707.01239v1.1,> 1.0080,> 1.0080,>1.0080,vision,symbolic,correct,symbolic
+SciTSR,test,test::1707.01239v1.1,,,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1707.01239v1.1,> 1.0657,> 1.0657,>1.0657,vision,symbolic,correct,symbolic
+SciTSR,test,test::1707.01239v1.1,,,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1707.01239v1.1,,,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1707.01239v1.1,> 1.0313,> 1.0313,>1.0313,vision,symbolic,correct,symbolic
+SciTSR,test,test::1707.01239v1.1,> 1.0964,> 1.0964,>1.0964,vision,symbolic,correct,symbolic
+SciTSR,test,test::1707.01239v1.1,,,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1707.01239v1.1,> 1.1098,> 1.1098,>1.1098,vision,symbolic,correct,symbolic
+SciTSR,test,test::1707.01239v1.1,> 1.0485,> 1.0485,>1.0485,vision,symbolic,correct,symbolic
+SciTSR,test,test::1707.02655v2.1,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::1707.04151v1.2,arena size,,arena size,text,missing cell,missing cell,correct
+SciTSR,test,test::1707.04151v1.2,obstacles,,obstacles,text,missing cell,missing cell,correct
+SciTSR,test,test::1707.04151v1.2,boundedmotionplan,boundedmotionplan,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1707.04151v1.2,dim.,,dim.,text,missing cell,missing cell,correct
+SciTSR,test,test::1707.04151v1.2,omplrrt,omplrrt,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1707.06799v2.15,56,56,-,vision,other semantic,correct,other semantic
+SciTSR,test,test::1707.06799v2.15,115,115,96,vision,numeric value,correct,numeric value
+SciTSR,test,test::1707.06799v2.15,-0.01,-0.01,,vision,empty content,correct,empty content
+SciTSR,test,test::1707.06799v2.15,-0.04 events,-0.04 events,126,vision,other semantic,correct,other semantic
+SciTSR,test,test::1707.06799v2.15,106,106,115,vision,numeric value,correct,numeric value
+SciTSR,test,test::1707.06799v2.15,-0.03 chunking,-0.03 chunking,174,vision,other semantic,correct,other semantic
+SciTSR,test,test::1707.06799v2.15,-0.01 entities,-0.01 entities,192,vision,other semantic,correct,other semantic
+SciTSR,test,test::1707.06799v2.15,92,92,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1707.06799v2.15,-,-,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1707.06799v2.15,115,115,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1707.06799v2.15,96,96,92,vision,numeric value,correct,numeric value
+SciTSR,test,test::1707.06799v2.15,126,126,56,vision,numeric value,correct,numeric value
+SciTSR,test,test::1707.06799v2.15,115,115,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1707.06799v2.15,174,174,106,vision,numeric value,correct,numeric value
+SciTSR,test,test::1707.06799v2.15,-0.01 ner,-0.01 ner,115,vision,other semantic,correct,other semantic
+SciTSR,test,test::1707.06799v2.15,192,192,175,vision,numeric value,correct,numeric value
+SciTSR,test,test::1707.06799v2.15,175,175,115,vision,numeric value,correct,numeric value
+SciTSR,test,test::1707.07628v1.1,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::1707.07628v1.1,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::1707.07628v1.1,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::1707.07628v1.1,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::1707.07628v1.1,,word,,text,empty content,empty content,correct
+SciTSR,test,test::1707.07628v1.1,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::1707.07628v1.1,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::1707.07628v1.1,jig,,jig,text,missing cell,missing cell,correct
+SciTSR,test,test::1707.07628v1.1,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::1707.07628v1.1,word,,word,text,empty content,empty content,correct
+SciTSR,test,test::1707.07628v1.1,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::1707.07628v1.1,time,,time,text,missing cell,missing cell,correct
+SciTSR,test,test::1707.07628v1.1,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::1707.07628v1.1,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::1707.07628v1.1,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::1707.07628v1.1,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::1707.07628v1.1,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::1707.07628v1.1,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::1707.07628v1.1,cobblers,,cobblers,text,missing cell,missing cell,correct
+SciTSR,test,test::1707.07628v1.1,have,,have,text,missing cell,missing cell,correct
+SciTSR,test,test::1707.07628v1.1,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::1707.07628v1.1,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::1707.07628v1.1,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::1707.09669v2.5,m-query,,m-query,text,missing cell,missing cell,correct
+SciTSR,test,test::1707.09669v2.5,-,,-,text,empty content,empty content,correct
+SciTSR,test,test::1707.09669v2.5,s-query,,s-query,text,missing cell,missing cell,correct
+SciTSR,test,test::1707.09669v2.5,ldehl,- ldehl,ldehl,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1707.09669v2.5,-,,-,text,empty content,empty content,correct
+SciTSR,test,test::1707.09813v1.2,myo,myo,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1707.09813v1.2,es,es,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1707.09813v1.4,"-12.09,24.47","-12.09, 24.47","-12.09,24.47",text,symbolic,symbolic,correct
+SciTSR,test,test::1707.09813v1.4,myocardial mass,,myocardial mass,text,missing cell,missing cell,correct
+SciTSR,test,test::1707.09813v1.4,"-10.37,12.87","-10.37, 12.87","-10.37,12.87",text,symbolic,symbolic,correct
+SciTSR,test,test::1707.09813v1.4,"-7.67,9.75","-7.67, 9.75","-7.67,9.75",text,symbolic,symbolic,correct
+SciTSR,test,test::1707.09813v1.4,"-17.17,27.15","-17.17, 27.15","-17.17,27.15",text,symbolic,symbolic,correct
+SciTSR,test,test::1707.09813v1.4,"-15.11,34.35","-15.11, 34.35","-15.11,34.35",text,symbolic,symbolic,correct
+SciTSR,test,test::1707.09813v1.4,ejection fraction,,ejection fraction,text,missing cell,missing cell,correct
+SciTSR,test,test::1707.09813v1.4,loa,loa,lo,vision,truncation / merge,correct,truncation / merge
+SciTSR,test,test::1708.00154v1.6,rmrt,rmr_t,rmrt,text,symbolic,symbolic,correct
+SciTSR,test,test::1708.00154v1.6,ctrt,ctr_t,ctrt,text,symbolic,symbolic,correct
+SciTSR,test,test::1708.00154v1.7,ctrt,ctr_t,ctrt,text,symbolic,symbolic,correct
+SciTSR,test,test::1708.00154v1.7,rmrt,rmr_t,rmrt,text,symbolic,symbolic,correct
+SciTSR,test,test::1708.00154v1.7,f1,,f1,text,empty content,empty content,correct
+SciTSR,test,test::1708.00154v1.7,methods,,methods,text,missing cell,missing cell,correct
+SciTSR,test,test::1708.00726v1.3,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::1708.00726v1.3,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::1708.01143v1.14,σ noise,σ noise,σ_noise_,vision,symbolic,correct,symbolic
+SciTSR,test,test::1708.02420v1.13,,model,,text,empty content,empty content,correct
+SciTSR,test,test::1708.02420v1.13,,emb.,,text,empty content,empty content,correct
+SciTSR,test,test::1708.02420v1.13,model,,model,text,missing cell,missing cell,correct
+SciTSR,test,test::1708.02420v1.13,emb.,,emb.,text,missing cell,missing cell,correct
+SciTSR,test,test::1708.02420v1.13,+,+,·/·,vision,other semantic,correct,other semantic
+SciTSR,test,test::1708.03822v1.5,acf,,acf,text,missing cell,missing cell,correct
+SciTSR,test,test::1708.03822v1.5,dis,,dis,text,missing cell,missing cell,correct
+SciTSR,test,test::1708.03822v1.5,li,,li,text,missing cell,missing cell,correct
+SciTSR,test,test::1708.03822v1.5,pacf,,pacf,text,missing cell,missing cell,correct
+SciTSR,test,test::1708.03822v1.5,nc,,nc,text,missing cell,missing cell,correct
+SciTSR,test,test::1708.04150v1.5,method,,method,text,missing cell,missing cell,correct
+SciTSR,test,test::1708.05592v1.1,+uni-rnn,,+uni-rnn,text,missing cell,missing cell,correct
+SciTSR,test,test::1708.05592v1.1,lattice,,lattice,text,missing cell,missing cell,correct
+SciTSR,test,test::1708.05592v1.1,100-best,100-best lattice,100-best,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1708.05592v1.12,+su-rnn,,+su-rnn,text,missing cell,missing cell,correct
+SciTSR,test,test::1708.05592v1.12,words,,words,text,missing cell,missing cell,correct
+SciTSR,test,test::1708.05592v1.12,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::1708.05592v1.2,speed(w/s),,speed(w/s),text,missing cell,missing cell,correct
+SciTSR,test,test::1708.05592v1.2,#succeed,#succeed words,#succeed,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1708.05592v1.2,train,train speed(w/s),train,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1708.05592v1.2,(pseudo),(pseudo) ppl,(pseudo),text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1708.05592v1.2,su-rnn,su-rnn,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1708.05592v1.2,ppl,,ppl,text,missing cell,missing cell,correct
+SciTSR,test,test::1708.05592v1.2,lm,,lm,text,missing cell,missing cell,correct
+SciTSR,test,test::1708.05592v1.2,words,,words,text,missing cell,missing cell,correct
+SciTSR,test,test::1708.05592v1.4,-,- 22.33,-,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1708.05592v1.4,vit,vit,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1708.05592v1.4,100-best,100-best lattice,100-best,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1708.05592v1.4,22.30,,22.30,text,missing cell,missing cell,correct
+SciTSR,test,test::1708.05592v1.4,22.33,,22.33,text,missing cell,missing cell,correct
+SciTSR,test,test::1708.05592v1.4,22.49,,22.49,text,missing cell,missing cell,correct
+SciTSR,test,test::1708.05592v1.4,lattice,,lattice,text,missing cell,missing cell,correct
+SciTSR,test,test::1708.05592v1.4,22.51,22.51 22.49,22.51,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1708.05592v1.4,-,- 22.30,-,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1708.05592v1.4,22.53,,22.53,text,missing cell,missing cell,correct
+SciTSR,test,test::1708.05592v1.4,22.68,22.68 22.53,22.68,text,truncation / merge,truncation / merge,correct
+SciTSR,test,test::1708.05592v1.4,vit,vit,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1708.05592v1.4,cn,cn,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1708.05592v1.4,+uni-rnn,,+uni-rnn,text,missing cell,missing cell,correct
+SciTSR,test,test::1708.05592v1.4,cn,cn,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1708.05592v1.7,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::1708.06126v1.2,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::1708.06126v1.2,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::1708.06126v1.2,mobile app,mobile app,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1708.07104v1.5,f1legitimate,f1_{legitimate},f1legitimate,text,symbolic,symbolic,correct
+SciTSR,test,test::1711.04883v1.1,2017.4 intel driver bandwidth mb/s,2017.4 intel driver bandwidth mb/s,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1711.05979v2.8,speed (# of samples per second),speed (# of samples per second),,vision,missing cell,correct,missing cell
+SciTSR,test,test::1711.05979v2.8,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::1711.05979v2.8,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::1711.07611v1.3,46.5 †,46.5 †,46.5‡,vision,other semantic,correct,other semantic
+SciTSR,test,test::1711.07611v1.3,72.1 †,72.1 †,72.1‡,vision,other semantic,correct,other semantic
+SciTSR,test,test::1711.07611v1.3,70.1†,70.1†,70.1‡,vision,other semantic,correct,other semantic
+SciTSR,test,test::1711.07915v1.6,,,,text,missing cell,missing cell,correct
+SciTSR,test,test::1711.08789v3.1,audio encoder,audio encoder,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1711.08789v3.1,layer,,layer,text,missing cell,missing cell,correct
+SciTSR,test,test::1711.09541v1.2,dataset,,dataset,text,missing cell,missing cell,correct
+SciTSR,test,test::1711.09767v1.2,method,,method,text,missing cell,missing cell,correct
+SciTSR,test,test::1711.09767v1.2,training data,,training data,text,missing cell,missing cell,correct
+SciTSR,test,test::1712.03337v1.5,3sources,3sources,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1712.03337v1.5,metabric,metabric,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1712.03337v1.5,yale face b,yale face b,,vision,missing cell,correct,missing cell
+SciTSR,test,test::1712.04402v1.2,f1-score random forest (train/test),f1-score random forest (train/test),,vision,missing cell,correct,missing cell

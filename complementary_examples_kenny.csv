@@ -1,0 +1,1589 @@
+dataset,group,table_id,gt_text,vision_text,text_text,winner,vt_diff,vision_vs_gt,text_vs_gt
+kenny,Biology,Biology::122_2019_Article_3517-1,niab elite magic1,niab elite magic1,niab elite magic ¹,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::122_2019_Article_3517-1,bmw magic2,bmw magic2,bmw magic ²,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::122_2019_Article_3517-1,apogee x paragon3,apogee x paragon3,apogee × paragon ³,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::122_2019_Article_3517-1,bmw magic2,bmw magic2,bmw magic ²,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::122_2019_Article_3517-1,niab elite magic1,niab elite magic1,niab elite magic ¹,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::122_2019_Article_3517-1,bmw magic2,bmw magic2,bmw magic ²,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::122_2019_Article_3517-1,paragon x cs5. reference genome8,paragon x cs5. reference genome8,paragon × cs ⁵. reference genome ⁸,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::122_2019_Article_3517-1,niab elite magic1. claire x malacca9. genome sequence10,niab elite magic1. claire x malacca9. genome sequence10,niab elite magic ¹. claire × malacca ⁹. genome sequence ¹⁰,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::122_2019_Article_3517-1,dic12b †,dic12b†,dic12b †,text,symbolic,symbolic,correct
+kenny,Biology,Biology::122_2019_Article_3517-1,bmw magic2,bmw magic2,bmw magic ²,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::122_2019_Article_3517-1,oakley x exsept6,oakley x exsept6,oakley × exsept ⁶,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::122_2019_Article_3517-1,fir13565,firl3565,fir13565,text,other semantic,other semantic,correct
+kenny,Biology,Biology::122_2019_Article_3517-1,bmw magic2,bmw magic2,bmw magic ²,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::122_2019_Article_3517-1,bmw magic2,bmw magic2,bmw magic ²,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::122_2019_Article_3517-1,oakley x gatsby6,oakley x gatsby6,oakley × gatsby ⁶,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::122_2019_Article_3517-1,niab elite magic1,niab elite magic1,niab elite magic ¹,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::122_2019_Article_3517-1,bmw magic2,bmw magic2,bmw magic ²,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::122_2019_Article_3517-1,claire x malacca9,claire x malacca9,claire × malacca ⁹,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::122_2019_Article_3517-1,"paragon x cs5, paragon x shw cssl12, genome sequence10","paragon x cs5, paragon x shw cssl12, genome sequence10","paragon × cs ⁵, paragon × shw cssl ¹², genome sequence ¹⁰",vision,symbolic,correct,symbolic
+kenny,Biology,Biology::122_2019_Article_3517-1,bmw magic2,bmw magic2,bmw magic ²,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::122_2019_Article_3517-1,niab elite magic1,niab elite magic1,niab elite magic ¹,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::122_2019_Article_3517-1,niab elite magic1. genome sequence10,niab elite magic1. genome sequence10,niab elite magic ¹. genome sequence ¹⁰,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::122_2019_Article_3517-1,0,0,0.7,vision,truncation / merge,correct,truncation / merge
+kenny,Biology,Biology::122_2019_Article_3517-1,niab elite magic1,niab elite magic1,niab elite magic ¹,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::122_2019_Article_3517-1,0.7,0.7,0,vision,truncation / merge,correct,truncation / merge
+kenny,Biology,Biology::122_2019_Article_3517-1,tios †,tios†,tios †,text,symbolic,symbolic,correct
+kenny,Biology,Biology::122_2019_Article_3517-1,tios x dic12b11,tios x dic12b11,tios × dic12b ¹¹,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::122_2019_Article_3517-1,0,0,2.8,vision,numeric value,correct,numeric value
+kenny,Biology,Biology::122_2019_Article_3517-1,2.8,2.8,,vision,empty content,correct,empty content
+kenny,Biology,Biology::12711_2023_Article_837-1,0.34 (0.07),0.34 (0.07),0.34(0.07),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12711_2023_Article_837-1,0.25 (0.07),0.25 (0.07),0.25(0.07),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12711_2023_Article_837-1,-0.37 (0.15),-0.37 (0.15),-0.37(0.15),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12711_2023_Article_837-1,-0.50 (0.02),-0.50 (0.02),-0.50(0.02),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12711_2023_Article_837-1,0.42 (0.07),0.42 (0.07),0.42(0.07),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12711_2023_Article_837-1,0.22 (0.06),0.22 (0.06),0.22(0.06),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12711_2023_Article_837-1,0.42 (0.16),0.42 (0.16),0.42(0.16),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12711_2023_Article_837-1,-0.06 (0.02),-0.06 (0.02),-0.06(0.02),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12711_2023_Article_837-1,0.14 (0.05),0.14 (0.05),0.14(0.05),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12711_2023_Article_837-1,0.24 (0.07),0.24 (0.07),0.24(0.07),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12711_2023_Article_837-1,0.11 (0.23),0.11 (0.23),0.11(0.23),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12711_2023_Article_837-1,-0.10 (0.02),-0.10 (0.02),-0.10(0.02),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12711_2023_Article_837-1,0.26 (0.06),0.26 (0.06),0.26(0.06),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12711_2023_Article_837-1,0.25 (0.07),0.25 (0.07),0.25(0.07),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12711_2023_Article_837-1,0.10 (0.19),0.10 (0.19),0.10(0.19),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12711_2023_Article_837-1,0.03 (0.02),0.03 (0.02),0.03(0.02),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12711_2023_Article_837-1,0.34 (0.07),0.34 (0.07),0.34(0.07),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12711_2023_Article_837-1,0.25 (0.07),0.25 (0.07),0.25(.07),vision,numeric value,correct,numeric value
+kenny,Biology,Biology::12711_2023_Article_837-1,-0.06 (0.18),-0.06 (0.18),-0.06(0.18),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12711_2023_Article_837-1,0.06 (0.02),0.06 (0.02),0.06(0.02),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12711_2023_Article_837-1,0.39 (0.07),0.39 (0.07),0.39(0.07),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12711_2023_Article_837-1,0.25 (0.07),0.25 (0.07),0.25(0.07),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12711_2023_Article_837-1,0.11 (0.17),0.11 (0.17),0.11(.017),vision,other semantic,correct,other semantic
+kenny,Biology,Biology::12711_2023_Article_837-1,0.03 (0.02),0.03 (0.02),0.03(.02),vision,numeric value,correct,numeric value
+kenny,Biology,Biology::12711_2023_Article_837-1,0.32 (0.06),0.32 (0.06),0.32(0.06),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12711_2023_Article_837-1,0.21 (0.06),0.21 (0.06),0.21(0.06),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12711_2023_Article_837-1,-0.31 (0.18),-0.31 (0.18),-0.31(.018),vision,other semantic,correct,other semantic
+kenny,Biology,Biology::12711_2023_Article_837-1,-0.05 (0.02),-0.05 (0.02),-0.05(.02),vision,numeric value,correct,numeric value
+kenny,Biology,Biology::12711_2023_Article_837-1,0.18 (0.06),0.18 (0.06),0.18(0.06),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12711_2023_Article_837-1,0.24 (0.07),0.24 (0.07),0.24(.07),vision,numeric value,correct,numeric value
+kenny,Biology,Biology::12711_2023_Article_837-1,0.23 (0.21),0.23 (0.21),0.23(.021),vision,other semantic,correct,other semantic
+kenny,Biology,Biology::12711_2023_Article_837-1,0.09 (0.02),0.09 (0.02),0.09(.02),vision,numeric value,correct,numeric value
+kenny,Biology,Biology::12711_2023_Article_837-1,0.26 (0.07),0.26 (0.07),0.26(0.07),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12711_2023_Article_837-1,0.24 (0.07),0.24 (0.07),0.24(.07),vision,numeric value,correct,numeric value
+kenny,Biology,Biology::12711_2023_Article_837-1,-0.19 (0.19),-0.19 (0.19),-0.19(.019),vision,other semantic,correct,other semantic
+kenny,Biology,Biology::12711_2023_Article_837-1,-0.13 (0.02),-0.13 (0.02),-0.13(.02),vision,numeric value,correct,numeric value
+kenny,Biology,Biology::12711_2023_Article_837-1,0.16 (0.05),0.16 (0.05),0.16(0.05),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12711_2023_Article_837-1,0.23 (0.06),0.23 (0.06),0.23(.06),vision,numeric value,correct,numeric value
+kenny,Biology,Biology::12711_2023_Article_837-1,0.59 (0.20),0.59 (0.20),0.59(.020),vision,other semantic,correct,other semantic
+kenny,Biology,Biology::12711_2023_Article_837-1,0.04 (0.02),0.04 (0.02),0.04(.02),vision,numeric value,correct,numeric value
+kenny,Biology,Biology::12864_2016_Article_2858-1,13 (50 %),13 (50 %),13(50 %),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12864_2016_Article_2858-1,13 (50 %),13 (50 %),13(50 %),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12864_2016_Article_2858-1,1 (10 %),1 (10 %),1(10 %),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12864_2016_Article_2858-1,9 (90 %),9 (90 %),9(90 %),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12864_2016_Article_2858-1,3 (100 %),3 (100 %),3(100 %),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12864_2016_Article_2858-1,0 (0 %),0 (0 %),0(0 %),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12864_2016_Article_2858-1,0 (0 %),0 (0 %),0(0 %),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12864_2016_Article_2858-1,1(100 %),1 (100 %),1(100 %),text,symbolic,symbolic,correct
+kenny,Biology,Biology::12864_2016_Article_2858-1,5 (100 %),5 (100 %),5(100 %),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12864_2016_Article_2858-1,0 (0 %),0 (0 %),0(0 %),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12864_2016_Article_2858-1,0 (0 %),0 (0 %),0(0 %),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12864_2016_Article_2858-1,0 (0 %),0 (0 %),0(0 %),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12864_2016_Article_2858-1,2 (100 %),2 (100 %),2(100 %),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12864_2016_Article_2858-1,0 (0 %),0 (0 %),0(0 %),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12864_2016_Article_2858-1,2 (100 %),2 (100 %),2(100 %),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12864_2016_Article_2858-1,0 (0 %),0 (0 %),0(0 %),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12864_2016_Article_2858-1,139 (79 %),139 (79 %),139(79 %),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12864_2016_Article_2858-1,36 (21 %),36 (21 %),36(21 %),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12864_2016_Article_2858-1,0(0 %),0 (0 %),0(0 %),text,symbolic,symbolic,correct
+kenny,Biology,Biology::12864_2016_Article_2858-1,0 (0 %),0 (0 %),0(0 %),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12864_2016_Article_2858-1,0.,0,0.,text,truncation / merge,truncation / merge,correct
+kenny,Biology,Biology::12864_2016_Article_2858-1,0 (0 %),0 (0 %),0(0 %),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12864_2016_Article_2858-1,5 (100 %),5 (100 %),5(100 %),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12864_2016_Article_2858-1,92 (78 %),92 (78 %),92(78 %),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12864_2016_Article_2858-1,26 (22 %),26 (22 %),26(22 %),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12864_2016_Article_2858-1,45 (75 %),45 (75 %),45(75 %),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12864_2016_Article_2858-1,15(25 %),15 (25 %),15(25 %),text,symbolic,symbolic,correct
+kenny,Biology,Biology::12864_2016_Article_2858-1,33 (73 %),33 (73 %),33(73 %),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12864_2016_Article_2858-1,12(27 %),12 (27 %),12(27 %),text,symbolic,symbolic,correct
+kenny,Biology,Biology::12864_2016_Article_2858-1,42 (78 %),42 (78 %),42(78 %),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12864_2016_Article_2858-1,12(22 %),12 (22 %),12(22 %),text,symbolic,symbolic,correct
+kenny,Biology,Biology::12864_2016_Article_2858-1,35 (100 %),35 (100 %),35(100 %),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12864_2016_Article_2858-1,0 (0 %),0 (0 %),0(0 %),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12864_2016_Article_2858-1,41 (75 %),41 (75 %),41(75 %),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12864_2016_Article_2858-1,14 (25 %),14 (25 %),14(25 %),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12864_2016_Article_2858-1,18 (24 %),18 (24 %),18(24 %),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12864_2016_Article_2858-1,58 (76 %),58 (76 %),58(76 %),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12864_2016_Article_2858-1,18 (78 %),18 (78 %),18(78 %),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12864_2016_Article_2858-1,5 (22 %),5 (22 %),5(22 %),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12864_2016_Article_2858-1,0 (0 %),0 (0 %),0(0 %),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12864_2016_Article_2858-1,1 (100 %),1 (100 %),1(100 %),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12864_2016_Article_2858-1,35 (100 %),35 (100 %),35(100 %),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12864_2016_Article_2858-1,0 (0 %),0 (0 %),0(0 %),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12864_2016_Article_2858-1,52 (60 %),52 (60 %),52(60 %),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12864_2016_Article_2858-1,35 (40 %),35 (40 %),35(40 %),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::12889_2020_Article_9579,women (n=1839),women (n = 1839),women (n=1839),text,symbolic,symbolic,correct
+kenny,Biology,Biology::12889_2020_Article_9579,men (n=1508),men (n = 1508),men (n=1508),text,symbolic,symbolic,correct
+kenny,Biology,Biology::12889_2020_Article_9579,52.10(8.92),52.10 (8.92),52.10(8.92),text,symbolic,symbolic,correct
+kenny,Biology,Biology::12889_2020_Article_9579,53.83(9.40),53.83 (9.40),53.83(9.40),text,symbolic,symbolic,correct
+kenny,Biology,Biology::12889_2020_Article_9579,84.26(10.70),84.26 (10.70),84.26(10.70),text,symbolic,symbolic,correct
+kenny,Biology,Biology::12889_2020_Article_9579,86.95(10.15),86.95 (10.15),86.95(10.15),text,symbolic,symbolic,correct
+kenny,Biology,Biology::12889_2020_Article_9579,131.29(23.06),131.29 (23.06),131.29(23.06),text,symbolic,symbolic,correct
+kenny,Biology,Biology::12889_2020_Article_9579,134.34(22.57),134.34 (22.57),134.34(22.57),text,symbolic,symbolic,correct
+kenny,Biology,Biology::12889_2020_Article_9579,82.05(14.43),82.05 (14.43),82.05(14.43),text,symbolic,symbolic,correct
+kenny,Biology,Biology::12889_2020_Article_9579,84.36(14.18),84.36 (14.18),84.36(14.18),text,symbolic,symbolic,correct
+kenny,Biology,Biology::12889_2020_Article_9579,184.92(33.47),184.92 (33.47),184.92(33.47),text,symbolic,symbolic,correct
+kenny,Biology,Biology::12889_2020_Article_9579,183.40(33.26),183.40 (33.26),183.40(33.26),text,symbolic,symbolic,correct
+kenny,Biology,Biology::12889_2020_Article_9579,50.94(11.80),50.94 (11.80),50.94(11.80),text,symbolic,symbolic,correct
+kenny,Biology,Biology::12889_2020_Article_9579,49.11(9.84),49.11 (9.84),49.11(9.84),text,symbolic,symbolic,correct
+kenny,Biology,Biology::12889_2020_Article_9579,67(3.64),67 (3.64),67(3.64),text,symbolic,symbolic,correct
+kenny,Biology,Biology::12889_2020_Article_9579,48(3.18),48 (3.18),48(3.18),text,symbolic,symbolic,correct
+kenny,Biology,Biology::12889_2020_Article_9579,122(6.63),122 (6.63),122(6.63),text,symbolic,symbolic,correct
+kenny,Biology,Biology::12889_2020_Article_9579,143(9.48),143 (9.48),143(9.48),text,symbolic,symbolic,correct
+kenny,Biology,Biology::12889_2020_Article_9579,256(13.92),256 (13.92),256(13.92),text,symbolic,symbolic,correct
+kenny,Biology,Biology::12889_2020_Article_9579,50(3.32),50 (3.32),50(3.32),text,symbolic,symbolic,correct
+kenny,Biology,Biology::12889_2020_Article_9579,238(12.94),238 (12.94),238(12.94),text,symbolic,symbolic,correct
+kenny,Biology,Biology::12889_2020_Article_9579,632(41.91),632 (41.91),632(41.91),text,symbolic,symbolic,correct
+kenny,Biology,Biology::13059_2021_Article_2398-1,2.37%,2.37%,2.37 %,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::13059_2021_Article_2398-1,1.13%,1.13%,1.13 %,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::13059_2021_Article_2398-1,1.38%,1.38%,1.38 %,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::13059_2021_Article_2398-1,1.07%,1.07%,1.07 %,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::13059_2021_Article_2398-1,0.76%,0.76%,0.76 %,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::13059_2021_Article_2398-1,1.62%,1.62%,1.62 %,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::1471_2164_11_551-1,group,group,,vision,missing cell,correct,missing cell
+kenny,Biology,Biology::1471_2164_11_551-1,average marker distance (cm),average marker distance (cm),average markerª distance (cm),vision,other semantic,correct,other semantic
+kenny,Biology,Biology::1471_2164_11_551-1,number of skewed markers,number of skewed markers,number of skewed,vision,truncation / merge,correct,truncation / merge
+kenny,Biology,Biology::CAM4_12_18786-1,genes,genes,,vision,empty content,correct,empty content
+kenny,Biology,Biology::CAM4_12_18786-1,number of variants (% of all p/ lp variants identified),number of variants (% of all p/lp variants identified),number of variants (% of all p/ lp variants identified),text,symbolic,symbolic,correct
+kenny,Biology,Biology::CAM4_12_18786-1,"number of variants with pre-existing personal and/or family criteria for genetic analysis, phenotype-related or not (% if relevant)","number of variants with pre-existing personal and/or family criteria for genetic analysis, phenotype-related or not (% if relevant)","number of existing personal and/or family criteria for genetic analysis, phenotype-related or not (% if relevant)",vision,other semantic,correct,other semantic
+kenny,Biology,Biology::CAM4_12_18786-1,number of variants with analysis criteria not identified by the oncologist (% if relevant),number of variants with analysis criteria not identified by the oncologist (% if relevant),number of,vision,truncation / merge,correct,truncation / merge
+kenny,Biology,Biology::CAM4_12_18786-1,number of incidental variants (% if relevant),number of incidental variants (% if relevant),number of analysis criteria not identified by the oncologist (% if relevant),vision,other semantic,correct,other semantic
+kenny,Biology,Biology::CAM4_12_18786-1,7(8.6),7 (8.6),7(8.6),text,symbolic,symbolic,correct
+kenny,Biology,Biology::CAM4_12_18786-1,5/7 (71.4),5/7 (71.4),5 / 7(71.4),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::CAM4_12_18786-1,7/7,7/7,7 / 7,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::CAM4_12_18786-1,0/7,0/7,0 / 7,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::CAM4_12_18786-1,1/7 (14.3),1/7 (14.3),1 / 7(14.3),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::CAM4_12_18786-1,15(18.5),15 (18.5),15(18.5),text,symbolic,symbolic,correct
+kenny,Biology,Biology::CAM4_12_18786-1,4/15 (26.7),4/15 (26.7),4 / 15(26.7),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::CAM4_12_18786-1,9/15 (60.0),9/15 (60.0),9 / 15(60.0),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::CAM4_12_18786-1,5/9 (55.6),5/9 (55.6),5 / 9(55.6),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::CAM4_12_18786-1,2/15 (13.3),2/15 (13.3),2 / 15(13.3),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::CAM4_12_18786-1,2(2.5),2 (2.5),2(2.5),text,symbolic,symbolic,correct
+kenny,Biology,Biology::CAM4_12_18786-1,0/2,0/2,0 / 2,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::CAM4_12_18786-1,2 / 2,2/2,2 / 2,text,symbolic,symbolic,correct
+kenny,Biology,Biology::CAM4_12_18786-1,1 / 2,1/2,1 / 2,text,symbolic,symbolic,correct
+kenny,Biology,Biology::CAM4_12_18786-1,0 / 2,0/2,0 / 2,text,symbolic,symbolic,correct
+kenny,Biology,Biology::CAM4_12_18786-1,1(1.2),1 (1.2),1(1.2),text,symbolic,symbolic,correct
+kenny,Biology,Biology::CAM4_12_18786-1,0 / 1,0/1,0 / 1,text,symbolic,symbolic,correct
+kenny,Biology,Biology::CAM4_12_18786-1,1 / 1,1/1,1 / 1,text,symbolic,symbolic,correct
+kenny,Biology,Biology::CAM4_12_18786-1,0 / 1,0/1,0 / 1,text,symbolic,symbolic,correct
+kenny,Biology,Biology::CAM4_12_18786-1,0 / 1,0/1,0 / 1,text,symbolic,symbolic,correct
+kenny,Biology,Biology::CAM4_12_18786-1,2(2.5),2 (2.5),2(2.5),text,symbolic,symbolic,correct
+kenny,Biology,Biology::CAM4_12_18786-1,1 / 2,1/2,1 / 2,text,symbolic,symbolic,correct
+kenny,Biology,Biology::CAM4_12_18786-1,2 / 2,2/2,2 / 2,text,symbolic,symbolic,correct
+kenny,Biology,Biology::CAM4_12_18786-1,1 / 2,1/2,1 / 2,text,symbolic,symbolic,correct
+kenny,Biology,Biology::CAM4_12_18786-1,2(2.5),2 (2.5),2(2.5),text,symbolic,symbolic,correct
+kenny,Biology,Biology::CAM4_12_18786-1,1 / 2,1/2,1 / 2,text,symbolic,symbolic,correct
+kenny,Biology,Biology::CAM4_12_18786-1,1 / 2,1/2,1 / 2,text,symbolic,symbolic,correct
+kenny,Biology,Biology::CAM4_12_18786-1,0 / 1,0/1,0 / 1,text,symbolic,symbolic,correct
+kenny,Biology,Biology::CAM4_12_18786-1,1 / 2,1/2,1 / 2,text,symbolic,symbolic,correct
+kenny,Biology,Biology::CAM4_12_18786-1,2(2.5),2 (2.5),2(2.5),text,symbolic,symbolic,correct
+kenny,Biology,Biology::CAM4_12_18786-1,0 / 2,0/2,0 / 2,text,symbolic,symbolic,correct
+kenny,Biology,Biology::CAM4_12_18786-1,0 / 2,0/2,0 / 2,text,symbolic,symbolic,correct
+kenny,Biology,Biology::CAM4_12_18786-1,1 / 2,1/2,1 / 2,text,symbolic,symbolic,correct
+kenny,Biology,Biology::CAM4_12_18786-1,1(1.2),1 (1.2),1(1.2),text,symbolic,symbolic,correct
+kenny,Biology,Biology::CAM4_12_18786-1,0 / 1,0/1,0 / 1,text,symbolic,symbolic,correct
+kenny,Biology,Biology::CAM4_12_18786-1,0 / 1,0/1,0 / 1,text,symbolic,symbolic,correct
+kenny,Biology,Biology::CAM4_12_18786-1,0 / 1,0/1,0 / 1,text,symbolic,symbolic,correct
+kenny,Biology,Biology::CAM4_12_18786-1,0 / 1,0/1,0 / 1,text,symbolic,symbolic,correct
+kenny,Biology,Biology::CAM4_12_18786-1,n/a,n/a,1 / 1,vision,other semantic,correct,other semantic
+kenny,Biology,Biology::CAM4_12_18786-1,1(1.2),1 (1.2),1(1.2),text,symbolic,symbolic,correct
+kenny,Biology,Biology::CAM4_12_18786-1,0 / 1,1/1,0 / 1,text,numeric value,numeric value,correct
+kenny,Biology,Biology::CAM4_12_18786-1,1(1.2),1 (1.2),1(1.2),text,symbolic,symbolic,correct
+kenny,Biology,Biology::CAM4_12_18786-1,1 / 1,1/1,1 / 1,text,symbolic,symbolic,correct
+kenny,Biology,Biology::CAM4_12_18786-1,0 / 1,0/1,0 / 1,text,symbolic,symbolic,correct
+kenny,Biology,Biology::CAM4_12_18786-1,7 (8.6),7 (8.6),7(8.6),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::CAM4_12_18786-1,2/7 (28.6),2/7 (28.6),2 / 7(28.6),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::CAM4_12_18786-1,1 (1.2),1 (1.2),1(1.2),vision,symbolic,correct,symbolic
+kenny,Biology,Biology::CAM4_12_18786-1,0/1,0/1,0 / 1,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::CAM4_12_18786-1,0/1,0/1,0 / 1,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::ECE_9_6901-A1,no samples after fullsib removal,no samples after fullsib removal,no samples after fulilsb removal,vision,other semantic,correct,other semantic
+kenny,Biology,Biology::ECE_9_6901-A1,lokanga,iokanga,lokanga,text,other semantic,other semantic,correct
+kenny,Biology,Biology::acel0014_0725-1,"overexpression of far2 leads to upregulation of paf and tgf β, profibrotic factors.",overexpression of far2 leads to upregulation of paf and tgfβ; profibrotic factors.,"overexpression of far2 leads to upregulation of paf and tgf β, profibrotic factors.",text,other semantic,other semantic,correct
+kenny,Biology,Biology::bioengineering_10_00154-1,12q13.13,12q13.13,12q 13.13,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::bioengineering_10_00154-1,17q21.2,17q21.2,17 q 21.2,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::bioengineering_10_00154-1,ad,,ad,text,missing cell,missing cell,correct
+kenny,Biology,Biology::bioengineering_10_00154-1,%127600,%127600,% 127600,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::bioengineering_10_00154-1,4q35,4q35,4 q 35,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::bioengineering_10_00154-1,"pachyonychia congenita, pc",,"pachyonychia congenita, pc",text,missing cell,missing cell,correct
+kenny,Biology,Biology::bioengineering_10_00154-1,17q21.2,17q21.2,17 q 21.2,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::bioengineering_10_00154-1,pachyonychia congenita 2/pc2,pachyonychia congenita 2/pc2,pachyonychia congenita 2 / pc 2,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::bioengineering_10_00154-1,17q21.2,17q21.2,17 q 21.2,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::bioengineering_10_00154-1,pachyonychia congenita 3/pc3,pachyonychia congenita 3/pc3,pachyonychia congenita3/pc3,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::bioengineering_10_00154-1,12q13.13,12q13.13,12 q 13.13,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::bioengineering_10_00154-1,pachyonychia congenita 4/pc4,pachyonychia congenita 4/pc4,pachyonychia congenita4/pc4,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::bioengineering_10_00154-1,12q13.13,12q13.13,12 q 13.13,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::bioengineering_10_00154-1,3q26.2,3q26.2,3 q 26.2,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::bioengineering_10_00154-1,5p15.33,5p15.33,5p 15.33,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::bioengineering_10_00154-1,#613990- #268130,#613990-#268130,#613990- #268130,text,symbolic,symbolic,correct
+kenny,Biology,Biology::bioengineering_10_00154-1,14q12,14q12,14 q 12,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::bioengineering_10_00154-1,20q13.33,20q13.33,20 q 13.33,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::bioengineering_10_00154-1,16q22.1,16q22.1,16 q 22.1,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::bioengineering_10_00154-1,15 q 14,15q14,15 q 14,text,symbolic,symbolic,correct
+kenny,Biology,Biology::bioengineering_10_00154-1,"dkc, autosomal recessive 2/dkcb2","dkc, autosomal recessive 2/dkcb2","dkc, autosomal recessive 2 / dkcb 2",vision,symbolic,correct,symbolic
+kenny,Biology,Biology::bioengineering_10_00154-1,5q35.3,5q35.3,5 q 35.3,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::bioengineering_10_00154-1,"dkc, autosomal recessive 3/dkcb3","dkc, autosomal recessive 3/dkcb3","dkc, autosomal recessive3/dkcb3",vision,symbolic,correct,symbolic
+kenny,Biology,Biology::bioengineering_10_00154-1,17p13.1,17p13.1,17p 13.1,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::bioengineering_10_00154-1,16p13.12,16p13.12,16p 13.12,vision,symbolic,correct,symbolic
+kenny,Biology,Biology::bioengineering_10_00154-1,"dkc, autosomal recessive 7/dkcb7","dkc, autosomal recessive 7/dkcb7","dkc, autosomal recessive7/dkcb7",vision,symbolic,correct,symbolic
+kenny,Biology,Biology::bioengineering_10_00154-1,16q22.1,16q22.1,16 q 22.1.,vision,other semantic,correct,other semantic
+kenny,Biology,Biology::ceg_12_037-1,80(73),80 (73),80(73),text,symbolic,symbolic,correct
+kenny,Biology,Biology::ceg_12_037-1,27(25),27 (25),27(25),text,symbolic,symbolic,correct
+kenny,Biology,Biology::ceg_12_037-1,3(3),3 (3),3(3),text,symbolic,symbolic,correct
+kenny,Biology,Biology::ceg_12_037-1,53(66),53 (66),53(66),text,symbolic,symbolic,correct
+kenny,Biology,Biology::ceg_12_037-1,12(15),12 (15),12(15),text,symbolic,symbolic,correct
+kenny,Biology,Biology::ceg_12_037-1,15(19),15 (19),15(19),text,symbolic,symbolic,correct
+kenny,Biology,Biology::ceg_12_037-1,5(6),5 (6),5(6),text,symbolic,symbolic,correct
+kenny,Biology,Biology::ceg_12_037-1,24(30),24 (30),24(30),text,symbolic,symbolic,correct
+kenny,Biology,Biology::ceg_12_037-1,47(59),47 (59),47(59),text,symbolic,symbolic,correct
+kenny,Biology,Biology::ceg_12_037-1,54(68),54 (68),54(68),text,symbolic,symbolic,correct
+kenny,Biology,Biology::ceg_12_037-1,17(21),17 (21),17(21),text,symbolic,symbolic,correct
+kenny,Biology,Biology::ceg_12_037-1,5(17),5 (17),5(17),text,symbolic,symbolic,correct
+kenny,Biology,Biology::ceg_12_037-1,8(27),8 (27),8(27),text,symbolic,symbolic,correct
+kenny,Biology,Biology::ceg_12_037-1,17(57),17 (57),17(57),text,symbolic,symbolic,correct
+kenny,Biology,Biology::ceg_12_037-1,,,98(89),vision,empty content,correct,empty content
+kenny,Biology,Biology::ceg_12_037-1,64 (58),64 (58),17(15),vision,numeric value,correct,numeric value
+kenny,Biology,Biology::fendo_10_00663-2,,,,vision,missing cell,correct,missing cell
+kenny,Biology,Biology::fendo_10_00663-2,number of equations which include variable,number of equations which include variable,,vision,missing cell,correct,missing cell
+kenny,Biology,Biology::fendo_10_00663-2,subjective/medical history,,subjective/medical history,text,missing cell,missing cell,correct
+kenny,Biology,Biology::fendo_10_00663-2,clinical/measured,,clinical/measured,text,missing cell,missing cell,correct
+kenny,Biology,Biology::fendo_10_00663-2,,,,text,missing cell,missing cell,correct
+kenny,Biology,Biology::fendo_10_00663-2,invasive variables,,invasive variables,text,missing cell,missing cell,correct
+kenny,Biology,Biology::fendo_10_00663-2,,,,text,missing cell,missing cell,correct
+kenny,Biology,Biology::fendo_10_00663-2,plasma or serum,,plasma or serum,text,missing cell,missing cell,correct
+kenny,Biology,Biology::fendo_10_00663-2,,,,text,missing cell,missing cell,correct
+kenny,Biology,Biology::fendo_10_00663-2,whole blood,,whole blood,text,missing cell,missing cell,correct
+kenny,Biology,Biology::fendo_10_00663-2,1,1,,vision,empty content,correct,empty content
+kenny,CompSci,CompSci::15665-2,cifar10,cifar10,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15665-2,imagenet,imagenet,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15665-2,l∞,l∞,i∞,vision,other semantic,correct,other semantic
+kenny,CompSci,CompSci::15665-2,l∞,l∞,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15665-2,0.03,0.03,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15665-2,0.007,0.007,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15665-2,0.25,0.25,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15665-2,fgm-l∞,fgm-l∞,fgm- l∞,vision,symbolic,correct,symbolic
+kenny,CompSci,CompSci::15665-2,0.014,0.014,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15665-2,0.054,0.054,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15665-2,0.086,0.086,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15665-2,i-fgm-l∞,i-fgm-l∞,i-fgm- l∞,vision,symbolic,correct,symbolic
+kenny,CompSci,CompSci::15665-2,0.01,0.01,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15665-2,0.238,0.238,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15665-2,0.293,0.293,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15666-2,rnn w/ 3 x 3 grid rois,rnn w/ 3 x 3 grid rois,rnn w/ 3 × 3 grid rois,vision,symbolic,correct,symbolic
+kenny,CompSci,CompSci::15666-2,rnn w/ 4 x 4 grid rois,rnn w/ 4 x 4 grid rois,rnn w/ 4 × 4 grid rois,vision,symbolic,correct,symbolic
+kenny,CompSci,CompSci::15673-1,md loss,md,md loss,text,truncation / merge,truncation / merge,correct
+kenny,CompSci,CompSci::15673-1,cis,cjs,cis,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15673-1,ped,loss,ped,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15673-1,0.197,,0.197,text,empty content,empty content,correct
+kenny,CompSci,CompSci::15673-1,2.830,,2.830,text,empty content,empty content,correct
+kenny,CompSci,CompSci::15673-1,0.059,,0.059,text,empty content,empty content,correct
+kenny,CompSci,CompSci::15673-1,0.105,,0.105,text,empty content,empty content,correct
+kenny,CompSci,CompSci::15673-1,0.728,,0.728,text,empty content,empty content,correct
+kenny,CompSci,CompSci::15673-1,0.323,,0.323,text,empty content,empty content,correct
+kenny,CompSci,CompSci::15673-1,0.068,,0.068,text,empty content,empty content,correct
+kenny,CompSci,CompSci::15673-1,rs-ped,ped,rs-ped,text,truncation / merge,truncation / merge,correct
+kenny,CompSci,CompSci::15673-1,0.189,0.197,0.189,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,2.733,2.830,2.733,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.055,0.059,0.055,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.094,0.105,0.094,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.657,0.728,0.657,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.324,0.323,0.324,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.067,0.068,0.067,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,pce,rs-ped,pce,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15673-1,0.167,0.189,0.167,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,2.773,2.733,2.773,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.041,0.055,0.041,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.075,0.094,0.075,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.442,0.657,0.442,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.279,0.324,0.279,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.049,0.067,0.049,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,rs-pce,pce,rs-pce,text,truncation / merge,truncation / merge,correct
+kenny,CompSci,CompSci::15673-1,0.169,0.167,0.169,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,2.771,2.773,2.771,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.046,0.041,0.046,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.071,0.075,0.071,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.438,0.442,0.438,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.047,0.049,0.047,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,pjs,rs-pce,pjs,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15673-1,0.185,0.169,0.185,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,2.828,2.771,2.828,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.051,0.046,0.051,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.093,0.071,0.093,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.527,0.438,0.527,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.326,0.279,0.326,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.053,0.047,0.053,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,rs-pjs,pjs,rs-pjs,text,truncation / merge,truncation / merge,correct
+kenny,CompSci,CompSci::15673-1,0.183,0.185,0.183,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,2.776,2.828,2.776,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.049,0.051,0.049,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.091,0.093,0.091,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.523,0.527,0.523,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.327,0.326,0.327,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.049,0.053,0.049,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,"pcs (jin, segovia, and süsstrunk 2016)",rs-pjs,"pcs (jin, segovia, and süsstrunk 2016)",text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15673-1,0.182,0.183,0.182,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,2.807,2.776,2.807,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.045,0.049,0.045,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.082,0.091,0.082,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.450,0.523,0.450,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.287,0.327,0.287,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.045,0.049,0.045,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,rs-pcs,"pcs (jin, segovia, and süsstrunk 2016)",rs-pcs,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15673-1,0.175,0.182,0.175,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,2.783,2.807,2.783,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.079,0.082,0.079,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.423,0.450,0.423,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.277,0.287,0.277,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.044,0.045,0.044,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,pkl (wang et al. 2017),rs-pcs,pkl (wang et al. 2017),text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15673-1,0.163,0.175,0.163,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,2.779,2.783,2.779,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.039,0.045,0.039,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.073,0.079,0.073,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.389,0.423,0.389,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.270,0.277,0.270,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,rs-pkl,pkl (wang et al. 2017),rs-pkl,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15673-1,0.164,0.163,0.164,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,2.778,2.779,2.778,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.037,0.039,0.037,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.071,0.073,0.071,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.386,0.389,0.386,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.268,0.270,0.268,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.043,0.044,0.043,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,mmd (borgwardt et al. 2006),rs-pkl,mmd (borgwardt et al. 2006),text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15673-1,0.201,0.164,0.201,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,2.831,2.778,2.831,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.064,0.037,0.064,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.112,0.071,0.112,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.710,0.386,0.710,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.339,0.268,0.339,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.068,0.043,0.068,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,rs-mmd,mmd (borgwardt et al. 2006),rs-mmd,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15673-1,0.196,0.201,0.196,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,2.824,2.831,2.824,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.063,0.064,0.063,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.097,0.112,0.097,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.322,0.339,0.322,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.054,0.068,0.054,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,huber (murray and gordo 2017),rs-mmd,huber (murray and gordo 2017),text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15673-1,0.184,0.196,0.184,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,2.775,2.824,2.775,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.044,0.063,0.044,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.078,0.097,0.078,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.409,0.710,0.409,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.279,0.322,0.279,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.053,0.054,0.053,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,rs-huber,huber (murray and gordo 2017),rs-huber,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15673-1,0.183,0.184,0.183,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,2.774,2.775,2.774,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.045,0.044,0.045,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.074,0.078,0.074,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.402,0.409,0.402,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.271,0.279,0.271,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.048,0.053,0.048,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,"ced (wu, hu, and gao 2011; hou, yu, and samaras 2016)",rs-huber,"ced (wu, hu, and gao 2011; hou, yu, and samaras 2016)",text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15673-1,0.182,0.183,0.182,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,2.799,2.774,2.799,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.047,0.045,0.047,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.085,0.074,0.085,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.502,0.402,0.502,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.294,0.271,0.294,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.049,0.048,0.049,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,rs-ced,"ced (wu, hu, and gao 2011; hou, yu, and samaras 2016)",rs-ced,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15673-1,0.180,0.182,0.180,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,2.792,2.799,2.792,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.048,0.047,0.048,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.082,0.085,0.082,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.283,0.294,0.283,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.047,0.049,0.047,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,our cjs,rs-ced,our cjs,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15673-1,0.163,0.180,0.163,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,2.779,2.792,2.779,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.072,0.082,0.072,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.382,0.502,0.382,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.266,0.283,0.266,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.041,0.047,0.041,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,our rs-cjs,our cjs,our rs-cjs,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15673-1,0.158,0.163,0.158,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,2.760,2.779,2.760,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.037,0.039,0.037,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.068,0.072,0.068,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.381,0.382,0.381,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.260,0.266,0.260,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,0.040,0.041,0.040,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,ldl method (cui et al. 2017),our rs-cjs,ldl method (cui et al. 2017),text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15673-1,0.303,0.158,0.303,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15673-1,-,2.760,-,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15673-1,-,0.037,-,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15673-1,-,0.068,-,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15673-1,-,0.381,-,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15673-1,-,0.260,-,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15673-1,-,0.040,-,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15677-3,methods,,methods,text,missing cell,missing cell,correct
+kenny,CompSci,CompSci::15677-3,0.5301 ± 0.0006,0.5301± 0.0006,0.5301 ± 0.0006,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::15677-3,phased lstm,phased lstm,phased lstm clock-work rnn,vision,truncation / merge,correct,truncation / merge
+kenny,CompSci,CompSci::15677-3,clock-work rnn,clock-work rnn,retain,vision,other semantic,correct,other semantic
+kenny,CompSci,CompSci::15677-3,retain,retain,lstm,vision,other semantic,correct,other semantic
+kenny,CompSci,CompSci::15677-3,lstm,lstm,he-lstm,vision,truncation / merge,correct,truncation / merge
+kenny,CompSci,CompSci::15677-3,he-lstm,he-lstm,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15677-3,0.9516 ± 0.0003,0.9516 ± 0.0003,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15677-3,0.7687 ± 0.0011,0.7687 ± 0.0011,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15677-3,0.7987 ± 0.0008,0.7987 ± 0.0008,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15677-3,0.3914 ± 0.0013,0.3914 ± 0.0013,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15681-3,gru-lang+time+context,gru-lang+time+context,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15681-3,"walk, *, kitchen","walk, *, kitchen",,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15681-3,"flip, faucet, kitchen","flip, faucet, kitchen",,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15681-3,2015-02-20 11:59:56,2015-02-20 11:59:36,2015-02-20 11:59:56,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15681-3,"wash, water, kitchen","wash, water, kitchen","wash, water, kitchen & wash, hand, kitchen",vision,truncation / merge,correct,truncation / merge
+kenny,CompSci,CompSci::15681-3,"wash, hand, kitchen","wash, hand, kitchen",,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15681-3,2015-02-20 11:59,2015-02-20 11:59:40,2015-02-20 11:59,text,truncation / merge,truncation / merge,correct
+kenny,CompSci,CompSci::15681-3,"turn-off, faucet, kitchen","turn_off, faucet, kitchen","turn-off, faucet, kitchen",text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15681-3,"turn-off, faucet, kitchen","turn_off, faucet, kitchen","turn-off, faucet, kitchen",text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15681-3,2015-02-20 11:39:42,2015-02-20 11:59:42,2015-02-20 11:39:42,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15681-3,"wipe, hand, kitchen","wipe, hand, kitchen","wipe, hand, kitchen & wipe, hand, kitchen",vision,truncation / merge,correct,truncation / merge
+kenny,CompSci,CompSci::15681-3,"wipe, hand, kitchen","wipe, hand, kitchen",,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15681-3,2015-02-20 11:39,2015-02-20 11:59:51,2015-02-20 11:39,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15681-3,"walk, bottle, kitchen","walk, bottle, kitchen","walk, bottle, kitchen & walk, *, kitchen",vision,truncation / merge,correct,truncation / merge
+kenny,CompSci,CompSci::15681-3,"walk, *, kitchen","walk, *, kitchen",,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15681-3,2015-02-20 20 11:59:53,2015-02-20 11:59:53,2015-02-20 20 11:59:53,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15681-3,"hold, bottle, kitchen","hold, bottle, kitchen","hold, bottle, kitchen & hold, bottle, kitchen",vision,truncation / merge,correct,truncation / merge
+kenny,CompSci,CompSci::15681-3,"hold, bottle, kitchen","hold, bottle, kitchen",,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15681-3,2015-02-20 11:59-55,2015-02-20 11:59:55,2015-02-20 11:59-55,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15681-3,"walk, bottle, kitchen","walk, bottle, kitchen","walk, bottle, kitchen & walk,*, kitchen",vision,truncation / merge,correct,truncation / merge
+kenny,CompSci,CompSci::15681-3,"walk, *, kitchen","walk, *, kitchen",,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15681-3,"put, bottle, kitchen","put, bottle, kitchen","put, bottle, kitchen & put, bottle, kitchen",vision,truncation / merge,correct,truncation / merge
+kenny,CompSci,CompSci::15681-3,"put, bottle, kitchen","put, bottle, kitchen",,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15681-3,2015-02-20 12:00,2015-02-20 12:00:03,2015-02-20 12:00,text,truncation / merge,truncation / merge,correct
+kenny,CompSci,CompSci::15681-3,"close, *, kitchen","close, *, kitchen","close, *, kitchen & close, *, kitchen",vision,truncation / merge,correct,truncation / merge
+kenny,CompSci,CompSci::15681-3,"close, *, kitchen","close, *, kitchen",,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15688-1,ε,͕,ε,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15688-1,n,n,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15688-1,"1083(fs), 1315 (cmcc)","1083 (fs), 1315 (cmcc) 5378 (d4d)","1083(fs), 1315 (cmcc)",text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15688-1,total number of users,total number of users,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15688-1,α,ρ,α,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15688-1,number of selected users,probability for user selection,number of selected users,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15688-1,ρ,k,ρ,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15688-1,95%,6,95%,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15688-1,probability for user selection,number of user groups,probability for user selection,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15688-1,k,,k,text,missing cell,missing cell,correct
+kenny,CompSci,CompSci::15688-1,6,,6,text,missing cell,missing cell,correct
+kenny,CompSci,CompSci::15688-1,number of user groups,,number of user groups,text,missing cell,missing cell,correct
+kenny,CompSci,CompSci::15690-1,39.7 %,39.7%,39.7 %,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::15690-1,38.6 %,38.6%,38.6 %,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::15690-1,54.7%,54.7%,54.7 %,vision,symbolic,correct,symbolic
+kenny,CompSci,CompSci::15690-1,40.9 %,40.9%,40.9 %,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::15690-1,41.7 %,41.7%,41.7 %,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::15690-1,56.3 %,56.3%,56.3 %,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::15690-1,40.6 ± 0.2 %,40.6±0.2%,40.6 ± 0.2 %,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::15690-1,53.9 ± 0.3 %,53.9±0.3%,53.9 ± 0.3 %,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::15690-1,41.0 ± 0.1 %,41.0±0.1%,41.0 ± 0.1 %,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::15690-1,54.6 ± 0.2 %,54.6±0.2%,54.6 ± 0.2 %,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::15690-2,61.8 %,61.8%,61.8 %,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::15690-2,62.5 %,62.5%,62.5 %,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::15690-2,57.6 ± 0.1 %,57.6±0.1%,57.6 ± 0.1 %,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::15690-2,58.5 ± 0.3 %,58.5±0.3%,58.5 ± 0.3 %,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::15690-2,60.3 ± 0.3 %,60.3±0.3%,60.3 ± 0.3 %,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::15692-3,50,50,0,vision,truncation / merge,correct,truncation / merge
+kenny,CompSci,CompSci::15692-3,0.8599,0.8599,0.859,vision,truncation / merge,correct,truncation / merge
+kenny,CompSci,CompSci::15696-6,(blacoe and lapata 2012),(blacoe and lapata 2012),"(blacoe and lapata 2012) (wan et al. 2006) (madnani, tetreault, and chodorow 2012) (ji and eisenstein 2013)",vision,truncation / merge,correct,truncation / merge
+kenny,CompSci,CompSci::15696-6,73.0,73.0,73.0 75.6 77.4 80.4,vision,truncation / merge,correct,truncation / merge
+kenny,CompSci,CompSci::15696-6,82.3,82.3,82.3 83.0 84.1 86.0,vision,truncation / merge,correct,truncation / merge
+kenny,CompSci,CompSci::15696-6,(wan et al. 2006),(wan et al. 2006),"(hu et al. 2014) (socher et al. 2011) (yin and schütze 2015) - without pretraining (yin and schütze 2015) - with pretraining (he, gimpel, and lin 2015) - without pos embeddings (he, gimpel, and lin 2015) - with pos and para. embeddings",vision,other semantic,correct,other semantic
+kenny,CompSci,CompSci::15696-6,75.6,75.6,69.9 76.8 72.5 78.1 77.8 78.6,vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::15696-6,83.0,83.0,80.9 83.6 81.4 84.4 n/a 84.7,vision,other semantic,correct,other semantic
+kenny,CompSci,CompSci::15696-6,"(madnani, tetreault, and chodorow 2012)","(madnani, tetreault, and chodorow 2012)",ca-rnn s (att),vision,other semantic,correct,other semantic
+kenny,CompSci,CompSci::15696-6,77.4,77.4,77.3,vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::15696-6,84.1,84.1,84.0,vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::15696-6,(ji and eisenstein 2013),(ji and eisenstein 2013),,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15696-6,80.4,80.4,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15696-6,86.0,86.0,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15696-6,(hu et al. 2014),(hu et al. 2014),,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15696-6,69.9,69.9,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15696-6,80.9,80.9,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15696-6,(socher et al. 2011),(socher et al. 2011),,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15696-6,76.8,76.8,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15696-6,83.6,83.6,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15696-6,72.5,72.5,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15696-6,81.4,81.4,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15700-1,0 %,0%,0 %,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::15700-1,15 %,15%,15 %,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::15700-1,30 %,30%,30 %,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::15700-1,45 %,45%,45 %,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::15700-1,60 %,60%,60 %,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::15700-1,75 %,75%,75 %,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::15700-1,hoad,hoad,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15700-1,0.6512 ± 0.0445,0.6512±0.0445 (2.15×10-15),0.6512 ± 0.0445,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15700-1,0.6036 ± 0.0451,0.6036±0.0451 (4.58×10-10),0.6036 ± 0.0451,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15700-1,0.5815 ± 0.0429,0.5815±0.0429 (1.16×10-12),0.5815 ± 0.0429,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15700-1,0.5598 ± 0.0461,0.5598±0.0461 (9.24×10-6),0.5598 ± 0.0461,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15700-1,0.5302 ± 0.0470,0.5302±0.0470 (4.10×10-17),0.5302 ± 0.0470,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15700-1,0.5067 ± 0.0474,0.5067±0.0474 (1.98×10-20),0.5067 ± 0.0474,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15700-1,0.8946 ± 0.0397,0.7038±0.0458 (3.16×10-19),0.8946 ± 0.0397,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15700-1,0.8739 ± 0.0475,0.6798±0.0462 (6.22×10-20),0.8739 ± 0.0475,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15700-1,0.8519 ± 0.0511,0.6512±0.0471 (1.84×10-15),0.8519 ± 0.0511,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15700-1,0.8340 ± 0.0467,0.6264±0.0475 (8.16×10-16),0.8340 ± 0.0467,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15700-1,0.8017 ± 0.0554,0.5984±0.0476 (2.58×10-15),0.8017 ± 0.0554,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15700-1,0.7811 ± 0.0569,0.5603±0.0481 (4.41×10-20),0.7811 ± 0.0569,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::15700-1,0.7038 ± 0.0458,0.9385±0.0260,0.7038 ± 0.0458,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15700-1,0.6798 ± 0.0462,0.9177±0.0252,0.6798 ± 0.0462,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15700-1,0.6512 ± 0.0471,0.8826±0.0259,0.6512 ± 0.0471,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15700-1,0.6264 ± 0.0475,0.8543±0.0245,0.6264 ± 0.0475,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15700-1,0.5984 ± 0.0476,0.8291±0.0258,0.5984 ± 0.0476,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15700-1,0.5603 ± 0.0481,0.8055±0.0243,0.5603 ± 0.0481,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15700-1,0.7612 ± 0.0551,,0.7612 ± 0.0551,text,missing cell,missing cell,correct
+kenny,CompSci,CompSci::15700-1,0.7408 ± 0.0566,,0.7408 ± 0.0566,text,missing cell,missing cell,correct
+kenny,CompSci,CompSci::15700-1,0.7054 ± 0.0561,,0.7054 ± 0.0561,text,missing cell,missing cell,correct
+kenny,CompSci,CompSci::15700-1,0.6819 ± 0.0570,,0.6819 ± 0.0570,text,missing cell,missing cell,correct
+kenny,CompSci,CompSci::15700-1,0.6590 ± 0.0582,,0.6590 ± 0.0582,text,missing cell,missing cell,correct
+kenny,CompSci,CompSci::15700-1,0.6244 ± 0.0578,,0.6244 ± 0.0578,text,missing cell,missing cell,correct
+kenny,CompSci,CompSci::15700-1,ours,,ours,text,missing cell,missing cell,correct
+kenny,CompSci,CompSci::15700-1,0.9385 ± 0.0260,,0.9385 ± 0.0260,text,missing cell,missing cell,correct
+kenny,CompSci,CompSci::15700-1,0.9177 ± 0.0252,,0.9177 ± 0.0252,text,missing cell,missing cell,correct
+kenny,CompSci,CompSci::15700-1,0.8826 ± 0.0259,,0.8826 ± 0.0259,text,missing cell,missing cell,correct
+kenny,CompSci,CompSci::15700-1,0.8543 ± 0.0245,,0.8543 ± 0.0245,text,missing cell,missing cell,correct
+kenny,CompSci,CompSci::15700-1,0.8291 ± 0.0258,,0.8291 ± 0.0258,text,missing cell,missing cell,correct
+kenny,CompSci,CompSci::15700-1,0.8055 ± 0.0243,,0.8055 ± 0.0243,text,missing cell,missing cell,correct
+kenny,CompSci,CompSci::15701-2,datasets,,datasets,text,missing cell,missing cell,correct
+kenny,CompSci,CompSci::15701-2,nmi index (%),nmi index (%),,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15701-2,karrer,karrer,karrer snmf bnmtf mndp dnr,vision,truncation / merge,correct,truncation / merge
+kenny,CompSci,CompSci::15701-2,snmf,snmf,dnr,vision,other semantic,correct,other semantic
+kenny,CompSci,CompSci::15701-2,bnmtf,bnmtf,cnrce,vision,other semantic,correct,other semantic
+kenny,CompSci,CompSci::15701-2,mndp,mndp,netmrf,vision,other semantic,correct,other semantic
+kenny,CompSci,CompSci::15701-2,netmrf,netmrf,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15701-2,100,100,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15701-2,100,100,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15701-2,93.98,93.98,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15701-2,93.24,93.24,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15701-2,56.88,56.88,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15701-2,92.42,92.42,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15701-2,71.83,71.83,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15701-2,37.24,37.24,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15701-2,25.76,25.76,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15701-2,45.24,45.24,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15701-2,16.89,16.89,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15706-3,0.648 (± 0.0080),0.648 (± 0.0080),0. (± 0.0080),vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::15706-3,0.641 (± 0.0011),0.641 (± 0.0011),0.461 (± 0.0011),vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::15706-3,0.639 (± 0.0052),0.639 (± 0.0052),0.339 (± 0.0052),vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::15706-3,0.936 (± 0.0123),0.936 (± 0.0123),0. (± 0.0123),vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::15706-3,0.77 (± 0.0019),0.777 (± 0.0019),0.77 (± 0.0019),text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15706-3,0.944 (± 0.0033),0.944 (± 0.0033),0.494 (± 0.0033),vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::15706-3,epinions d=5,epinions d=5,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15706-3,mae,mae,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15706-3,0.891 (± 0.0135),0.891 (± 0.0135),0.99 (± 0.0135),vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::15706-3,1.077 (± 0.0132),1.077 (± 0.0027),1.077 (± 0.0132),text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15706-3,1.067 (± 0.0020),1.067 (± 0.0124),1.067 (± 0.0020),text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15706-3,1.401 (± 0.0002),1.041 (± 0.0002),1.401 (± 0.0002),text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15706-3,ciao d=5,ciao d=5,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15706-3,mae,mae,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15706-3,0.771 (± 0.0010),0.771 (± 0.0100),0.771 (± 0.0010),text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15706-3,0.757 (± 0.0016),0.757 (± 0.0016),0.757 (± 0.0051),vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::15706-3,0.907 (± 0.0051),0.907 (± 0.0051),0.907 (± 0.0010),vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::15706-3,0.757 (± 0.0010),0.757 (± 0.0010),,vision,empty content,correct,empty content
+kenny,CompSci,CompSci::15706-3,0.728 (± 0.0016),0.728 (± 0.0016),0.278 (± 0.0016),vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::15706-3,1.021 (± 0.0114),1.021 (± 0.0114),1.029 (± 0.0114),vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::15706-3,1.029 (± 0.0082),1.029 (± 0.0082),0.990 (± 0.0028),vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::15706-3,1.190 (± 0.0147),0.990 (± 0.0029),1.190 (± 0.0147),text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15706-3,0.990 (± 0.0020),1.190 (± 0.0147),0.990 (± 0.0020),text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15706-3,0.977 (± 0.0020),0.990 (± 0.0020),0.977 (± 0.0020),text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15706-3,0.960 (± 0.0033),0.977 (± 0.0102),0.960 (± 0.0033),text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15706-3,0.638 (± 0.0076),0.638 (± 0.0076),0.38 (± 0.0076),vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::15706-3,0.615 (± 0.0018),0.615 (± 0.0018),0.615 (± 0.0041),vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::15706-3,0.891 (± 0.0076),0.891 (± 0.0076),0.8981 (± 0.0076),vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::15706-3,0.868 (± 0.0120),0.868 (± 0.0120),0.688 (± 0.0018),vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::15706-3,0.845 (± 0.0025),0.845 (± 0.0025),0.886 (± 0.0202),vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::15706-3,0.786 (± 0.0017),0.786 (± 0.0017),0.786 (± 0.0055),vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::15706-3,0.789 (± 0.0055),0.789 (± 0.0055),0.789 (± 0.0015),vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::15706-3,1.041 (± 0.0150),1.041 (± 0.0150),,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15706-3,0.959 (± 0.0030),0.959 (± 0.0030),,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15706-3,1.007 (± 0.0122),1.007 (± 0.0122),0.959 (± 0.030),vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::15706-3,0.951 (± 0.0031),0.951 (± 0.0031),1.007 (± 0.0031),vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::15706-3,epinions d=10,epinions d=10,epi,vision,truncation / merge,correct,truncation / merge
+kenny,CompSci,CompSci::15706-3,0.799 (± 0.0019),0.799 (± 0.0019),,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15706-3,1.143 (± 0.0116),1.143 (± 0.0116),1.143 (± 0.0105),vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::15706-3,1.087 (± 0.0032),1.087 (± 0.0032),1.087 (± 0.032),vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::15706-3,1.233 (± 0.0163),1.233 (± 0.0163),2.133 (± 0.0163),vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::15706-3,1.103 (± 0.0023),1.103 (± 0.0023),,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15706-3,1.067 (± 0.0110),1.067 (± 0.0110),,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15706-3,1.038 (± 0.0001),1.038 (± 0.0001),,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15706-3,ciao d=10,ciao d=10,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15706-3,mae,mae,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15706-3,0.823 (± 0.0130),0.823 (± 0.0130),,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15706-3,0.768 (± 0.0108),0.768 (± 0.0108),,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15706-3,0.769 (± 0.0087),0.769 (± 0.0087),,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15706-3,0.753 (± 0.0016),0.753 (± 0.0016),,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15706-3,0.821 (± 0.0038),0.821 (± 0.0038),,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15706-3,0.745 (± 0.0012),0.745 (± 0.0012),,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15706-3,0.738 (± 0.0053),0.738 (± 0.0053),,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15706-3,0.722 (± 0.0019),0.722 (± 0.0019),,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15706-3,rmse,rmse,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15706-3,1.088 (± 0.0099),1.088 (± 0.0099),,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15706-3,1.017 (± 0.0110),1.017 (± 0.0110),,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15706-3,1.018 (± 0.0084),1.018 (± 0.0084),,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15706-3,0.976 (± 0.0026),0.976 (± 0.0026),,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15706-3,1.082 (± 0.0134),1.082 (± 0.0134),,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15706-3,1.022 (± 0.0018),1.022 (± 0.0018),,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15706-3,0.964 (± 0.0108),0.964 (± 0.0108),,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15706-3,0.955 (± 0.0029),0.955 (± 0.0029),,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::15712-1,0.361,0.366,0.361,text,numeric value,numeric value,correct
+kenny,CompSci,CompSci::15826-2,41.67 ± 0,41.67±0,41.67 ± 0,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::15826-2,68.63 ± 0,68.63±0,68.63 ± 0,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::15826-2,51.46 ± 0,51.46±0,51.46 ± 0,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::15826-2,47.90 ± 0.24,47.90±0.24,47.90 ± 0.24,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::15826-2,73.04 ± 0.79,73.04±0.79,73.04 ± 0.79,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::15826-2,50.91 ± 0.20,50.91±0.20,50.91 ± 0.20,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::15826-2,74.33 ± 0,74.33±0,74.33 ± 0,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::15826-2,83.58 ± 0,83.58±0,83.58 ± 0,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::15826-2,73.08 ± 0,73.08±0,73.08 ± 0,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::15826-2,43.01 ± 0,43.01±0,43.01 ± 0,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::15826-2,73.77 ± 0,73.77±0,73.77 ± 0,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::15826-2,56.23 ± 0,56.23±0,56.23 ± 0,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::15826-2,76.48 ± 0,76.48±0,76.48 ± 0,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::15826-2,85.78 ± 0,85.78±0,85.78 ± 0,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::15826-2,78.15 ± 0,78.15±0,78.15 ± 0,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::15826-2,79.93 ± 0.16,79.93±0.16,79.93 ± 0.16,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::15826-2,92.30 ± 0.21,92.30±0.21,92.30 ± 0.21,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::15826-2,79.01 ± 0.22,79.01±0.22,79.01 ± 0.22,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::16016-1,short yes/no reply to a question raised in the previous email,short yes/no reply to a question raised in the previous email,"short yes/no reply to a question raised in the previous email simple acknowledgements such as 'got it', 'thank you.'",vision,truncation / merge,correct,truncation / merge
+kenny,CompSci,CompSci::16016-1,reply-other,reply-other,investigate,vision,other semantic,correct,other semantic
+kenny,CompSci,CompSci::16016-1,reply to the thread based on information that is available without doing any additional investigation.,reply to the thread based on information that is available without doing any additional investigation.,look into some questions/problems to gather the necessary information and reply with that information.,vision,other semantic,correct,other semantic
+kenny,CompSci,CompSci::16016-1,investigate,investigate,send-new-email,vision,other semantic,correct,other semantic
+kenny,CompSci,CompSci::16016-1,look into some questions/problems to gather the necessary information and reply with that information.,look into some questions/problems to gather the necessary information and reply with that information.,write a new email that is not a reply to the current thread.,vision,other semantic,correct,other semantic
+kenny,CompSci,CompSci::16016-1,send-new-email,send-new-email,setup-,vision,other semantic,correct,other semantic
+kenny,CompSci,CompSci::16016-1,write a new email that is not a reply to the current thread.,write a new email that is not a reply to the current thread.,set up appointments/cancel appointments.,vision,other semantic,correct,other semantic
+kenny,CompSci,CompSci::16016-1,setup-appointment,setup-appointment,appointment,vision,truncation / merge,correct,truncation / merge
+kenny,CompSci,CompSci::16016-1,set up appointments/cancel appointments.,set up appointments/cancel appointments.,approve requests (typically from subordinates) through an external system such as an expense report system etc.,vision,other semantic,correct,other semantic
+kenny,CompSci,CompSci::16016-1,approve-request,approve-request,share-content,vision,other semantic,correct,other semantic
+kenny,CompSci,CompSci::16016-1,approve requests (typically from subordinates) through an external system such as an expense report system etc.,approve requests (typically from subordinates) through an external system such as an expense report system etc.,"share content, as an attachment, a link in the email body, or a location on the network that is known to both the sender and recipients",vision,other semantic,correct,other semantic
+kenny,CompSci,CompSci::16016-1,share-content,share-content,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::16016-1,"share content, as an attachment, a link in the email body, or a location on the network that is known to both the sender and recipients",approve requests (typically from subordinates) through an external system such as an expense report system etc.,"share content, as an attachment, a link in the email body, or a location on the network that is known to both the sender and recipients",text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::16016-3,50890,50 890,50890,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::16016-3,121917,121 917,121917,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::16016-3,15813,15 813,15813,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::16016-3,42952,42 952,42952,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::16016-3,50812,50 812,50812,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::16016-3,416721,416 721,416721,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::16018-1,"2,430k","2,430k","2,430 k",vision,symbolic,correct,symbolic
+kenny,CompSci,CompSci::16018-1,84k,84k,84 k,vision,symbolic,correct,symbolic
+kenny,CompSci,CompSci::16018-1,145k,145k,145 k,vision,symbolic,correct,symbolic
+kenny,CompSci,CompSci::16018-1,"1,611k","1,611k","1,611 k",vision,symbolic,correct,symbolic
+kenny,CompSci,CompSci::16018-1,25k,25k,25 k,vision,symbolic,correct,symbolic
+kenny,CompSci,CompSci::16018-7,petrov and klein (2007) †,petrov and klein (2007)†,petrov and klein (2007) †,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::16018-7,socher et al. (2013) ‡,socher et al. (2013)†,socher et al. (2013) ‡,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::16018-7,zhu et al. (2013) †,zhu et al. (2013)†,zhu et al. (2013) †,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::16018-7,liu and zhang (2017a) †,liu and zhang (2017a)†,liu and zhang (2017a) †,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::16018-7,watanabe and sumita (2015) †,watanabe and sumita (2015)†,watanabe and sumita (2015) †,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::16018-7,durrett and klein (2015) †,durrett and klein (2015)†,durrett and klein (2015) †,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::16018-7,cross and huang (2016) †,cross and huang (2016)†,cross and huang (2016) †,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::16018-7,dyer et al. (2016) †,dyer et al. (2016)†,dyer et al. (2016) †,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::16018-7,91,91.7,91,text,truncation / merge,truncation / merge,correct
+kenny,CompSci,CompSci::16018-7,"stern, andreas, and klein (2017) †","stern, andreas, and klein (2017)†","stern, andreas, and klein (2017) †",text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::16018-7,liu and zhang (2017b) ‡,liu and zhang (2017b) †,liu and zhang (2017b) ‡,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::16018-7,petrov (2010) (ensemble) †,petrov (2010) (ensemble)†,petrov (2010) (ensemble) †,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::16018-7,vaswani et al. (2017) †,vaswani et al. (2017)†,vaswani et al. (2017) †,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::16018-7,91,91.3,91,text,truncation / merge,truncation / merge,correct
+kenny,CompSci,CompSci::16018-7,vinyals et al. (2015) (ensemble),vinyals et al. (2015) (ensemble)†,vinyals et al. (2015) (ensemble),text,truncation / merge,truncation / merge,correct
+kenny,CompSci,CompSci::16018-7,ma et al. (2017) (ensemble),ma et al. (2017) (ensemble)†,ma et al. (2017) (ensemble),text,truncation / merge,truncation / merge,correct
+kenny,CompSci,CompSci::16018-7,this paper (ensemble),this paper (ensemble)†,this paper (ensemble),text,truncation / merge,truncation / merge,correct
+kenny,CompSci,CompSci::16018-7,this paper (single) †,this paper (single)†,this paper (single) †,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::16018-7,charniak and johnson (2005),charniak and johnson (2005)†,charniak and johnson (2005),text,truncation / merge,truncation / merge,correct
+kenny,CompSci,CompSci::16018-7,huang (2008),huang (2008)†,huang (2008),text,truncation / merge,truncation / merge,correct
+kenny,CompSci,CompSci::16018-7,choe and charniak (2016),choe and charniak (2016)†,choe and charniak (2016),text,truncation / merge,truncation / merge,correct
+kenny,CompSci,CompSci::16018-7,dyer et al. (2016),dyer et al. (2016)†,dyer et al. (2016),text,truncation / merge,truncation / merge,correct
+kenny,CompSci,CompSci::16018-7,kuncoro et al. (2017),kuncoro et al. (2017)†,kuncoro et al. (2017),text,truncation / merge,truncation / merge,correct
+kenny,CompSci,CompSci::16018-7,"wang, mi, and xue (2015)","wang, mi, and xue (2015)†","wang, mi, and xue (2015)",text,truncation / merge,truncation / merge,correct
+kenny,CompSci,CompSci::16018-7,zhu et al. (2013),zhu et al. (2013)†,zhu et al. (2013),text,truncation / merge,truncation / merge,correct
+kenny,CompSci,CompSci::16018-7,vinyals et al. (2015),vinyals et al. (2015)†,vinyals et al. (2015),text,truncation / merge,truncation / merge,correct
+kenny,CompSci,CompSci::16018-7,choe and charniak (2016),choe and charniak (2016)†,choe and charniak (2016),text,truncation / merge,truncation / merge,correct
+kenny,CompSci,CompSci::16018-7,93.8,93.8,1,vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::16023-1,the immediate or ancestral entity's superclass,the immediate or ancestral entity’s superclass,the immediate or ancestral entity's superclass,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::16023-1,the entity's location of origin,the entity’s location of origin,the entity's location of origin,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::16023-1,the main goal of the entity's existence or occurrence,the main goal of the entity’s existence or occurrence,the main goal of the entity's existence or occurrence,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::16023-1,a fact whose occurrence is/was linked to the entity's existence or occurrence,a fact whose occurrence is/was linked to the entity’s existence or occurrence,a fact whose occurrence is/was linked to the entity's existence or occurrence,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::16023-1,a determiner expression that doesn't constrain the supertype-differentia scope,a determiner expression that doesn’t constrain the supertype-differentia scope,a determiner expression that doesn't constrain the supertype-differentia scope,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::16023-2,bpi,,bpi,text,missing cell,missing cell,correct
+kenny,CompSci,CompSci::16023-2,ghs,,ghs,text,missing cell,missing cell,correct
+kenny,CompSci,CompSci::16023-2,pr,,pr,text,empty content,empty content,correct
+kenny,CompSci,CompSci::16023-2,f1,,f1,text,empty content,empty content,correct
+kenny,CompSci,CompSci::16023-2,pr,,pr,text,empty content,empty content,correct
+kenny,CompSci,CompSci::16023-2,f1,,f1,text,empty content,empty content,correct
+kenny,CompSci,CompSci::16025-5,he et al. (2017),he et al. (2017),,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::16025-5,precision,precision,,vision,empty content,correct,empty content
+kenny,CompSci,CompSci::16025-5,recall,recall,precision,vision,other semantic,correct,other semantic
+kenny,CompSci,CompSci::16025-5,f1,f1,recall,vision,other semantic,correct,other semantic
+kenny,CompSci,CompSci::16025-5,91.0,91.0,,vision,empty content,correct,empty content
+kenny,CompSci,CompSci::16025-5,91.9,91.9,91.0,vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::16025-5,91.4,91.4,91.9,vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::16025-5,86.2,86.2,,vision,empty content,correct,empty content
+kenny,CompSci,CompSci::16025-5,86.9,86.9,86.2,vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::16025-5,86.6,86.6,86.9,vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::16025-5,75.0,75.0,,vision,empty content,correct,empty content
+kenny,CompSci,CompSci::16025-5,77.0,77.0,75.0,vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::16025-5,76.0,76.0,77.0,vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::16025-5,77.1,77.1,,vision,empty content,correct,empty content
+kenny,CompSci,CompSci::16025-5,73.7,73.7,77.1,vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::16025-5,75.3,75.3,73.7,vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::16025-5,69.5,69.5,,vision,empty content,correct,empty content
+kenny,CompSci,CompSci::16025-5,64.5,64.5,69.5,vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::16025-5,66.9,66.9,64.5,vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::16025-5,54.8,54.8,,vision,empty content,correct,empty content
+kenny,CompSci,CompSci::16025-5,47.2,47.2,54.8,vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::16025-5,50.8,50.8,47.2,vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::16025-5,62.5,62.5,,vision,empty content,correct,empty content
+kenny,CompSci,CompSci::16025-5,61.9,61.9,62.5,vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::16025-5,62.2,62.2,61.9,vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::16025-5,70.4,70.4,,vision,empty content,correct,empty content
+kenny,CompSci,CompSci::16025-5,62.0,62.0,70.4,vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::16025-5,65.9,65.9,62.0,vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::16025-5,65.3,65.3,,vision,empty content,correct,empty content
+kenny,CompSci,CompSci::16025-5,60.5,60.5,65.3,vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::16025-5,62.8,62.8,60.5,vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::16025-5,81.7,81.7,,vision,empty content,correct,empty content
+kenny,CompSci,CompSci::16025-5,87.9,87.9,81.7,vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::16025-5,84.7,84.7,87.9,vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::16025-5,84.3,84.3,,vision,empty content,correct,empty content
+kenny,CompSci,CompSci::16025-5,84.9,84.9,84.3,vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::16025-5,84.6,84.6,84.9,vision,numeric value,correct,numeric value
+kenny,CompSci,CompSci::16031-5,where in qatar is the best place for snorkeling? i'm planning to go out next friday but don't know where to go.,where in qatar is the best place for snorke- ling? i’m planning to go out next friday but don’t know where to go.,where in qatar is the best place for snorkeling? i'm planning to go out next friday but don't know where to go.,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::16031-5,where is the best place in qatar for holiday? i'm going to go to sealine but don't know.,where is the best place in qatar for holi- day? i’m going to go to sealine but don’t know.,where is the best place in qatar for holiday? i'm going to go to sealine but don't know.,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::16031-5,i'm planning to go out next friday but don't know where is the best place for snorkeling in qatar?,i’m planning to go out next friday but don’t know where is the best place for snorkeling in qatar?,i'm planning to go out next friday but don't know where is the best place for snorkeling in qatar?,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::16055-1,500k,500k,500 k,vision,symbolic,correct,symbolic
+kenny,CompSci,CompSci::16055-1,231k,231k,231 k,vision,symbolic,correct,symbolic
+kenny,CompSci,CompSci::16055-1,202 k,202k,202 k,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::16055-1,262 k,262k,262 k,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::16055-1,3.0 m,3.0m,3.0 m,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::16055-1,3.7 m,3.7m,3.7 m,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::16055-1,3.0 m,3.0m,3.0 m,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::16055-1,4.4,84.4,4.4,text,truncation / merge,truncation / merge,correct
+kenny,CompSci,CompSci::16055-1,2.3 m,2.3m,2.3 m,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::16055-1,2.9 m,2.9m,2.9 m,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::16055-1,11.6 m,11.6m,11.6 m,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::16055-1,140.2 m,140.2m,140.2 m,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::16055-1,3.8†‡,3.8††,3.8†‡,text,other semantic,other semantic,correct
+kenny,CompSci,CompSci::16055-1,10.3 m,10.3m,10.3 m,text,symbolic,symbolic,correct
+kenny,CompSci,CompSci::16068-2,discretized,discretized,,vision,missing cell,correct,missing cell
+kenny,CompSci,CompSci::16089-8,synpos + co-ocurrence,synpos + co-occurrence,synpos + co-ocurrence,text,other semantic,other semantic,correct
+kenny,ICDAR,ICDAR::eu-001-1,to air kg / year,to air kg/year,to air kg / year,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-001-1,to water kg / year,to water kg/year,to water kg / year,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-001-1,to land kg / year,to land kg/year,to land kg / year,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-001-1,100000,100 000,100000,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-001-1,10000,10 000,10000,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-001-2,10000,10 000,10000,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-001-2,carbon monoxide (co),carbon monoxide (co),carbon monoxide (co) chlorine and inorganic compounds (as hcl),vision,truncation / merge,correct,truncation / merge
+kenny,ICDAR,ICDAR::eu-001-2,500000,500 000,500000,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-001-2,chlorine and inorganic compounds (as hcl),chlorine and inorganic compounds (as hcl),chlorofluorocarbons (cfcs) flourine and inorganic compounds (as hf),vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::eu-001-2,10 000,10 000,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-001-2,-,-,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-001-2,-,-,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-001-2,chlorofluorocarbons (cfcs),chlorofluorocarbons (cfcs),halons hydrochlorofluorocarbons (hcfcs),vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::eu-001-2,1,1,10000,vision,truncation / merge,correct,truncation / merge
+kenny,ICDAR,ICDAR::eu-001-2,flourine and inorganic compounds (as hf),flourine and inorganic compounds (as hf),nitrogen oxides (nox/no2),vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::eu-001-2,halons,halons,non-methane volatile organic compounds (nmvoc),vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::eu-001-2,1,1,100000,vision,truncation / merge,correct,truncation / merge
+kenny,ICDAR,ICDAR::eu-001-2,-,-,-1,vision,truncation / merge,correct,truncation / merge
+kenny,ICDAR,ICDAR::eu-001-2,hydrochlorofluorocarbons (hcfcs),hydrochlorofluorocarbons (hcfcs),sulphur oxides (sox/so2),vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::eu-001-2,1,1,150000,vision,truncation / merge,correct,truncation / merge
+kenny,ICDAR,ICDAR::eu-001-2,hydrogen cyanide (hcn),hydrogen cyanide (hcn),,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-001-2,200,200,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-001-2,-,-,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-001-2,-,-,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-001-2,nitrogen oxides (nox/no2),nitrogen oxides (nox/no2),,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-001-2,-,-,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-001-2,-,-,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-001-2,non-methane volatile organic compounds (nmvoc),non-methane volatile organic compounds (nmvoc),,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-001-2,-,-,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-001-2,-,-,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-001-2,sulphur oxides (sox/so2),sulphur oxides (sox/so2),,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-001-2,-,-,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-001-2,-,-,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-001-4,1000,1 000,1000,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-001-4,1000,1 000,1000,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-001-4,1000,1 000,1000,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-001-4,1000,1 000,1000,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-001-4,2000,2 000,2000,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-001-4,2000,2 000,2000,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-001-4,vinyl chloride,vynil chloride,vinyl chloride,text,other semantic,other semantic,correct
+kenny,ICDAR,ICDAR::eu-001-4,1000,1 000,1000,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-003-2,number financial companies,number of financial companies,number financial companies,text,other semantic,other semantic,correct
+kenny,ICDAR,ICDAR::eu-003-2,number of financial companies on ftse eurotop 100,number of financial companies on ftse eurotop 100,number of financial companies ftse,vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::eu-003-2,pct of ftse eurotop 100 companies,pct of ftse eurotop 100 companies,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-003-2,o reclassifications,0 reclassifications,o reclassifications,text,other semantic,other semantic,correct
+kenny,ICDAR,ICDAR::eu-003-2,52 %,52%,52 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-003-2,64%,64%,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-003-2,28 %,28%,28 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-003-2,18%,18%,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-003-2,11 %,11%,11 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-003-2,9%,9%,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-003-2,8 %,8%,8 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-003-2,9%,9%,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-003-2,1 %,1%,1 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-003-2,0%,0%,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-003-2,,,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-003-3,reclassification from fair value through profit and loss to held maturity,reclassification from fair value through profit and loss to held to maturity,reclassification from fair value through profit and loss to held maturity,text,other semantic,other semantic,correct
+kenny,ICDAR,ICDAR::eu-003-3,number of financial companies where the disclosure requirements were stricter,number of financial companies where the disclosure requirements were stricter,number of financial companie where the disclosure requirements were stricter,vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::eu-004-6.1,per capita gnp (000) 1995,per capita gnp (000) 1995,per capita gnp (s000) 1995,vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::eu-004-6.1,population 1995 (mn),population 1995 (mn),population 1995 (nm),vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::eu-004-6.1,inhabitants per outlet,inhabitants per outlet,inhabitants per outlet (ecu bn),vision,truncation / merge,correct,truncation / merge
+kenny,ICDAR,ICDAR::eu-004-6.5,current level*,current level*,current level,vision,truncation / merge,correct,truncation / merge
+kenny,ICDAR,ICDAR::eu-004-6.5,(78),(78),( 78 ),vision,symbolic,correct,symbolic
+kenny,ICDAR,ICDAR::eu-004-6.5,(59),(59),( 59 ),vision,symbolic,correct,symbolic
+kenny,ICDAR,ICDAR::eu-004-6.7,growth in share,,growth in share,text,missing cell,missing cell,correct
+kenny,ICDAR,ICDAR::eu-004-6.7,no. of stores,no. of stores,no. of,vision,truncation / merge,correct,truncation / merge
+kenny,ICDAR,ICDAR::eu-004-6.7,(% points),,(% points),text,missing cell,missing cell,correct
+kenny,ICDAR,ICDAR::eu-004-6.7,n.a.,n.a.,n.a,vision,truncation / merge,correct,truncation / merge
+kenny,ICDAR,ICDAR::eu-004-6.7,n.a.,n.a.,n.a,vision,truncation / merge,correct,truncation / merge
+kenny,ICDAR,ICDAR::eu-005-7.5,,,73.3,vision,empty content,correct,empty content
+kenny,ICDAR,ICDAR::eu-005-7.5,73.3,73.3,,vision,empty content,correct,empty content
+kenny,ICDAR,ICDAR::eu-005-7.5,55,55,,vision,empty content,correct,empty content
+kenny,ICDAR,ICDAR::eu-005-7.5,,,61.7,vision,empty content,correct,empty content
+kenny,ICDAR,ICDAR::eu-005-7.5,61.7,61.7,,vision,empty content,correct,empty content
+kenny,ICDAR,ICDAR::eu-006-8.14,28 %,28%,28 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-006-8.14,25 %,25%,25 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-006-8.14,23 %,23%,23 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-006-8.14,22 %,22%,22 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-006-8.14,19 %,19%,19 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-006-8.14,10 %,10%,10 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-007-8.21,14.9 %,14.9%,14.9 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-007-8.21,16.5 %,16.5%,16.5 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-007-8.21,17.0 %,17.0%,17.0 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-007-8.21,16.5 %,16.5%,16.5 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-007-8.21,14.2 %,14.2%,14.2 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-007-8.21,13.8 %,13.8%,13.8 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-007-8.21,13.2 %,13.2%,13.2 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-007-8.21,13.2 %,13.2%,13.2 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-007-8.21,7.0 %,7.0%,7.0 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-007-8.21,6.2 %,6.2%,6.2 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-007-8.21,5.8 %,5.8%,5.8 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-007-8.21,5.4 %,5.4%,5.4 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-007-8.21,5.6 %,5.6%,5.6 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-007-8.21,4.5 %,4.5%,4.5 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-007-8.21,3.0 %,3.0%,3.0 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-007-8.21,3.1 %,3.1%,3.1 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-007-8.21,15.9 %,15.9%,15.9 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-007-8.21,17.3 %,17.3%,17.3 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-007-8.21,3.3 %,3.3%,3.3 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-007-8.21,3.4 %,3.4%,3.4 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-007-8.23,astra calvé,astra calvé,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-007-8.23,besnier,besnier,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-007-8.23,total: 18.1% bfpridel (4.4%) président (13.5%),total: 18.1% bfpridel (4.4%) président (13.5%),,vision,empty content,correct,empty content
+kenny,ICDAR,ICDAR::eu-007-8.23,total: 0%,total: 0%,"(fruit d'or, plantafin,",vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::eu-007-8.23,total: 9.5% bridélight (5.6%) bridélice (3.2%) président (0.7%),total: 9.5% bridélight (5.6%) bridélice (3.2%) président (0.7%),fruit d' or (8.4%),vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::eu-007-8.23,cema,cema,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-007-8.23,primevère (1.3%),primevère (1.3%),"equilibre, effi, astra, ...)",vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::eu-007-8.23,,,effi (10.5%),vision,empty content,correct,empty content
+kenny,ICDAR,ICDAR::eu-007-8.23,cle,cle,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-007-8.23,elles § vire (6.7%),elles § vire (6.7%),total: 18.1%,vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::eu-007-8.23,,,total: 0%,vision,empty content,correct,empty content
+kenny,ICDAR,ICDAR::eu-007-8.23,,,total: 9.5%,vision,empty content,correct,empty content
+kenny,ICDAR,ICDAR::eu-007-8.23,paysan breton (6.3%),paysan breton (6.3%),bfpridel (4.4%),vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::eu-007-8.23,,,bridélight (5.6%),vision,empty content,correct,empty content
+kenny,ICDAR,ICDAR::eu-007-8.23,vedial,vedial,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-007-8.23,total: 0%,total: 0%,président (13.5%),vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::eu-007-8.23,"total: 19% (prima, st hubert 41, le fleurier,mr tournesol, tournolive...)","total: 19% (prima, st hubert 41, le fleurier,mr tournesol, tournolive...)",,vision,empty content,correct,empty content
+kenny,ICDAR,ICDAR::eu-007-8.23,total: 34.8% prima (3.3%) st hubert 41 (18.7%) le fleurier (12.8%),total: 34.8% prima (3.3%) st hubert 41 (18.7%) le fleurier (12.8%),bridélice (3.2%),vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::eu-007-8.23,own brands,own brands,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-007-8.23,others,others,cema,vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::eu-009a-1,1,,1,text,missing cell,missing cell,correct
+kenny,ICDAR,ICDAR::eu-009a-1,"involvement ""at the beginning of project preparation""",,"involvement ""at the beginning of project preparation""",text,missing cell,missing cell,correct
+kenny,ICDAR,ICDAR::eu-009a-1,1b,1b,2a,vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::eu-009a-1,2a,2a,3a,vision,numeric value,correct,numeric value
+kenny,ICDAR,ICDAR::eu-009a-1,influence on project concept,influence on project concept,no influence on project concept (presentation,vision,truncation / merge,correct,truncation / merge
+kenny,ICDAR,ICDAR::eu-009a-1,,,,text,missing cell,missing cell,correct
+kenny,ICDAR,ICDAR::eu-009a-1,,,,text,missing cell,missing cell,correct
+kenny,ICDAR,ICDAR::eu-009a-1,2b,2b,3b,vision,numeric value,correct,numeric value
+kenny,ICDAR,ICDAR::eu-009a-1,no influence on project concept (presentation only),no influence on project concept (presentation only),other presentation issues,vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::eu-009a-1,3a,3a,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-009a-1,influence on project concept,influence on project concept,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-009a-1,3b,3b,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-009a-1,other presentation issues,other presentation issues,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-012-2,,agriculture,,text,empty content,empty content,correct
+kenny,ICDAR,ICDAR::eu-012-2,agri,industry,agri,text,other semantic,other semantic,correct
+kenny,ICDAR,ICDAR::eu-012-2,services,,services,text,missing cell,missing cell,correct
+kenny,ICDAR,ICDAR::eu-012-2,1991,,1991,text,missing cell,missing cell,correct
+kenny,ICDAR,ICDAR::eu-012-2,1996,,1996,text,missing cell,missing cell,correct
+kenny,ICDAR,ICDAR::eu-012-2,2001,,2001,text,missing cell,missing cell,correct
+kenny,ICDAR,ICDAR::eu-012-2,2003,,2003,text,missing cell,missing cell,correct
+kenny,ICDAR,ICDAR::eu-012-3,female,male,female,text,truncation / merge,truncation / merge,correct
+kenny,ICDAR,ICDAR::eu-012-3,male,total,male,text,other semantic,other semantic,correct
+kenny,ICDAR,ICDAR::eu-012-3,total,15-24,total,text,other semantic,other semantic,correct
+kenny,ICDAR,ICDAR::eu-012-3,15-24,female,15-24,text,other semantic,other semantic,correct
+kenny,ICDAR,ICDAR::eu-012-3,female,male,female,text,truncation / merge,truncation / merge,correct
+kenny,ICDAR,ICDAR::eu-012-3,male,total,male,text,other semantic,other semantic,correct
+kenny,ICDAR,ICDAR::eu-012-3,total,15-24,total,text,other semantic,other semantic,correct
+kenny,ICDAR,ICDAR::eu-012-3,15-24,female,15-24,text,other semantic,other semantic,correct
+kenny,ICDAR,ICDAR::eu-012-3,female,male,female,text,truncation / merge,truncation / merge,correct
+kenny,ICDAR,ICDAR::eu-012-3,male,total,male,text,other semantic,other semantic,correct
+kenny,ICDAR,ICDAR::eu-012-3,total,15-24,total,text,other semantic,other semantic,correct
+kenny,ICDAR,ICDAR::eu-017-CA3,41.2,48.4,41.2,text,numeric value,numeric value,correct
+kenny,ICDAR,ICDAR::eu-018-CA7,country,,country,text,missing cell,missing cell,correct
+kenny,ICDAR,ICDAR::eu-018-CA7,sample unit,,sample unit,text,missing cell,missing cell,correct
+kenny,ICDAR,ICDAR::eu-018-CA7,2007,2007,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-018-CA7,2006,2006,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-018-CA7,2005,2005,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-018-CA7,2004,2004,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-018-CA7,2003,2003,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-018-CA7,n,n,109,vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::eu-018-CA7,% pos,% pos,0.9,vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::eu-018-CA7,n,n,93,vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::eu-018-CA7,% pos,% pos,1.1,vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::eu-018-CA7,n,n,89,vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::eu-018-CA7,% pos,% pos,1.1,vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::eu-018-CA7,n,n,-,vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::eu-018-CA7,% pos,% pos,-,vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::eu-018-CA7,n,n,-,vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::eu-018-CA7,% pos,% pos,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-018-CA7,single,,single,text,empty content,empty content,correct
+kenny,ICDAR,ICDAR::eu-018-CA7,25 g,,25 g,text,missing cell,missing cell,correct
+kenny,ICDAR,ICDAR::eu-018-CA7,25 g,25g,25 g,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-018-CA7,25 g,25g,25 g,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-018-CA7,0,0.5,0,text,truncation / merge,truncation / merge,correct
+kenny,ICDAR,ICDAR::eu-018-CA7,single,single,,vision,empty content,correct,empty content
+kenny,ICDAR,ICDAR::eu-018-CA7,0,0,0.3,vision,truncation / merge,correct,truncation / merge
+kenny,ICDAR,ICDAR::eu-021-3.1,18.8 %,18.8%,18.8 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-021-3.1,15.6 %,15.6%,15.6 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-021-3.1,16.4 %,16.4%,16.4 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-021-3.1,5.9 %,5.9%,5.9 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-021-3.1,6.3 %,6.3%,6.3 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-021-3.1,4.4 %,4.4%,4.4 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-021-3.1,3.8 %,3.8%,3.8 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-021-3.1,0.8 %,0.8%,0.8 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-021-3.1,9.7 %,9.7%,9.7 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-021-3.1,2.4 %,2.4%,2.4 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-021-3.1,0.2 %,0.2%,0.2 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-021-3.1,0.2 %,0.2%,0.2 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-021-3.1,1.4 %,1.4%,1.4 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-021-3.1,1.4 %,1.4%,1.4 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-021-3.1,0.0 %,0.0%,0.0 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-021-3.1,0.0 %,0.0%,0.0 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-021-3.1,2.0 %,2.0%,2.0 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-021-3.1,40.9 %,40.9%,40.9 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-021-3.1,11.3 %,11.3%,11.3 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-021-3.1,2.4 %,2.4%,2.4 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-021-3.1,2.4 %,2.4%,2.4 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-021-3.1,21.1 %,21.1%,21.1 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-021-3.1,17.6 %,17.6%,17.6 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-021-3.1,1.2 %,1.2%,1.2 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-021-3.1,1.0 %,1.0%,1.0 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,substance,substance,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-022-3.3,9.6 %,9.6%,9.6 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,4.0 %,4.0%,4.0 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,6.3 %,6.3%,6.3 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,80.1 %,80.1%,80.1 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,2.7 %,2.7%,2.7 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,1.6 %,1.6%,1.6 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,4.1 %,4.1%,4.1 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,91.6 %,91.6%,91.6 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,2.1 %,2.1%,2.1 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,0.9 %,0.9%,0.9 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,3.0 %,3.0%,3.0 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,94.0 %,94.0%,94.0 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,2.1 %,2.1%,2.1 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,0.2 %,0.2%,0.2 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,0.7 %,0.7%,0.7 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,97.0 %,97.0%,97.0 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,2.1 %,2.1%,2.1 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,0.5 %,0.5%,0.5 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,1.1 %,1.1%,1.1 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,96.3 %,96.3%,96.3 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,0.5 %,0.5%,0.5 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,0.0 %,0.0%,0.0 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,0.5 %,0.5%,0.5 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,99.0 %,99.0%,99.0 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,2.5 %,2.5%,2.5 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,0.7 %,0.7%,0.7 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,0.7 %,0.7%,0.7 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,96.1 %,96.1%,96.1 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,2.1 %,2.1%,2.1 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,0.0 %,0.0%,0.0 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,0.5 %,0.5%,0.5 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,97.4 %,97.4%,97.4 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,2.3 %,2.3%,2.3 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,0.9 %,0.9%,0.9 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,1.4 %,1.4%,1.4 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,95.4 %,95.4%,95.4 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,4.4 %,4.4%,4.4 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,1.6 %,1.6%,1.6 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,1.8 %,1.8%,1.8 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,92.2 %,92.2%,92.2 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,1.1 %,1.1%,1.1 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,0.0 %,0.0%,0.0 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,0.0 %,0.0%,0.0 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,98.9 %,98.9%,98.9 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,3.4 %,3.4%,3.4 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,1.4 %,1.4%,1.4 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,1.8 %,1.8%,1.8 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,93.4 %,93.4%,93.4 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,1.1 %,1.1%,1.1 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,0.0 %,0.0%,0.0 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,0.0 %,0.0%,0.0 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-022-3.3,98.9 %,98.9%,98.9 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-023-3.4,27.9 %,27.9%,27.9 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-023-3.4,52.2 %,52.2%,52.2 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-023-3.4,19.9 %,19.9%,19.9 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-023-3.4,25.5 %,25.5%,25.5 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-023-3.4,50.1 %,50.1%,50.1 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-023-3.4,24.4 %,24.4%,24.4 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-023-3.4,32.4 %,32.4%,32.4 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-023-3.4,43.5 %,43.5%,43.5 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-023-3.4,24.1 %,24.1%,24.1 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-023-3.4,3.1 %,3.1%,3.1 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-023-3.4,31.4 %,31.4%,31.4 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-023-3.4,65.5 %,65.5%,65.5 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-023-3.4,6.2 %,6.2%,6.2 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-023-3.4,27.7 %,27.7%,27.7 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-023-3.4,66.1 %,66.1%,66.1 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-023-3.4,7.2 %,7.2%,7.2 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-023-3.4,34.3 %,34.3%,34.3 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-023-3.4,58.5 %,58.5%,58.5 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-023-3.4,38.2 %,38.2%,38.2 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-023-3.4,37.6 %,37.6%,37.6 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-023-3.4,24.2 %,24.2%,24.2 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-023-3.4,85.6 %,85.6%,85.6 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-023-3.4,11.3 %,11.3%,11.3 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-023-3.4,3.1 %,3.1%,3.1 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-023-3.4,97.1 %,97.1%,97.1 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-023-3.4,1.9 %,1.9%,1.9 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-023-3.4,1.0 %,1.0%,1.0 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-024-3.5,1.5 %,1.5%,1.5 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-024-3.5,3.6 %,3.6%,3.6 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-024-3.5,94.9 %,94.9%,94.9 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-024-3.5,0.4 %,0.4%,0.4 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-024-3.5,6.8 %,6.8%,6.8 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-024-3.5,92.8 %,92.8%,92.8 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-024-3.5,0.4 %,0.4%,0.4 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-024-3.5,5.7 %,5.7%,5.7 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-024-3.5,93.8 %,93.8%,93.8 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-024-3.5,0.0 %,0.0%,0.0 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-024-3.5,1.1 %,1.1%,1.1 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-024-3.5,98.9 %,98.9%,98.9 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-024-3.5,0.0 %,0.0%,0.0 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-024-3.5,2.3 %,2.3%,2.3 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-024-3.5,97.7 %,97.7%,97.7 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-024-3.5,.2 %,.2%,.2 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-024-3.5,1.5 %,1.5%,1.5 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-024-3.5,98.3 %,98.3%,98.3 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-024-3.5,.4 %,.4%,.4 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-024-3.5,5.5 %,5.5%,5.5 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-024-3.5,94.1 %,94.1%,94.1 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-024-3.5,0.0 %,0.0%,0.0 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-024-3.5,1.7 %,1.7%,1.7 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-024-3.5,98.3 %,98.3%,98.3 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-024-3.5,.6 %,.6%,.6 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-024-3.5,10.6 %,10.6%,10.6 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-024-3.5,88.8 %,88.8%,88.8 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-025-1,psychosomatic symptoms,psychosomatic symptoms,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-025-1,how often have you taken medicine or tablets?,how often have you taken medicine or tablets?,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-025-1,headache,headache,stomach-ache,vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::eu-025-1,stomach-ache,stomach-ache,sleeping difficulties,vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::eu-025-1,sleeping difficulties,sleeping difficulties,nervousness,vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::eu-025-1,nervousness,nervousness,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-025-1,449,449,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-025-1,20,20,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-025-1,14,14,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::eu-026-1,fraction of wealth lost,fraction of wealth lost,fraction wealth,vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::eu-026-1,17.4 %,17.4%,17.4 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-026-1,22.5 %,22.5%,22.5 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-026-1,22.5 %,22.5%,22.5 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::eu-026-1,18.7 %,18.7%,18.7 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::us-001-1,category,,category,text,missing cell,missing cell,correct
+kenny,ICDAR,ICDAR::us-001-1,2005,,2005,text,missing cell,missing cell,correct
+kenny,ICDAR,ICDAR::us-001-1,2010,,2010,text,missing cell,missing cell,correct
+kenny,ICDAR,ICDAR::us-001-1,difference,,difference,text,missing cell,missing cell,correct
+kenny,ICDAR,ICDAR::us-001-1,margin of error (±),margin of error (±),margin of error (∓),vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::us-001-1,percent,,percent,text,missing cell,missing cell,correct
+kenny,ICDAR,ICDAR::us-001-1,"12,760","**12,760","12,760",text,truncation / merge,truncation / merge,correct
+kenny,ICDAR,ICDAR::us-001-1,(x),,(x),text,missing cell,missing cell,correct
+kenny,ICDAR,ICDAR::us-001-1,0.3,0.3,0.3*,vision,truncation / merge,correct,truncation / merge
+kenny,ICDAR,ICDAR::us-001-1,"*2,247","*2,247","-2,247",vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::us-001-1,-,,-,text,missing cell,missing cell,correct
+kenny,ICDAR,ICDAR::us-001-1,0.2,0.2,0.2*,vision,truncation / merge,correct,truncation / merge
+kenny,ICDAR,ICDAR::us-001-1,"*3,337","*3,337","3,337",vision,truncation / merge,correct,truncation / merge
+kenny,ICDAR,ICDAR::us-001-1,"*11,469","*11,469","11,469",vision,truncation / merge,correct,truncation / merge
+kenny,ICDAR,ICDAR::us-001-1,(x),,(x),text,missing cell,missing cell,correct
+kenny,ICDAR,ICDAR::us-001-1,0.1,0.1,0.1*,vision,truncation / merge,correct,truncation / merge
+kenny,ICDAR,ICDAR::us-001-1,"*1,353","*1,353","-1,353",vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::us-001-1,(x),(x),(x).,vision,truncation / merge,correct,truncation / merge
+kenny,ICDAR,ICDAR::us-001-1,"49,069","49,069",,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-001-1,794,794,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-001-1,21.3,21.3,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-001-1,0.3,0.3,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-001-1,"51,454","51,454",,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-001-1,838,838,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-001-1,21.3,21.3,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-001-1,0.3,0.3,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-001-1,"*2,385","*2,385",,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-001-1,"32,771","32,771",,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-001-1,567,567,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-001-1,14.2,14.2,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-001-1,0.2,0.2,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-001-1,"35,683","35,683",,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-001-1,631,631,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-001-1,14.8,14.8,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-001-1,0.3,0.3,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-001-1,"*2,912","*2,912",,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-001-1,"7,793","7,793",,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-001-1,350,350,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-001-1,3.4,3.4,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-001-1,0.2,0.2,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-001-1,"8,077","8,077",,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-001-1,354,354,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-001-1,3.3,3.3,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-001-1,284,284,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-001-1,"1,783","1,783",,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-001-1,129,129,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-001-1,0.8,0.8,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-001-1,0.1,0.1,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-001-1,"2,010","2,010",,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-001-1,139,139,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-001-1,0.8,0.8,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-001-1,0.1,0.1,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-001-1,*228,*228,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-001-1,83.5,83.5,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-001-1,0.4,0.4,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-006-1,37.4 %,37.4%,37.4 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::us-006-1,51.6 %,51.6%,51.6 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::us-006-1,32.8 %,32.8%,32.8 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::us-006-1,17.5 %,17.5%,17.5 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::us-006-1,29.8 %,29.8%,29.8 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::us-006-1,30.8 %,30.8%,30.8 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::us-008-2.3,sample group,,sample group,text,missing cell,missing cell,correct
+kenny,ICDAR,ICDAR::us-008-2.3,some year 1 head start participation,,some year 1 head start participation,text,missing cell,missing cell,correct
+kenny,ICDAR,ICDAR::us-008-2.3,no year 1 head start participation,,no year 1 head start participation,text,missing cell,missing cell,correct
+kenny,ICDAR,ICDAR::us-008-2.3,total,,total,text,missing cell,missing cell,correct
+kenny,ICDAR,ICDAR::us-008-2.3,3-year-old cohort,"all randomly assigned (n=4,667):",3-year-old cohort,text,other semantic,other semantic,correct
+kenny,ICDAR,ICDAR::us-008-2.3,head start group,3-year-old cohort,head start group,text,other semantic,other semantic,correct
+kenny,ICDAR,ICDAR::us-008-2.3,85.1 %,,85.1 %,text,empty content,empty content,correct
+kenny,ICDAR,ICDAR::us-008-2.3,14.9 %,,14.9 %,text,empty content,empty content,correct
+kenny,ICDAR,ICDAR::us-008-2.3,100 %,,100 %,text,empty content,empty content,correct
+kenny,ICDAR,ICDAR::us-008-2.3,control group,head start group,control group,text,other semantic,other semantic,correct
+kenny,ICDAR,ICDAR::us-008-2.3,17.3 %,85.1%,17.3 %,text,numeric value,numeric value,correct
+kenny,ICDAR,ICDAR::us-008-2.3,82.7 %,14.9%,82.7 %,text,numeric value,numeric value,correct
+kenny,ICDAR,ICDAR::us-008-2.3,100 %,100%,100 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::us-008-2.3,head start group,4-year-old cohort,head start group,text,other semantic,other semantic,correct
+kenny,ICDAR,ICDAR::us-008-2.3,79.8 %,,79.8 %,text,empty content,empty content,correct
+kenny,ICDAR,ICDAR::us-008-2.3,20.2 %,,20.2 %,text,empty content,empty content,correct
+kenny,ICDAR,ICDAR::us-008-2.3,100 %,,100 %,text,empty content,empty content,correct
+kenny,ICDAR,ICDAR::us-008-2.3,control group,head start group,control group,text,other semantic,other semantic,correct
+kenny,ICDAR,ICDAR::us-008-2.3,13.9 %,79.8%,13.9 %,text,numeric value,numeric value,correct
+kenny,ICDAR,ICDAR::us-008-2.3,86.1 %,20.2%,86.1 %,text,numeric value,numeric value,correct
+kenny,ICDAR,ICDAR::us-008-2.3,100 %,100%,100 %,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::us-009-1,indirect costs,indirect costs,less: indirect costs,vision,truncation / merge,correct,truncation / merge
+kenny,ICDAR,ICDAR::us-009-1,"10,000(1)","10,000 (1)","10,000(1)",text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::us-009-1,"107,000(2)","107,000 (2)","107,000(2)",text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::us-009-1,"22,100(2)","22,100 (2)","22,100(2)",text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::us-009-1,"1,800(1)","1,800 (1)","1,800(1)",text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::us-009-1,"148,000 (2)","148,000 (2)","148,000(2)",vision,symbolic,correct,symbolic
+kenny,ICDAR,ICDAR::us-009-1,"54,000 (2)","54,000 (2)","54,000(2)",vision,symbolic,correct,symbolic
+kenny,ICDAR,ICDAR::us-009-1,"36,000 (2)","36,000 (2)","36,000(2)",vision,symbolic,correct,symbolic
+kenny,ICDAR,ICDAR::us-010-1,,,,text,missing cell,missing cell,correct
+kenny,ICDAR,ICDAR::us-010-1,"launch: may 21, 2009",launch:,"launch: may 21, 2009",text,truncation / merge,truncation / merge,correct
+kenny,ICDAR,ICDAR::us-010-1,"1 year: may 21, 2010",1 year:,"1 year: may 21, 2010",text,truncation / merge,truncation / merge,correct
+kenny,ICDAR,ICDAR::us-010-1,"fy 2010 sept. 30, 2011",fy 2010,"fy 2010 sept. 30, 2011",text,truncation / merge,truncation / merge,correct
+kenny,ICDAR,ICDAR::us-010-1,47,"may 21, 2009",47,text,other semantic,other semantic,correct
+kenny,ICDAR,ICDAR::us-010-1,"272,768","may 21, 2010","272,768",text,other semantic,other semantic,correct
+kenny,ICDAR,ICDAR::us-010-1,"389,933","sept. 30, 2011","389,933",text,other semantic,other semantic,correct
+kenny,ICDAR,ICDAR::us-010-1,0,47,0,text,numeric value,numeric value,correct
+kenny,ICDAR,ICDAR::us-010-1,237,"272,768",237,text,numeric value,numeric value,correct
+kenny,ICDAR,ICDAR::us-010-1,"1,079","389,933","1,079",text,numeric value,numeric value,correct
+kenny,ICDAR,ICDAR::us-010-1,"652,412",237,"652,412",text,numeric value,numeric value,correct
+kenny,ICDAR,ICDAR::us-010-1,"2,348,928","1,079","2,348,928",text,numeric value,numeric value,correct
+kenny,ICDAR,ICDAR::us-010-1,6,"652,412",6,text,truncation / merge,truncation / merge,correct
+kenny,ICDAR,ICDAR::us-010-1,21,"2,348,928",21,text,numeric value,numeric value,correct
+kenny,ICDAR,ICDAR::us-010-1,8,6,8,text,numeric value,numeric value,correct
+kenny,ICDAR,ICDAR::us-010-1,29,21,29,text,numeric value,numeric value,correct
+kenny,ICDAR,ICDAR::us-010-1,0,0,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-010-1,8,8,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-011a-1,1.1 m,1.1m,1.1 m,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::us-011a-1,0.3 m,0.3m,0.3 m,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::us-011a-1,0.44 m,0.44m,0.44 m,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::us-011a-1,1.06 m,1.06m,1.06 m,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::us-011a-1,0.9 m,0.9m,0.9 m,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::us-011a-1,1.2 m,1.2m,1.2 m,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::us-011a-1,0.1 m,0.1m,0.1 m,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::us-011a-1,2.88 m,2.88m,2.88 m,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::us-011a-1,8 m,8m,8 m,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::us-012-1,state included scores of students taking alternate assessments based on alternate achievement standards,state included scores of students taking alternate assessments based on alternate achievement standards,state included scores of students taking alternate asseessments based on alternate achievement standards,vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::us-012-1,state granted exceptions to districts to exceed 1% cap,state granted exceptions to districts to exceed 1% cap,state granted exceptions to districts to excecl 1% cap,vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::us-012-1,number of districts granted exceptions,number of districts granted exceptions,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-012-1,~100,~100,~ 100,vision,symbolic,correct,symbolic
+kenny,ICDAR,ICDAR::us-012-1,respondent unsure,respondent unsure,respondant unsure,vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::us-013-1,exhibit 9 characteristics of types of assessments and participating students,exhibit 9 characteristics of types of assessments and participating students,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-013-1,alternate assessment based on alternate achievement standards,alternate assessment based on alternate achievement standards,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-013-1,grade level extensions,grade level extensions,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-013-1,alternate level,alternate level,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-013-1,students with the most significant cognitive disabilities,students with the most significant cognitive disabilities,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-014-1,schools identified under nclb (n=469),schools identified under nclb (n = 469),schools identified under nclb (n=469),text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::us-014-1,schools not identified under nclb (n=918),schools not identified under nclb (n = 918),schools not identified under nclb (n=918),text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::us-017-1,year,,year,text,missing cell,missing cell,correct
+kenny,ICDAR,ICDAR::us-017-1,pk-12,pk-12,pk-1,vision,truncation / merge,correct,truncation / merge
+kenny,ICDAR,ICDAR::us-017-2,year,,year,text,missing cell,missing cell,correct
+kenny,ICDAR,ICDAR::us-017-2,total,,total,text,missing cell,missing cell,correct
+kenny,ICDAR,ICDAR::us-017-3,year,,year,text,missing cell,missing cell,correct
+kenny,ICDAR,ICDAR::us-017-3,total,,total,text,missing cell,missing cell,correct
+kenny,ICDAR,ICDAR::us-017-3,race/ethnicity,race/ethnicity,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-017-3,white,white,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-017-3,black,black,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-017-3,hispanic,hispanic,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-017-3,asian/ pacific islander,asian/ pacific islander,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-017-3,american indian/ alaska native,american indian/ alaska native,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-017-3,two or more races,two or more races,,vision,missing cell,correct,missing cell
+kenny,ICDAR,ICDAR::us-020-A-1,weighted participation rate after substitution,weighted school participation rate after substitution,weighted participation rate after substitution,text,other semantic,other semantic,correct
+kenny,ICDAR,ICDAR::us-020-A-1,abu dhabi-vae,abu dhabi-uae,abu dhabi-vae,text,other semantic,other semantic,correct
+kenny,ICDAR,ICDAR::us-020-A-1,dubai-uae,dubai-uae,1/1,vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::us-025-1,characteristic,,characteristic,text,missing cell,missing cell,correct
+kenny,ICDAR,ICDAR::us-025-1,(95% ci),(95% ci),(95% cl),vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::us-025-1,(95% ci),(95% ci),(95% cl),vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::us-025-1,asian/pacific islander,asian/ pacific islander,asian/pacific islander,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::us-025-2,≥ 85,≥85,≥ 85,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::us-025-2,men,,men,text,missing cell,missing cell,correct
+kenny,ICDAR,ICDAR::us-025-2,(126.3-135.5),(126.3-135.5),"(126.3-135,5)",vision,other semantic,correct,other semantic
+kenny,ICDAR,ICDAR::us-025-2,≥ 85,≥85,≥ 85,text,symbolic,symbolic,correct
+kenny,ICDAR,ICDAR::us-028-4,n=,n =,n=,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test1-1,atomic %,,atomic %,text,missing cell,missing cell,correct
+kenny,MatSci,MatSci::test1-1,icp-aes,icp-aes,,vision,missing cell,correct,missing cell
+kenny,MatSci,MatSci::test1-1,nominal,nominal,icp-aes,vision,other semantic,correct,other semantic
+kenny,MatSci,MatSci::test1-1,icp-aes,icp-aes,,vision,missing cell,correct,missing cell
+kenny,MatSci,MatSci::test1-1,20.01,20.01,,vision,missing cell,correct,missing cell
+kenny,MatSci,MatSci::test1-1,19.68,19.68,,vision,missing cell,correct,missing cell
+kenny,MatSci,MatSci::test1-1,19.90,19.90,,vision,missing cell,correct,missing cell
+kenny,MatSci,MatSci::test1-1,20.18,20.18,,vision,missing cell,correct,missing cell
+kenny,MatSci,MatSci::test1-1,20.24,20.24,,vision,missing cell,correct,missing cell
+kenny,MatSci,MatSci::test108-3,tm(°c),tm(°c),tm(c),vision,other semantic,correct,other semantic
+kenny,MatSci,MatSci::test16-2,ni1.5cocufev0.5,ni1.5cocufev0.5,ni_{1.5}cocufev_{0.5},vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test16-2,ni1.5co1.5crfeti0.5,ni1.5co1.5crfeti0.5,ni_{1.5}co_{1.5}crfeti_{0.5},vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test16-2,al0.3cocrfemnni,al0.3cocrfemnni,al_{0.3}cocrfemnni,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test16-3,specific yield strength (mpa cm3/g),specific yield strength (mpa cm3/g),specific yield strength (mpa cm³/g),vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test16-3,density (g/cm3),density (g/cm3),density (g/cm³),vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test16-3,sp5,sps,sp5,text,other semantic,other semantic,correct
+kenny,MatSci,MatSci::test16-3,almo0.5nbta0.5tizr,al0.5nb0.5ta0.5tizr,almo0.5nbta0.5tizr,text,other semantic,other semantic,correct
+kenny,MatSci,MatSci::test16-3,hfmo0.5nbtiv0.5si0.7,hfmo0.5nbtiv0.5si0.7,hbmo0.5nbtiv0.5si0.7,vision,other semantic,correct,other semantic
+kenny,MatSci,MatSci::test19-1,25°c,25 °c,25°c,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test19-1,600°c,600 °c,600°c,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test19-1,800°c,800 °c,800°c,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test19-1,1000°c,1000 °c,1000°c,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test19-1,1200°c,1200 °c,1200°c,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test19-1,σ0.2 (mpa),σ0.2 (mpa),σ0.2(mpa),vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test19-1,this study,,this study,text,missing cell,missing cell,correct
+kenny,MatSci,MatSci::test19-1,σ5 (mpa),σ5 (mpa),σ5(mpa),vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test19-1,,,,text,missing cell,missing cell,correct
+kenny,MatSci,MatSci::test19-1,σ20 (mpa),σ20 (mpa),σ20(mpa),vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test19-1,,,,text,missing cell,missing cell,correct
+kenny,MatSci,MatSci::test19-1,nbtiv2zr,nbtiv2zr,nbtiv2r,vision,other semantic,correct,other semantic
+kenny,MatSci,MatSci::test19-1,σ0.2 (mpa),σ0.2 (mpa),σ0.2(mpa),vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test19-1,σ0.2 (mpa),σ0.2 (mpa),σ0.2(mpa),vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test19-1,cnnbtizr,crnbtizr,cnnbtizr,text,other semantic,other semantic,correct
+kenny,MatSci,MatSci::test19-1,σ0.2 (mpa),σ0.2 (mpa),σ0.2(mpa),vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test19-1,σ0.2 (mpa),σ0.2 (mpa),σ0.2(mpa),vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test19-1,σ0.2 (mpa),σ0.2 (mpa),σ0.2(mpa),vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test19-1,hfmonbtizr,hfmonbtivzr,hfmonbtizr,text,other semantic,other semantic,correct
+kenny,MatSci,MatSci::test19-1,σ0.2 (mpa),σ0.2 (mpa),σ0.2(mpa),vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test19-1,σ0.2 (mpa),σ0.2 (mpa),σ0.2(mpa),vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test19-1,σ0.2 (mpa),σ0.2 (mpa),σ0.2(mpa),vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test19-1,σ0.2 (mpa),σ0.2 (mpa),σ0.2(mpa),vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test19-1,1280,1280,1280 1058,vision,truncation / merge,correct,truncation / merge
+kenny,MatSci,MatSci::test19-1,-,-,- 561,vision,truncation / merge,correct,truncation / merge
+kenny,MatSci,MatSci::test19-1,728,728,728 552,vision,truncation / merge,correct,truncation / merge
+kenny,MatSci,MatSci::test19-1,403,403,403 548,vision,truncation / merge,correct,truncation / merge
+kenny,MatSci,MatSci::test19-1,-,-,- 306,vision,truncation / merge,correct,truncation / merge
+kenny,MatSci,MatSci::test19-1,σ0.2 (mpa),σ0.2 (mpa),σ0.2(mpa),vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test19-1,1058,1058,1246,vision,numeric value,correct,numeric value
+kenny,MatSci,MatSci::test19-1,561,561,862,vision,numeric value,correct,numeric value
+kenny,MatSci,MatSci::test19-1,552,552,846,vision,numeric value,correct,numeric value
+kenny,MatSci,MatSci::test19-1,548,548,842,vision,numeric value,correct,numeric value
+kenny,MatSci,MatSci::test19-1,506,506,735,vision,numeric value,correct,numeric value
+kenny,MatSci,MatSci::test19-1,σ0.2 (mpa),σ0.2 (mpa),σ0.2(mpa),vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test19-1,1246,1246,,vision,empty content,correct,empty content
+kenny,MatSci,MatSci::test19-1,862,862,,vision,empty content,correct,empty content
+kenny,MatSci,MatSci::test19-1,846,846,,vision,empty content,correct,empty content
+kenny,MatSci,MatSci::test19-1,842,842,,vision,empty content,correct,empty content
+kenny,MatSci,MatSci::test19-1,735,735,,vision,empty content,correct,empty content
+kenny,MatSci,MatSci::test19-1,[9],[9],,vision,empty content,correct,empty content
+kenny,MatSci,MatSci::test21-1,b2 + fcc,b2+fcc,b2 + fcc,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test23-1,"volume fraction, %","volume fraction, %","volume fraction,%",vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test23-1,69±2,69±2,69 ± 2,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test23-1,31±2,31±2,31 ± 2,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test23-1,64±1,64±1,64 ± 1,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test23-1,36±1,36±1,36 ± 1,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test23-1,58±2,58±2,58 ± 2,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test23-1,42±2,42±2,42 ± 2,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test24-1,atomic percent,atomic percent,,vision,missing cell,correct,missing cell
+kenny,MatSci,MatSci::test24-1,1,1,,vision,missing cell,correct,missing cell
+kenny,MatSci,MatSci::test24-1,2,2,,vision,missing cell,correct,missing cell
+kenny,MatSci,MatSci::test26-3,"ρ, g/cm3","ρ, g/cm3","ρ, g/cm³",vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test26-3,5.41,15.2,5.41,text,numeric value,numeric value,correct
+kenny,MatSci,MatSci::test26-3,1122,1120,1122,text,numeric value,numeric value,correct
+kenny,MatSci,MatSci::test26-3,2. al0.25nbtimov,2. al0.25nbtimov,2. al₀.₂₅ nbtimov,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test26-3,7,7.7,7,text,truncation / merge,truncation / merge,correct
+kenny,MatSci,MatSci::test26-3,3. al0.5nbtimov,3. al0.5nbtimov,3. al₀.₅ nbtimov,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test26-3,4. al0.75nbtimov,4. al0.75nbtimov,4. al₀.₇₅ nbtimov,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test26-3,6.6,6.9,6.6,text,numeric value,numeric value,correct
+kenny,MatSci,MatSci::test26-3,6. nbtivtaal0,6. nbtivtaal0,6. nbtiytaal o₆,vision,other semantic,correct,other semantic
+kenny,MatSci,MatSci::test26-3,7. nbtivtaal0.25,7. nbtivtaal0.25,7. nbtiytaal₀.₂₅,vision,other semantic,correct,other semantic
+kenny,MatSci,MatSci::test26-3,8. nbtivtaal0.5,8. nbtivtaal0.5,8. nbtiytaal₀.₅,vision,other semantic,correct,other semantic
+kenny,MatSci,MatSci::test26-3,8.4,8.5,8.4,text,numeric value,numeric value,correct
+kenny,MatSci,MatSci::test26-3,7.9,8.4,7.9,text,numeric value,numeric value,correct
+kenny,MatSci,MatSci::test26-3,10. vtatimoal0,10. vtatimoal0,10. ytatimoal₀,vision,other semantic,correct,other semantic
+kenny,MatSci,MatSci::test26-3,9.5,9.2,9.5,text,numeric value,numeric value,correct
+kenny,MatSci,MatSci::test26-3,11. vtatimoal0.2,11. vtatimoal0.2,11. ytatimoal₀.₂,vision,other semantic,correct,other semantic
+kenny,MatSci,MatSci::test26-3,12. vtatimoal0.6,12. vtatimoal0.6,12. ytatimoal₀.₆,vision,other semantic,correct,other semantic
+kenny,MatSci,MatSci::test26-3,13. al0.5hfnbtatizr,13. al0.5hfnbtatizr,13. al₀.₅ hfnbtatizr,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test26-3,9.3,9.0,9.3,text,numeric value,numeric value,correct
+kenny,MatSci,MatSci::test26-3,140,145,140,text,numeric value,numeric value,correct
+kenny,MatSci,MatSci::test26-3,14. al0.75hfnbtatizr,14. al0.75hfnbtatizr,14. al₀.₇₅ hfnbtatizr,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test26-3,9,7.5,9,text,numeric value,numeric value,correct
+kenny,MatSci,MatSci::test26-3,1415,919,1415,text,numeric value,numeric value,correct
+kenny,MatSci,MatSci::test26-3,157,120,157,text,numeric value,numeric value,correct
+kenny,MatSci,MatSci::test26-3,15. mo0.5nbhf0.5zrti,15. mo0.5nbhf0.5zrti,15. mo₀.₅ nbhf₀.₅ zrti,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test26-3,7.9,9.4,7.9,text,numeric value,numeric value,correct
+kenny,MatSci,MatSci::test26-3,10,10.0,10,text,truncation / merge,truncation / merge,correct
+kenny,MatSci,MatSci::test26-3,9.9,8.9,9.9,text,numeric value,numeric value,correct
+kenny,MatSci,MatSci::test26-3,21. tanbhfzr,21. tanbhfnbta,21. tanbhfzr,text,other semantic,other semantic,correct
+kenny,MatSci,MatSci::test26-3,23. tizrnbvmo0.3,23. tizrnbvmo0.3,23. tizrnbvmo₀.₃,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test26-3,24. tizrnbvmo0.5,24. tizrnbvmo0.5,24. tizrnbvmo₀.₅,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test26-3,25. tizrnbvmo0.7,25. tizrnbvmo0.7,25. tizrnbvmo₀.₇,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test26-3,7,7.0,7,text,truncation / merge,truncation / merge,correct
+kenny,MatSci,MatSci::test26-3,1779,1791,1779,text,numeric value,numeric value,correct
+kenny,MatSci,MatSci::test26-3,28. tizrnbv0.3mo0.1,28. tizrnbv0.3mo0.1,28. tizrnbv₀.₃ mo₀.₁,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test26-3,29. tizrnbv0.3mo0.3,29. tizrnbv0.3mo0.3,29. tizrnbv₀.₃ moo₀.₃,vision,other semantic,correct,other semantic
+kenny,MatSci,MatSci::test26-3,996,896,996,text,numeric value,numeric value,correct
+kenny,MatSci,MatSci::test26-3,13,11.0,13,text,numeric value,numeric value,correct
+kenny,MatSci,MatSci::test26-3,1109,1099,1109,text,numeric value,numeric value,correct
+kenny,MatSci,MatSci::test26-3,33. ti0.75nbmotaw,33. ti0.75nbmotaw,33. ti₀.₇₅ nbmotaw,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test26-3,12.1,12.3,12.1,text,numeric value,numeric value,correct
+kenny,MatSci,MatSci::test26-3,34. ti1nbmotaw,34. ti1nbmotaw,34. ti₁ nbmotaw,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test26-3,11.7,12.1,11.7,text,numeric value,numeric value,correct
+kenny,MatSci,MatSci::test26-3,1455,1155,1455,text,numeric value,numeric value,correct
+kenny,MatSci,MatSci::test26-3,35. monbtativ,35. monbtativ,35. mnnbtativ,vision,other semantic,correct,other semantic
+kenny,MatSci,MatSci::test26-3,37. tivnbmotaw,37. tivnbmotaw,37. t₁ vinbmotaw,vision,other semantic,correct,other semantic
+kenny,MatSci,MatSci::test26-3,38. monbtav,38. monbtav,38. mnnbtav,vision,other semantic,correct,other semantic
+kenny,MatSci,MatSci::test26-3,39. nbtavw,39. nbtav w,39. nbtavw,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test26-3,12.0,20.0,12.0,text,numeric value,numeric value,correct
+kenny,MatSci,MatSci::test26-3,40. nbtativw,40. nbtativ w,40. nbtativw,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test3-2,a(å),a (å),a(å),text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test3-2,uiso(å2),uiso(å2),uiso(å²),vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test32-3,t=25°c,t = 25 °c,t=25°c,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test32-3,t=600°c,t = 600 °c,t=600°c,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test32-3,t=800°c,t = 800 °c,t=800°c,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test32-3,t=1000°c,t = 1000 °c,t=1000°c,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test32-3,t=1200°c,t = 1200 °c,t=1200°c,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test32-3,719/90.0,719/90.0,719 / 90.0,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test32-3,350/43.8,350/43.8,350 / 43.8,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test32-3,311/38.9,311/38.9,311 / 38.9,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test32-3,250/31.3,250/31.3,250 / 31.3,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test32-3,161/20.2,161/20.2,161 / 20.2,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test32-3,780/97.1,780/97.1,780 / 97.1,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test32-3,390/48.6,390/48.6,390 / 48.6,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test32-3,329/41.0,329/41.0,329 / 41.0,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test32-3,270/33.6,270/33.6,270 / 33.6,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test32-3,183/22.8,183/22.8,183 / 22.8,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test32-3,1090/136.4,1090/136.4,1090 / 136.4,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test32-3,706/88.4,706/88.4,706 / 88.4,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test32-3,758/94.9,758/94.9,758 / 94.9,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test32-3,456/57.1,456/57.1,456 / 57.1,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test32-3,188/23.5,188/23.5,188 / 23.5,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test32-3,974/121.3,974/121.3,974 / 121.3,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test32-3,589/73.3,589/73.3,589 / 73.3,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test32-3,522/65.0,522/65.0,522 / 65.0,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test32-3,445/55.4,445/55.4,445 / 55.4,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test32-3,213/26.5,213/26.5,213 / 26.5,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test32-3,296/33.4,296/33.4,296 / 33.4,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test32-3,193/21.8,193/21.8,193 / 21.8,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test32-3,169/19.1,169/19.1,169 / 19.1,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test32-3,145/16.4,145/16.4,145 / 16.4,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test32-3,115/13.0,115/13.0,115 / 13.0,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test32-3,663/64.4,663/64.4,663 / 64.4,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test32-3,437/42.4,437/42.4,437 / 42.4,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test32-3,424/41.2,424/41.2,424 / 41.2,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test32-3,397/38.5,397/38.5,397 / 38.5,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test32-3,388/37.7,388/37.7,388 / 37.7,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test33-2,a=0.5152,"a = 0.5152, b = 0.5208, c = 0.5320 [42]",a=0.5152,text,other semantic,other semantic,correct
+kenny,MatSci,MatSci::test33-2,a=2.0351,"a = 2.0351, b = 0.3801, c = 1.1882 [41]",a=2.0351,text,other semantic,other semantic,correct
+kenny,MatSci,MatSci::test33-2,a=1.2157,"a = 1.2157, b = 0.3736, c = 0.6490 [43]",a=1.2157,text,other semantic,other semantic,correct
+kenny,MatSci,MatSci::test33-2,+,-,+,text,other semantic,other semantic,correct
+kenny,MatSci,MatSci::test33-2,+,-,+,text,other semantic,other semantic,correct
+kenny,MatSci,MatSci::test33-2,+,-,+,text,other semantic,other semantic,correct
+kenny,MatSci,MatSci::test33-2,+,-,+,text,other semantic,other semantic,correct
+kenny,MatSci,MatSci::test33-2,-,,-,text,missing cell,missing cell,correct
+kenny,MatSci,MatSci::test33-2,-,,-,text,missing cell,missing cell,correct
+kenny,MatSci,MatSci::test33-2,-,,-,text,missing cell,missing cell,correct
+kenny,MatSci,MatSci::test33-2,+,,+,text,missing cell,missing cell,correct
+kenny,MatSci,MatSci::test33-2,+,,+,text,missing cell,missing cell,correct
+kenny,MatSci,MatSci::test33-2,+,,+,text,missing cell,missing cell,correct
+kenny,MatSci,MatSci::test33-3,600 °c,600 °c,,vision,missing cell,correct,missing cell
+kenny,MatSci,MatSci::test33-3,14.1,14.1,600 °c,vision,other semantic,correct,other semantic
+kenny,MatSci,MatSci::test33-3,12.7,12.7,14.1,vision,numeric value,correct,numeric value
+kenny,MatSci,MatSci::test33-3,12.8,12.8,12.7,vision,numeric value,correct,numeric value
+kenny,MatSci,MatSci::test33-3,14.7,14.7,12.8,vision,numeric value,correct,numeric value
+kenny,MatSci,MatSci::test33-3,1.1,1.1,14.7,vision,numeric value,correct,numeric value
+kenny,MatSci,MatSci::test33-3,44.6,44.6,1.1,vision,numeric value,correct,numeric value
+kenny,MatSci,MatSci::test33-3,800 °c,800 °c,,vision,missing cell,correct,missing cell
+kenny,MatSci,MatSci::test33-3,15.9,15.9,800 °c,vision,other semantic,correct,other semantic
+kenny,MatSci,MatSci::test33-3,11.0,11.0,15.9,vision,numeric value,correct,numeric value
+kenny,MatSci,MatSci::test33-3,9.7,9.7,11.0,vision,numeric value,correct,numeric value
+kenny,MatSci,MatSci::test33-3,23.1,23.1,9.7,vision,numeric value,correct,numeric value
+kenny,MatSci,MatSci::test33-3,1.2,1.2,23.1,vision,numeric value,correct,numeric value
+kenny,MatSci,MatSci::test33-3,39.1,39.1,1.2,vision,numeric value,correct,numeric value
+kenny,MatSci,MatSci::test33-3,600 °c,600 °c,,vision,missing cell,correct,missing cell
+kenny,MatSci,MatSci::test33-3,3.6,3.6,600 °c,vision,other semantic,correct,other semantic
+kenny,MatSci,MatSci::test33-3,4.4,4.4,3.6,vision,numeric value,correct,numeric value
+kenny,MatSci,MatSci::test33-3,4.6,4.6,4.4,vision,numeric value,correct,numeric value
+kenny,MatSci,MatSci::test33-3,27.9,27.9,4.6,vision,numeric value,correct,numeric value
+kenny,MatSci,MatSci::test33-3,0.6,0.6,27.9,vision,numeric value,correct,numeric value
+kenny,MatSci,MatSci::test33-3,58.9,58.9,0.6,vision,numeric value,correct,numeric value
+kenny,MatSci,MatSci::test33-3,800 °c,800 °c,,vision,missing cell,correct,missing cell
+kenny,MatSci,MatSci::test33-3,13.7,13.7,800 °c,vision,other semantic,correct,other semantic
+kenny,MatSci,MatSci::test33-3,12.8,12.8,13.7,vision,numeric value,correct,numeric value
+kenny,MatSci,MatSci::test33-3,17.1,17.1,12.8,vision,numeric value,correct,numeric value
+kenny,MatSci,MatSci::test33-3,12.2,12.2,17.1,vision,numeric value,correct,numeric value
+kenny,MatSci,MatSci::test33-3,1.0,1.0,12.2,vision,numeric value,correct,numeric value
+kenny,MatSci,MatSci::test33-3,43.2,43.2,1.0,vision,numeric value,correct,numeric value
+kenny,MatSci,MatSci::test33-4,600 °c,600 °c,600°c,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test33-4,700 °c,700 °c,700°c,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test33-4,800 °c,800 °c,800°c,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test33-4,alnbtivzr0.25,alnbtivzr0.25,alnbtivzr_{0.25},vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test33-4,1.3 1,1.3 1,1.3^{1},vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test33-4,5.6 1,5.6 1,5.6^{1},vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test33-4,8.8 1,8.8 1,8.8^{1},vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test33-4,al0.3tizrnbhfta,al0.3tizrnbhfta,al_{0.3} tizrnbhfta,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test33-4,al0.5tizrnbhfta,al0.5tizrnbhfta,al_{0.5} tizrnbhfta,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test33-4,14,14,14.,vision,truncation / merge,correct,truncation / merge
+kenny,MatSci,MatSci::test33-4,al0.75tizrnbhfta,al0.75tizrnbhfta,al_{0.75} tizrnbhfta,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test33-4,al9.2cr5.7hf0.5mo1.3nb47.0ti25.9v9.6w0.8,al9.2cr5.7hf0.5mo1.3nb47.0ti25.9v9.6w0.8,al_{9.2} cr_{5.7} hf_{0.5} mo_{1.3} nb_{47.0} ti_{25.9} v_{9.6} w_{0.8},vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test33-4,20 1,20 1,20^{1},vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test33-4,~4.5,~4.5,~ 4.5,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test33-4,~3,~3,~ 3,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test33-4,26.1 2,26.1 2,26.1^{2},vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test33-4,6.7 3,6.7 3,6.7^{3},vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test33-4,92.3 3,92.3 3,92.3^{3},vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test38-1,nbmotial*,nbmotial*,nbmotialᵃ,vision,other semantic,correct,other semantic
+kenny,MatSci,MatSci::test38-3,mo,cr,mo,text,other semantic,other semantic,correct
+kenny,MatSci,MatSci::test38-3,cr,ti,cr,text,other semantic,other semantic,correct
+kenny,MatSci,MatSci::test38-3,ti,al,ti,text,other semantic,other semantic,correct
+kenny,MatSci,MatSci::test38-3,0.5,0.5,,vision,missing cell,correct,missing cell
+kenny,MatSci,MatSci::test38-3,0,0,,vision,missing cell,correct,missing cell
+kenny,MatSci,MatSci::test38-3,0,0,,vision,missing cell,correct,missing cell
+kenny,MatSci,MatSci::test38-3,0,0,,vision,missing cell,correct,missing cell
+kenny,MatSci,MatSci::test38-3,0.5,0.5,,vision,missing cell,correct,missing cell
+kenny,MatSci,MatSci::test38-3,✓,"◆ (mo,ti)(cr,al)",✓,text,other semantic,other semantic,correct
+kenny,MatSci,MatSci::test38-3,0.5,0,0.5,text,truncation / merge,truncation / merge,correct
+kenny,MatSci,MatSci::test38-3,0,0.5,0,text,truncation / merge,truncation / merge,correct
+kenny,MatSci,MatSci::test38-3,0.5,0,0.5,text,truncation / merge,truncation / merge,correct
+kenny,MatSci,MatSci::test38-3,✓,"◆ (mo,al)(cr,ti)",✓,text,other semantic,other semantic,correct
+kenny,MatSci,MatSci::test38-3,0.5,0,0.5,text,truncation / merge,truncation / merge,correct
+kenny,MatSci,MatSci::test38-3,0,0.5,0,text,truncation / merge,truncation / merge,correct
+kenny,MatSci,MatSci::test38-3,0.125,0.125,0,vision,truncation / merge,correct,truncation / merge
+kenny,MatSci,MatSci::test38-3,0.375,0.375,0.5,vision,numeric value,correct,numeric value
+kenny,MatSci,MatSci::test38-3,0.25,0.25,0.375,vision,numeric value,correct,numeric value
+kenny,MatSci,MatSci::test38-3,0.25,0.25,0.125,vision,numeric value,correct,numeric value
+kenny,MatSci,MatSci::test38-3,0.25,0.25,0.125,vision,numeric value,correct,numeric value
+kenny,MatSci,MatSci::test38-3,0.25,0.25,0.375,vision,numeric value,correct,numeric value
+kenny,MatSci,MatSci::test38-3,0.25,0.25,0.125,vision,numeric value,correct,numeric value
+kenny,MatSci,MatSci::test38-3,0.25,0.25,0.375,vision,numeric value,correct,numeric value
+kenny,MatSci,MatSci::test38-3,0.25,0.25,0.375,vision,numeric value,correct,numeric value
+kenny,MatSci,MatSci::test38-3,30.99,0,30.99,text,truncation / merge,truncation / merge,correct
+kenny,MatSci,MatSci::test39-2,phases after 1400°c annealing,phases after 1400 °c annealing,phases after 1400°c annealing,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test39-2,phases after 55% compression at 1000°c,phases after 55% compression at 1000 °c,phases after 55% compression at 1000°c,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test39-2,"bcc, a=340.1 pm","bcc, a = 340.1 pm","bcc, a=340.1 pm",text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test39-2,"bcc, a=340.0 pm","bcc, a = 340.0 pm","bcc, a=340.0 pm",text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test39-2,"bcc, a=332.5 pm","bcc, a = 332.5 pm","bcc, a=332.5 pm",text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test39-2,"bcc1, a=335.4 pm","bcc1, a = 335.4 pm bcc2, a = 331.8 pm bcc3, a = 323.9 pm","bcc1, a=335.4 pm",text,other semantic,other semantic,correct
+kenny,MatSci,MatSci::test39-2,,nbtizrvmo,,text,empty content,empty content,correct
+kenny,MatSci,MatSci::test39-2,,"bcc1, a = 326.0 pm laves c15, a = 757.5 pm bcc2, a = 342.4 pm",,text,empty content,empty content,correct
+kenny,MatSci,MatSci::test39-2,"bcc2, a=331.8 pm","bcc1, a = 324.3 pm laves c15, a = 757.1 pm bcc2, a = 340.2 pm","bcc2, a=331.8 pm",text,other semantic,other semantic,correct
+kenny,MatSci,MatSci::test39-2,,"bcc, a = 330.7 pm",,text,empty content,empty content,correct
+kenny,MatSci,MatSci::test39-2,"bcc3, a=323.9 pm","bcc1, a = 327.7 pm bcc2, a = 350.7 pm","bcc3, a=323.9 pm",text,other semantic,other semantic,correct
+kenny,MatSci,MatSci::test39-2,"bcc1, a=326.0 pm","bcc, a = 330.1 pm laves c15, a = 730.8 pm","bcc1, a=326.0 pm",text,other semantic,other semantic,correct
+kenny,MatSci,MatSci::test39-2,"bcc1, a=324.3 pm","bcc, a = 330.3 pm laves c15, a = 730.4 pm","bcc1, a=324.3 pm",text,other semantic,other semantic,correct
+kenny,MatSci,MatSci::test39-2,,nbtizrval0.24,,text,empty content,empty content,correct
+kenny,MatSci,MatSci::test39-2,"laves c15, a=757.5 pm","bcc, a = 331.9 pm laves c14, a = 535.6 pm, c = 872.4 pm","laves c15, a=757.5 pm",text,other semantic,other semantic,correct
+kenny,MatSci,MatSci::test39-2,"laves c15, a=757.1 pm","bcc, a = 330.4 pm laves c14, a = 536.0 pm, c = 872.5 pm","laves c15, a=757.1 pm",text,other semantic,other semantic,correct
+kenny,MatSci,MatSci::test39-2,,,,text,missing cell,missing cell,correct
+kenny,MatSci,MatSci::test39-2,"bcc2, a=342.4 pm",,"bcc2, a=342.4 pm",text,missing cell,missing cell,correct
+kenny,MatSci,MatSci::test39-2,"bcc2, a=340.2 pm",,"bcc2, a=340.2 pm",text,missing cell,missing cell,correct
+kenny,MatSci,MatSci::test39-2,nbtizrvta,,nbtizrvta,text,missing cell,missing cell,correct
+kenny,MatSci,MatSci::test39-2,"bcc, a=330.7 pm",,"bcc, a=330.7 pm",text,missing cell,missing cell,correct
+kenny,MatSci,MatSci::test39-2,"bcc1, a=327.7 pm",,"bcc1, a=327.7 pm",text,missing cell,missing cell,correct
+kenny,MatSci,MatSci::test39-2,,,,text,missing cell,missing cell,correct
+kenny,MatSci,MatSci::test39-2,,,,text,missing cell,missing cell,correct
+kenny,MatSci,MatSci::test39-2,"bcc2, a=350.7 pm",,"bcc2, a=350.7 pm",text,missing cell,missing cell,correct
+kenny,MatSci,MatSci::test39-2,nbtizrvcr,,nbtizrvcr,text,missing cell,missing cell,correct
+kenny,MatSci,MatSci::test39-2,"bcc, a=330.1 pm",,"bcc, a=330.1 pm",text,missing cell,missing cell,correct
+kenny,MatSci,MatSci::test39-2,"bcc, a=330.3 pm",,"bcc, a=330.3 pm",text,missing cell,missing cell,correct
+kenny,MatSci,MatSci::test39-2,,,,text,missing cell,missing cell,correct
+kenny,MatSci,MatSci::test39-2,"bcc, a=331.9 pm",,"bcc, a=331.9 pm",text,missing cell,missing cell,correct
+kenny,MatSci,MatSci::test39-2,"bcc, a=330.4 pm",,"bcc, a=330.4 pm",text,missing cell,missing cell,correct
+kenny,MatSci,MatSci::test39-2,,,,text,missing cell,missing cell,correct
+kenny,MatSci,MatSci::test39-2,"laves c14, a=535.6 pm, c=872.4 pm",,"laves c14, a=535.6 pm, c=872.4 pm",text,missing cell,missing cell,correct
+kenny,MatSci,MatSci::test39-2,"laves c14, a=536.0 pm, c=872.5 pm",,"laves c14, a=536.0 pm, c=872.5 pm",text,missing cell,missing cell,correct
+kenny,MatSci,MatSci::test39-7,nbtizr,nbtizr,,vision,empty content,correct,empty content
+kenny,MatSci,MatSci::test39-7,nbtizrv,nbtizrv,notizr,vision,other semantic,correct,other semantic
+kenny,MatSci,MatSci::test47-2,"lattice parameter, a","lattice parameter, a",,vision,missing cell,correct,missing cell
+kenny,MatSci,MatSci::test50-5,nnz1,nmz1,nnz1,text,other semantic,other semantic,correct
+kenny,MatSci,MatSci::test50-5,nnz2,nmz2,nnz2,text,other semantic,other semantic,correct
+kenny,MatSci,MatSci::test50-5,nnz3,nmz3,nnz3,text,other semantic,other semantic,correct
+kenny,MatSci,MatSci::test50-5,nnz4,nmz4,nnz4,text,other semantic,other semantic,correct
+kenny,MatSci,MatSci::test50-5,nnz5,nmz5,nnz5,text,other semantic,other semantic,correct
+kenny,MatSci,MatSci::test54-1,atomic radii (å),atomic radii (a),atomic radii (å),text,other semantic,other semantic,correct
+kenny,MatSci,MatSci::test56-1,atomic radius (å),atomic radius (å),atomic radius (°a),vision,other semantic,correct,other semantic
+kenny,MatSci,MatSci::test56-1,standard lattice parameter (å),standard lattice parameter (å),standard lattice parameter (°a),vision,other semantic,correct,other semantic
+kenny,MatSci,MatSci::test56-1,,density (g.cm-3),,text,empty content,empty content,correct
+kenny,MatSci,MatSci::test56-1,,2.70,,text,empty content,empty content,correct
+kenny,MatSci,MatSci::test56-1,,8.96,,text,empty content,empty content,correct
+kenny,MatSci,MatSci::test56-1,,7.87,,text,empty content,empty content,correct
+kenny,MatSci,MatSci::test56-1,,7.40,,text,empty content,empty content,correct
+kenny,MatSci,MatSci::test56-1,7.40,10-36,7.40,text,other semantic,other semantic,correct
+kenny,MatSci,MatSci::test56-1,1.74,10-13,1.74,text,other semantic,other semantic,correct
+kenny,MatSci,MatSci::test56-3,compressive strength,,compressive strength,text,missing cell,missing cell,correct
+kenny,MatSci,MatSci::test56-3,99.80 %,99.80%,99.80 %,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test64-2,grain size (μm),grain size (μm),grain size (μ m),vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test64-2,al_{0.75}crtimo,al0.75crtimo,al_{0.75}crtimo,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test64-2,al_{0.5}crtimo,al0.5crtimo,al_{0.5}crtimo,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test64-2,al_{0.25}crtimo,al0.25crtimo,al_{0.25}crtimo,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test75-1,ti_{1.5}zrvnb,ti1.5zrvnb,ti_{1.5}zrvnb,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test75-1,ti_{2}zrvnb,ti2zrvnb,ti_{2}zrvnb,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test75-4,600°c,600°c,600° c,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test75-4,800°c,800°c,800° c,vision,symbolic,correct,symbolic
+kenny,MatSci,MatSci::test78-2,-824,- 824,-824,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test78-2,-785,- 785,-785,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test78-2,-693,- 693,-693,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test78-2,-1106,- 1106,-1106,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test78-2,-846,- 846,-846,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test80-1,md (ev),md (ev),md̄ (ev),vision,other semantic,correct,other semantic
+kenny,MatSci,MatSci::test82-2,1.0,1.0,0.0,vision,numeric value,correct,numeric value
+kenny,MatSci,MatSci::test95-1,,,,text,missing cell,missing cell,correct
+kenny,MatSci,MatSci::test95-1,overall at.% eds mapping data,,overall at.% eds mapping data,text,missing cell,missing cell,correct
+kenny,MatSci,MatSci::test95-1,,,,text,missing cell,missing cell,correct
+kenny,MatSci,MatSci::test95-1,,v/(ta+v),,text,empty content,empty content,correct
+kenny,MatSci,MatSci::test95-1,,mo,,text,empty content,empty content,correct
+kenny,MatSci,MatSci::test95-1,mo,ta,mo,text,other semantic,other semantic,correct
+kenny,MatSci,MatSci::test95-1,ta,nb,ta,text,other semantic,other semantic,correct
+kenny,MatSci,MatSci::test95-1,nb,v,nb,text,other semantic,other semantic,correct
+kenny,MatSci,MatSci::test95-1,v,ti,v,text,other semantic,other semantic,correct
+kenny,MatSci,MatSci::test95-1,ti,,ti,text,empty content,empty content,correct
+kenny,MatSci,MatSci::test95-1,,,,text,missing cell,missing cell,correct
+kenny,MatSci,MatSci::test95-1,26.96 ± 0.17,26.96±0.17,26.96 ± 0.17,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test95-1,22.27 ± 0.28,22.27±0.28,22.27 ± 0.28,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test95-1,22.33 ± 0.19,22.33±0.19,22.33 ± 0.19,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test95-1,17.28 ± 0.27,17.28±0.27,17.28 ± 0.27,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test95-1,11.16 ± 0.17,11.16±0.17,11.16 ± 0.17,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test95-1,26.69 ± 0.26,26.69±0.26,26.69 ± 0.26,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test95-1,18.66 ± 0.29,18.66±0.29,18.66 ± 0.29,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test95-1,22.76 ± 0.26,22.76±0.26,22.76 ± 0.26,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test95-1,20.14 ± 0.16,20.14±0.16,20.14 ± 0.16,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test95-1,11.76 ± 0.15,11.76±0.15,11.76 ± 0.15,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test95-1,27.22 ± 0.27,27.22±0.27,27.22 ± 0.27,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test95-1,11.29 ± 0.19,11.29±0.19,11.29 ± 0.19,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test95-1,26.04 ± 0.23,26.04±0.23,26.04 ± 0.23,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test95-1,22.16 ± 0.25,22.16±0.25,22.16 ± 0.25,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test95-1,13.31 ± 0.26,13.31±0.26,13.31 ± 0.26,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test95-1,24.39 ± 0.15,24.39±0.15,24.39 ± 0.15,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test95-1,4.60 ± 0.14,4.60±0.14,4.60 ± 0.14,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test95-1,24.75 ± 0.26,24.75±0.26,24.75 ± 0.26,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test95-1,24.92 ± 0.12,24.92±0.12,24.92 ± 0.12,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test95-1,21.35 ± 0.19,21.35±0.19,21.35 ± 0.19,text,symbolic,symbolic,correct
+kenny,MatSci,MatSci::test95-3,hrc,hrc,rrc,vision,other semantic,correct,other semantic
+kenny,MatSci,MatSci::test95-3,hrc,hrc,,vision,missing cell,correct,missing cell
+kenny,MatSci,MatSci::test95-5,ta1.0,ta1.0,ta₁₀,vision,other semantic,correct,other semantic
+kenny,MatSci,MatSci::test95-5,ta0.75,ta0.75,ta₀₇₅,vision,other semantic,correct,other semantic
+kenny,MatSci,MatSci::test95-5,ta0.50,ta0.50,ta₀₅₀,vision,other semantic,correct,other semantic
+kenny,MatSci,MatSci::test95-5,ta0.25,ta0.25,ta₀₂₅,vision,other semantic,correct,other semantic
