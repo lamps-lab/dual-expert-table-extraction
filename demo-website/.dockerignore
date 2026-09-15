@@ -1,0 +1,32 @@
+# Build + dependency output — reinstalled/rebuilt inside the image
+node_modules
+.next
+out
+build
+dist
+
+# Version control / editor / OS noise
+.git
+.gitignore
+.vscode
+.idea
+.DS_Store
+
+# Logs and local env
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.env
+.env.*
+!.env.example
+
+# Docker + docs, not needed by the build
+Dockerfile
+.dockerignore
+docker-compose.yml
+README.md
+
+# Deployment scaffolding
+k8s

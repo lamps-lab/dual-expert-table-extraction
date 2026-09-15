@@ -1,0 +1,74 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-geist-mono), ui-monospace, SFMono-Regular, monospace;
+
+  --color-ink-950: #0b1020;
+  --color-ink-900: #111827;
+  --color-ink-700: #334155;
+  --color-ink-500: #64748b;
+  --color-ink-300: #cbd5e1;
+  --color-ink-200: #e2e8f0;
+  --color-ink-100: #f1f5f9;
+  --color-ink-50: #f8fafc;
+
+  --color-brand-700: #3730a3;
+  --color-brand-600: #4338ca;
+  --color-brand-500: #6366f1;
+  --color-brand-100: #e0e7ff;
+  --color-brand-50: #eef2ff;
+
+  /* modality accents: vision = violet, text = teal, router = amber */
+  --color-vision: #7c3aed;
+  --color-vision-soft: #f3e8ff;
+  --color-textexp: #0f766e;
+  --color-textexp-soft: #ccfbf1;
+  --color-router: #b45309;
+  --color-router-soft: #fef3c7;
+  --color-oracle: #0369a1;
+  --color-oracle-soft: #e0f2fe;
+
+  /* Chart series — validated as a categorical set against a light surface
+     (lightness band, chroma floor, CVD separation, normal-vision floor, 3:1 contrast). */
+  --color-series-vision: #7c3aed;
+  --color-series-text: #0d9488;
+  --color-series-router: #b45309;
+  --color-series-oracle: #2a78d6;
+}
+
+:root {
+  --background: #ffffff;
+  --foreground: #0b1020;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 5rem;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Subtle academic grid backdrop used behind hero sections */
+.grid-backdrop {
+  background-image:
+    linear-gradient(to right, rgba(15, 23, 42, 0.045) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(15, 23, 42, 0.045) 1px, transparent 1px);
+  background-size: 44px 44px;
+  mask-image: radial-gradient(ellipse 80% 60% at 50% 0%, #000 40%, transparent 100%);
+}
+
+.rule-heading {
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.02em;
+}
+
+table.num-table {
+  font-variant-numeric: tabular-nums;
+}
