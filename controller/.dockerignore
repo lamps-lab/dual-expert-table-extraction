@@ -1,0 +1,7 @@
+__pycache__/
+test_*.py
+.venv/
+
+./job-controller.yaml
+./job-spawner-rbac.yaml
+./redis.yaml

@@ -1,0 +1,39 @@
+{
+  "dataset": "A25",
+  "family": "Random Forest",
+  "params": {
+    "clf__n_estimators": 300,
+    "clf__max_depth": 6
+  },
+  "selected_by": "pin",
+  "refit_on": "train",
+  "n_fit_rows": 982,
+  "val_acc": 0.8053316902719692,
+  "test_metrics": {
+    "set": "test",
+    "method": "Random Forest",
+    "averaging": "table-average",
+    "tables": 39.0,
+    "cells": 1692.0,
+    "Vision acc %": 78.22,
+    "Text acc %": 83.14,
+    "Best single %": 83.14,
+    "Router acc %": 85.52,
+    "Oracle acc %": 91.23,
+    "Gain over best single pp": 2.38,
+    "Oracle gap pp": 8.09,
+    "Gap closed %": 29.39
+  },
+  "vision_pred_root": "data/outputs/vision_expert_gemma4_run",
+  "text_pred_root": "data/outputs/text_expert_gemma4_run",
+  "alignment": {
+    "MIN_IOU": 0.9,
+    "MATCH_TEXT_WEIGHT": 0.5,
+    "LEV_THRESHOLD": 1.0
+  },
+  "random_state": 27,
+  "sklearn_version": "1.8.0",
+  "numpy_version": "2.4.4",
+  "python_version": "3.12.9",
+  "exported_at": "2026-09-08T19:02:44+00:00"
+}

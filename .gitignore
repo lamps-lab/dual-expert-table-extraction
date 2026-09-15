@@ -3,3 +3,54 @@ SciTSR
 A25
 outputs
 data
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+demo-website/node_modules
+demo-website/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+demo-websitedemo-website/coverage
+
+# next.js
+demo-website/.next/
+demo-website/out/
+
+# production
+demo-websitedemo-website//build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files (can opt-in for committing if needed)
+demo-websitedemo-website/.env*
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+/demo-website/deployment.yaml
+/demo-website/docker-compose.yaml
+/controller/job-controller.yaml
+/controller/job-spawner-rbac.yaml
+/controller/redis.yaml
+
+/*/__pycache__
+/*/.venv

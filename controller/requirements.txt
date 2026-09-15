@@ -1,0 +1,2 @@
+kubernetes>=32,<35
+redis>=5,<7
