@@ -1,7 +1,7 @@
 .venv/
 __pycache__/
 *.pyc
-artifacts/
 .env*
+!.env
 
 .venv/*

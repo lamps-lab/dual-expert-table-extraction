@@ -18,8 +18,13 @@ export async function POST(request) {
     return Response.json({ error: "Image must be between 1 byte and 8 MB." }, { status: 400 });
   }
 
+  const kind = form.get("kind") || "extraction";
+  if (!["extraction", "startup_test"].includes(kind)) {
+    return Response.json({ error: "Choose table extraction or a GPU startup test." }, { status: 400 });
+  }
+
   try {
-    const job = await createJob(image);
+    const job = await createJob(image, kind);
     return Response.json({ jobId: job.id }, { status: 201 });
   } catch (error) {
     console.error("Could not create job:", error);

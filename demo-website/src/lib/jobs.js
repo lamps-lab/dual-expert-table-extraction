@@ -22,10 +22,11 @@ async function redis() {
   return globalThis.tableDemoRedis;
 }
 
-export async function createJob(image) {
+export async function createJob(image, kind = "extraction") {
+  if (!["extraction", "startup_test"].includes(kind)) throw new Error("Unsupported job kind.");
   const client = await redis();
   const job = {
-    id: randomUUID(), filename: image.name, contentType: image.type, state: "queued",
+    id: randomUUID(), filename: image.name, contentType: image.type, state: "queued", kind,
   };
   await client.multi()
     .set(jobKey(job.id), JSON.stringify(job))

@@ -22,6 +22,7 @@ demo-websitedemo-website/coverage
 # next.js
 demo-website/.next/
 demo-website/out/
+server/.env
 
 # production
 demo-websitedemo-website//build

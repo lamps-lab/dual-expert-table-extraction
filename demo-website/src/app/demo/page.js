@@ -6,7 +6,7 @@ import { Section, Card, Note } from "@/components/ui";
 export const metadata = {
   title: "Live Demo",
   description:
-    "Explore real A25 tables cell by cell: the rendered image, the vision expert's reading, the text expert's reading, where they disagree, and the merged output.",
+    "Extract table images into structured JSON and HTML tables, then explore the vision and text experts on A25 benchmark examples.",
 };
 
 export default function DemoPage() {
@@ -18,38 +18,41 @@ export default function DemoPage() {
             Interactive demo
           </p>
           <h1 className="rule-heading mt-3 max-w-3xl text-[34px] font-semibold leading-tight text-ink-950 sm:text-[42px]">
-            Watch two experts disagree, cell by cell
+            Extract a table from your image
           </h1>
           <p className="mt-5 max-w-2xl text-[15.5px] leading-relaxed text-ink-700">
-            Each example below is a real table from the A25 benchmark, with the
-            actual cell predictions from a Gemma 4 vision expert and a Gemma 4
-            text expert, scored against the human ground-truth annotation. Click
-            any cell to inspect the two readings side by side.
+            Upload a cropped table image. Nougat reads its text, the vision and
+            text experts extract its cells, and the trained router combines
+            their predictions into a table you can review and download as JSON.
           </p>
         </div>
       </div>
 
       <Section className="py-10 sm:py-14">
-        <DemoExplorer samples={samples} />
+        <Card>
+          <h2 className="text-[18px] font-semibold tracking-tight text-ink-950">
+            Run it on your own table
+          </h2>
+          <p className="mt-2.5 text-[13.5px] leading-relaxed text-ink-700">
+            Choose a clear PNG or JPG image with one table and follow its live
+            progress. The result includes an HTML table and the extracted JSON.
+          </p>
+          <UploadDemo />
+        </Card>
       </Section>
 
       <Section className="py-6 sm:py-10">
-        <div className="grid gap-4 md:grid-cols-2">
+        <h2 className="rule-heading text-[26px] font-semibold text-ink-950">Explore benchmark examples</h2>
+        <p className="mb-6 mt-3 max-w-3xl text-[14px] leading-relaxed text-ink-700">
+          These saved A25 examples compare the Gemma 4 vision and text experts
+          with human annotations. Select a cell to inspect both readings. Their
+          benchmark scores are separate from your live extraction above.
+        </p>
+        <DemoExplorer samples={samples} />
+        <div className="mt-6">
           <Card>
             <h2 className="text-[14.5px] font-semibold tracking-tight text-ink-950">
-              Run it on your own table
-            </h2>
-            <p className="mt-2.5 text-[13.5px] leading-relaxed text-ink-700">
-              Upload a cropped table image to start a GPU pod and watch live
-              progress. This checks the server is reachable; extraction is coming
-              later, and your image is retained.
-            </p>
-            <UploadDemo />
-          </Card>
-
-          <Card>
-            <h2 className="text-[14.5px] font-semibold tracking-tight text-ink-950">
-              How to read this demo
+              How to read the benchmark examples
             </h2>
             <ul className="mt-4 space-y-3 text-[13.5px] leading-relaxed text-ink-700">
               <li>
@@ -68,9 +71,9 @@ export default function DemoPage() {
               </li>
               <li>
                 <span className="font-semibold text-ink-950">Routed output</span>{" "}
-                &mdash; the merged table. In this static build the selection is
-                the oracle choice, standing in for the trained router until the
-                live inference service is connected.
+                &mdash; these saved examples use the oracle choice: the correct
+                expert wherever either was right. Your uploaded table uses the
+                trained router instead.
               </li>
             </ul>
             <Note>

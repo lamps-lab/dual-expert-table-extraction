@@ -4,6 +4,51 @@ This repo contains the code for our dual-expert table extraction research. We ha
 
 We run everything on two datasets: **A25** (tables from 4 domains: Biology, CompSci, ICDAR, MatSci) and **SciTSR** (tables from scientific papers).
 
+## Live upload demo
+
+The live demo connects image uploads to Nougat on a GPU, vision and text experts at `https://llm.cs.odu.edu/v1`, and the exported A25 Random Forest router. It returns structured table JSON and renders the extracted table in the frontend, including merged cells. Nougat and model failures are reported separately.
+
+The worker loads `server/.env` from its Docker image; use [the environment example](server/.env.example) for model settings. The controller forwards stored images to one shared GPU worker, processes uploads sequentially, and keeps the pod and loaded Nougat model ready for **five minutes after each run**. Each subsequent run resets that idle timer. The controller deletes the pod after the idle window, even when no new upload arrives. Set `GPU_IDLE_TIMEOUT_SECONDS` on the controller to change the default `300` seconds.
+
+During extraction, the progress bar follows real stage events: Nougat reading, vision and text extraction (each reports completion independently), cell alignment, and finalization. Elapsed time keeps updating while a stage runs. Progress reflects completed stages rather than an estimate of time remaining. The worker streams these events to the controller, which persists them for the frontend's reconnectable event stream; the existing JSON-only extraction API remains available.
+
+The **Test GPU startup** button checks CUDA initialization and a small GPU calculation. HTTP readiness (`/health`) is separate from CUDA diagnostics (`/diagnostics/gpu`). The worker image includes GKE's `/usr/local/nvidia/lib64` driver path so PyTorch can find `libcuda.so.1`. Worker failures are logged before cleanup; the frontend receives the error message or a successful table immediately.
+
+Use the gateway's served model ID, `gemma-4-31b`, in `LLM_MODEL`. The Hugging Face checkpoint name `google/gemma-4-31b-it` is not the ODU gateway ID and was rejected with HTTP 403. Expert failures log the HTTP status and configured model without logging credentials or provider response bodies.
+
+Run one controller replica with the `Recreate` deployment strategy. Its Redis worker record preserves the idle deadline across controller restarts. Idle cleanup depends on that controller being running. Rebuild and deploy the worker and controller together when changing their API; the worker image still embeds `.env` and the router artifact.
+
+### Rebuild and deploy the demo
+
+Run these commands from the repository root after updating `server/.env`:
+
+```sh
+TABLE_REGISTRY=us-central1-docker.pkg.dev/app-prana-odu/demo-app-dual-expert
+
+docker buildx build --platform linux/amd64 --push -t "$TABLE_REGISTRY/gpu-server:v1" ./server
+docker buildx build --platform linux/amd64 --push -t "$TABLE_REGISTRY/job-controller:v1" ./controller
+docker buildx build --platform linux/amd64 --push -t "$TABLE_REGISTRY/table-extraction-demo:latest" ./demo-website
+
+kubectl -n default apply -f controller/job-spawner-rbac.yaml
+kubectl -n default apply -f controller/job-controller.yaml
+kubectl -n default apply -f demo-website/deployment.yaml
+kubectl -n default rollout restart deployment/job-controller deployment/table-extraction-demo
+kubectl -n default rollout status deployment/job-controller --timeout=10m
+kubectl -n default rollout status deployment/table-extraction-demo --timeout=10m
+
+node scripts/demo-proxy.mjs
+```
+
+The controller and GPU worker always pull their configured image. When using the same mutable tag for a later GPU rebuild, allow the current worker's five-minute idle window to expire so the next run creates a pod using the new image. View progress and retained failure diagnostics with `kubectl -n default logs -f deployment/job-controller`.
+
+### Open the deployed demo locally
+
+From the repository root, run `node scripts/demo-proxy.mjs`, then open **http://127.0.0.1:3000/demo**. Keep that terminal open; Ctrl+C stops the helper and its child `kubectl proxy`. Stop any existing port-forward on port 3000 first, or choose another local port with `node scripts/demo-proxy.mjs 3001`. Node and an authenticated `kubectl` are the only requirements; no npm install, image rebuild, or deployment update is needed.
+
+The helper uses the [Kubernetes HTTP service proxy](https://kubernetes.io/docs/tasks/access-application-cluster/access-cluster-services/) to reach the existing `default/table-extraction-demo` service. It restores normal website URLs after Kubernetes' HTML URL rewriting and streams uploads and progress events. It binds only to your computer's loopback address and uses your current kubectl context.
+
+This provides an alternative when `kubectl port-forward` exits with `broken pipe` followed by `lost connection to pod`. A dead local tunnel produces `Failed to fetch` even while the frontend pod is healthy; similar connection-reset handling is tracked in [containerd #9875](https://github.com/containerd/containerd/issues/9875). A failed upload is not retried automatically because its response may have been lost after the job was accepted.
+
 ## The Data (`data.zip`)
 
 Everything you need to run the notebooks is inside **`data.zip`**. It contains:
